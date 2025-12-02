@@ -27,8 +27,7 @@ export class Notes extends foundry.applications.api.HandlebarsApplicationMixin(f
 
     _onRender(context, options) {
         super._onRender(context, options);
-        
-        // Attach event listeners
+    
         this.element.querySelector('.clear')?.addEventListener('click', () => {
             game.settings.set(MODULE_ID, "show-warning", false);
             this.close();
