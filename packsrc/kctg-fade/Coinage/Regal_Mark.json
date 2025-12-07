@@ -1,0 +1,40 @@
+{
+  "name": "Regal Mark",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Regal%20Mark.webp",
+  "system": {
+    "description": {
+      "value": "<p>When a king ascends to the throne, whether by succession, conquest, or assassination, a unique medallion coin is forged for them. This gold medallion features a dark-red diamond at its center, serving as a commemoration of the event and a means of quick identification if the king ever needs to blend in with their subjects. As each medallion is unique and only a limited number exist in circulation, some have the buying power to purchase anything on an entire continent.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 0,
+    "price": {
+      "value": 1000,
+      "denomination": "pp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "HbFNnaCa2Bu4s3ht",
+  "sort": 118750,
+  "_id": "Nhgm7MSyEdkIywTy",
+  "_originalKey": "!items!Nhgm7MSyEdkIywTy"
+}

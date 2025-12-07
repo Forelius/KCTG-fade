@@ -1,0 +1,40 @@
+{
+  "name": "Maple Log",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Maple%20Log.webp",
+  "effects": [],
+  "folder": "LLvC7EvZacBUO0n8",
+  "sort": 2000000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "oJpeD1Qi8v6qRBLH",
+  "system": {
+    "description": {
+      "value": "<p>Maple trees are usually in high demand in the spice industry because of their sap, syrup, and sugar can be made.</p>\n<p> </p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 0,
+    "price": {
+      "value": 17,
+      "denomination": "cp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "ownership": {
+    "default": 0,
+    "FvHmsAdVJKNAy9eZ": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!oJpeD1Qi8v6qRBLH"
+}

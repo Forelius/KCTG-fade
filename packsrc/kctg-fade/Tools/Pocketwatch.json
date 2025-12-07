@@ -1,0 +1,54 @@
+{
+  "folder": "9z8F4GiWlXBk1DYI",
+  "name": "Pocketwatch",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Pocketwatch.webp",
+  "system": {
+    "description": {
+      "value": "<p>The pocket watches come in two different types. A hunter-case pocket watch is a case with a spring-hinged circular metal lid or cover, that closes over the watch-dial, protecting them from dust, scratches and other damage or debris while an open-faced is one in which the case lacks a metal cover to protect the front glass.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "hand-axe",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "ownership": {
+    "default": 0,
+    "233gPIEGs3GHtRh3": 3
+  },
+  "_id": "N9fXqrdiXXBYreot",
+  "sort": 950000,
+  "_originalKey": "!items!N9fXqrdiXXBYreot"
+}

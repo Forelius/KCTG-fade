@@ -1,0 +1,40 @@
+{
+  "name": "Oak Plank",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Oak%20Plank.webp",
+  "effects": [],
+  "folder": "LLvC7EvZacBUO0n8",
+  "sort": 2200000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "grTzfqyIPGG6snd0",
+  "system": {
+    "description": {
+      "value": "<p>An easy-to-work durable wood that is used with carpentry tools and is best to use when building furniture.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 14,
+    "price": {
+      "value": 25,
+      "denomination": "cp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "ownership": {
+    "default": 0,
+    "FvHmsAdVJKNAy9eZ": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!grTzfqyIPGG6snd0"
+}

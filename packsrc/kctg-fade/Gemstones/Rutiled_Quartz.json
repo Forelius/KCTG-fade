@@ -1,0 +1,55 @@
+{
+  "name": "Rutiled Quartz",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Rutilated%20Quartz.webp",
+  "system": {
+    "description": {
+      "value": "<p>Rutilated quartz is a variety of quartz that contains needle-like strikes within the gem. These inclusions may be distributed randomly or in bundles, which sometimes are arranged star-like, and they can be sparse or dense enough to make the quartz body nearly opaque. While in general inclusions often reduce the value of any other crystal, rutilated quartz is valued for the quality of these inclusions.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "rock-salt",
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "C3FNsGlq2Lf7wevT": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "_id": "qUyNtwZUvqbYcCHB",
+  "sort": 0,
+  "_originalKey": "!items!qUyNtwZUvqbYcCHB"
+}

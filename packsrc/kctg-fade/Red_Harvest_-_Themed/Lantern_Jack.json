@@ -1,0 +1,58 @@
+{
+  "folder": "ODTmZCF7DbiMcwhX",
+  "name": "Lantern Jack",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Latern%20Jack.webp",
+  "system": {
+    "description": {
+      "value": "<p>Ah, the Lantern Jack. No market cart nor tavern stoop feels quite right during Red Harvest without one grinning back at you. At its simplest, it’s just a hollowed pumpkin with eyes and a mouth carved in, a candle guttering inside. Yet there’s something more to them than vegetables and wax. Stand in a village square at dusk, the chill coming down, and those rows of leering faces look near alive, like a crowd watching you from the dark.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "chick",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "ownership": {
+    "default": 0,
+    "233gPIEGs3GHtRh3": 3
+  },
+  "sort": 150000,
+  "_id": "LHSikTElXDTATxdP",
+  "_originalKey": "!items!LHSikTElXDTATxdP"
+}

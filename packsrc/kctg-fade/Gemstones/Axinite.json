@@ -1,0 +1,52 @@
+{
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "name": "Axinite",
+  "type": "loot",
+  "_id": "VsGjkyVhtvUK1dRd",
+  "img": "modules/kctg-5e/images/Axinite.webp",
+  "system": {
+    "description": {
+      "value": "<p>Axinite gemstones have the misfortune of being brown, a color not in high demand for gemstones. Despite this, they are often used in rings because they can maintain a sharp edge and endure the rough and tumble of a tavern brawl. This has earned them the nickname \"knuckle stones\".</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 900000,
+  "ownership": {
+    "default": 0,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!VsGjkyVhtvUK1dRd"
+}

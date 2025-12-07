@@ -1,0 +1,151 @@
+{
+  "name": "Milk",
+  "type": "consumable",
+  "img": "modules/kctg-5e/images/milk.webp",
+  "system": {
+    "description": {
+      "value": "<p>Milk is a husbandry byproduct which usually comes from cows, goats, and sheep. It is a white, nutritious liquid often consumed as a beverage or used to make a variety of dairy products such as cheese, butter, and yogurt. Scholars believe it has magical properties that can strengthen bones to an ungodly degree.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 12,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "food",
+      "subtype": "food"
+    },
+    "identifier": "milk",
+    "activities": {
+      "o8GU9HFJIUSh98I2": {
+        "type": "utility",
+        "name": "Consume",
+        "_id": "o8GU9HFJIUSh98I2",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": null,
+          "override": false,
+          "condition": ""
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "material",
+              "value": "1",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false,
+          "units": "self",
+          "special": ""
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft",
+            "type": ""
+          },
+          "affects": {
+            "choice": false,
+            "type": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false,
+          "formula": "",
+          "name": ""
+        },
+        "img": "modules/kctg-5e/images/Activities/Consume.png"
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "autoDestroy": false,
+      "max": ""
+    },
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "damage": {
+      "base": {
+        "number": null,
+        "denomination": null,
+        "types": [],
+        "custom": {
+          "enabled": false
+        },
+        "scaling": {
+          "number": 1
+        }
+      },
+      "replace": false
+    },
+    "magicalBonus": null
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "C3FNsGlq2Lf7wevT": 3
+  },
+  "flags": {
+    "core": {},
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "yOWGA89yzYNJ180M",
+  "sort": 4600000,
+  "_id": "RdDVeEQ4w6GIpGhI",
+  "_originalKey": "!items!RdDVeEQ4w6GIpGhI"
+}

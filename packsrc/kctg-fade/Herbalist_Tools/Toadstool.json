@@ -1,0 +1,40 @@
+{
+  "name": "Toadstool",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Toadstool.webp",
+  "system": {
+    "description": {
+      "value": "<p>It usually has a dotted red cap and is assumed to be poisonous. If eaten it can cause serious illness and on occasion death. Harvested by gatherers and used by alchemists in creating poisons or antidotes.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 25,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "3fjwTQThfGz3b3g3": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "nneAAqmcEwOL9zrI",
+  "sort": 5500000,
+  "_id": "5ZzRWyo9osxFt9p7",
+  "_originalKey": "!items!5ZzRWyo9osxFt9p7"
+}

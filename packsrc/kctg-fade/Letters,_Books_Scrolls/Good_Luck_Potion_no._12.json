@@ -1,0 +1,65 @@
+{
+  "name": "Good Luck Potion no. 12",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Good%20Luck%20Potion%20no.%2012.webp",
+  "system": {
+    "description": {
+      "value": "<p>A potion recipe that supposedly makes one quite lucky with just one sip. While the actual effectiveness of the potion is debatable, the recipe has already undergone eleven different revisions. It's rather popular among the nobility. </p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "treasure",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "TFPwDODIpyRO0E0Q",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "UulCVWHBt8A9Cj5e",
+  "sort": 272657,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!UulCVWHBt8A9Cj5e"
+}

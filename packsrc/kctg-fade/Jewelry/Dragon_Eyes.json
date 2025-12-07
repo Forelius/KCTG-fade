@@ -1,0 +1,53 @@
+{
+  "name": "Dragon Eyes",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Dragon%27s%20Eyes.webp",
+  "effects": [],
+  "folder": "cIJKJ2rN2ZLnb881",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Dragon's Eyes are simple, yet gorgeous pieces of jewelry. These earrings are typically crafted as a pair that accompany a necklace and are bestowed exclusively upon royalty, traditionally during coronation ceremonies. The intricate craftsmanship required for these earrings is entrusted only to the most renowned gem cutters and jewelers. In the glint of the jewels, when light strikes them just so, some speculate that the watchful eye of an actual dragon might be glimpsed.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "sort": 103125,
+  "_id": "YRlsAhsh7eKw6D02",
+  "_originalKey": "!items!YRlsAhsh7eKw6D02"
+}

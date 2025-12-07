@@ -1,0 +1,40 @@
+{
+  "name": "Fir Lumber",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<p>The Fir Plank is a common and versatile building material, used throughout the realms for a wide variety of purposes. It is harvested from tall, straight fir trees that grow in the cool, misty forests of the northern lands. The wood is strong and durable, yet light and easy to work with.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 14,
+    "price": {
+      "value": 25,
+      "denomination": "cp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "img": "modules/kctg-5e/images/Fir%20Plank.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "LLvC7EvZacBUO0n8",
+  "sort": 1600000,
+  "_id": "z8yzAy5zv7OyZC3l",
+  "_originalKey": "!items!z8yzAy5zv7OyZC3l"
+}

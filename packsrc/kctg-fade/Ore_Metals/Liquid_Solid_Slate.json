@@ -1,0 +1,40 @@
+{
+  "name": "Liquid Solid Slate",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<p>Little is known about the process of liquefaction, however, when used as an alloy with another metal, it is said to be unbreakable. When struck by a weapon, an impenetrable shock-wave is created, pushing the weapon back. Due to its weight, it makes it difficult for people trying to move stealthily.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 350,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "img": "modules/kctg-5e/images/Liquid%20Solid%20Slate.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "rknvmXL7rtQgObfA",
+  "sort": 2300000,
+  "_id": "MIrJEwGLnL8xlIgv",
+  "_originalKey": "!items!MIrJEwGLnL8xlIgv"
+}

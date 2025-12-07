@@ -1,0 +1,50 @@
+{
+  "folder": "9z8F4GiWlXBk1DYI",
+  "name": "Paring Chisel",
+  "type": "loot",
+  "_id": "fvzVmJmW9C8Mvak3",
+  "img": "modules/kctg-5e/images/Paring%20Chisel.webp",
+  "system": {
+    "description": {
+      "value": "<p>Paring chisels, favored by most carpenters, are designed for delicately shaving thin slivers of wood. Their primary use is in carefully shaving off thin amounts of wood when fitting joints and the long length of these chisels provides carpenters with maximum control.</p><p></p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": ""
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 2,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 2200000,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!fvzVmJmW9C8Mvak3"
+}

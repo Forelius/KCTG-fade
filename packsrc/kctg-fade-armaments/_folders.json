@@ -1,0 +1,24 @@
+{
+  "!folders!QZPnXbHpm2yPfeUn": {
+    "type": "Item",
+    "folder": null,
+    "name": "Far North",
+    "color": null,
+    "sorting": "a",
+    "_id": "QZPnXbHpm2yPfeUn",
+    "description": "",
+    "sort": 100000,
+    "flags": {},
+    "_stats": {
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null,
+      "coreVersion": "13.351",
+      "systemId": "dnd5e",
+      "systemVersion": "5.1.10",
+      "createdTime": 1764639236618,
+      "modifiedTime": 1764639236677,
+      "lastModifiedBy": "HSSviIXZSSQdGVd0"
+    }
+  }
+}

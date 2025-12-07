@@ -1,0 +1,54 @@
+{
+  "name": "Grinder",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Grinder.webp",
+  "effects": [],
+  "folder": "bxQZu0dOpDO6ztac",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>A wooden contraption made with finely crafted and durable iron cogwheels is designed to reduce materials into a fine powder. A crank allows for easy operation. Though it originally served as an alternative to the traditional mortar and pestle, it is now primarily used by taverns to quickly grind dried pepper.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gear",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "GAHq62hKk621eEfi",
+  "sort": 2725000,
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_originalKey": "!items!GAHq62hKk621eEfi"
+}

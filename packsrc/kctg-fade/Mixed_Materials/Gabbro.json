@@ -1,0 +1,55 @@
+{
+  "name": "Gabbro",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Gabbro.webp",
+  "system": {
+    "description": {
+      "value": "<p>Gabbro, known as black granite in construction terms, serves primarily in building stone fences due to its durability despite its challenging workability. It is mainly extracted for the other minerals found within the same rock, including chromium, nickel, cobalt, copper, gold, silver, and platinum.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 3,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "rock-salt",
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "treasure",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "C3FNsGlq2Lf7wevT": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "ioDwaLKA1DUtYokk",
+  "_id": "rpH9fbtFAAWSTAGW",
+  "sort": 1300000,
+  "_originalKey": "!items!rpH9fbtFAAWSTAGW"
+}

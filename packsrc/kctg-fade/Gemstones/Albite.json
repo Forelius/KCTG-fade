@@ -1,0 +1,56 @@
+{
+  "name": "Albite",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Albite.webp",
+  "system": {
+    "description": {
+      "value": "<p>Albite is used as a gemstone, albeit semiprecious, and has mainly been use in the manufacturing of glassware. Most potters and glassblowers use this specific gemstone in the manufacturing of glass or ceramics. The completed product is then sold at a premium, as the pure white color of the completed product is quite eye-catching.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 125,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "kquhw42usfziiV0j",
+  "sort": 0,
+  "_originalKey": "!items!kquhw42usfziiV0j"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Seeds - Corn",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<p>Corn seeds are small, hard kernels that come from the corn plant. They are used to grow corn, which is a staple food in many parts of the world, as well as used to create biscuits, fillings, cookies, beer, and ales. Making it a highly demanded trade good.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 2,
+      "denomination": "cp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "img": "modules/kctg-5e/images/Seeds%20Corn.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "nneAAqmcEwOL9zrI",
+  "sort": 4300000,
+  "_id": "BTE3lF8WhSV3lXwy",
+  "_originalKey": "!items!BTE3lF8WhSV3lXwy"
+}

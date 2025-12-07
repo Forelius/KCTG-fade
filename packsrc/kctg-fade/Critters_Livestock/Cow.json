@@ -1,0 +1,55 @@
+{
+  "folder": "u1YauWP6weWgnFOR",
+  "name": "Cow",
+  "type": "loot",
+  "_id": "sWsWwaTdxioMZx1j",
+  "img": "modules/kctg-5e/images/Cow.webp",
+  "system": {
+    "description": {
+      "value": "<p>Cows are considered one of the most farmed animals, they are precious to farmhands as none of their materials go to waste. From staple products like meat or dairy to hides for leather, glue extracted from the hide and bones, to the crafting of silverware, pins, fishhooks, flutes, or bone needles, every aspect of a cow's harvesting is utilized to its fullest.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1400,
+      "units": "lb"
+    },
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "cow",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "sort": 1100000,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!sWsWwaTdxioMZx1j"
+}

@@ -1,0 +1,149 @@
+{
+  "folder": "KOnJIG8fAii1bNsQ",
+  "name": "Fly Potion",
+  "type": "consumable",
+  "_id": "WeM0OZ4tiwzyUCc9",
+  "img": "modules/kctg-5e/images/Fly%20Potion.webp",
+  "system": {
+    "description": {
+      "value": "<p>Contrary to popular belief this potion does not provide any ability to fly. It is the somewhat unbalanced product of its counterpart that does indeed provide the said ability. This potion does provide the ability to see temporarily up to a distance of 400 ft in full detail, however, the user needs to focus on the specific location and takes a bit of adaption, like the eyes adapting in the dark. This potion can provide a clearer picture of the distance, however, no perception increases are applied.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 7,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "fly-potion",
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "consumable",
+      "subtype": "food"
+    },
+    "activities": {
+      "kkHF41y4Q1nW2S9G": {
+        "type": "utility",
+        "name": "Consume",
+        "_id": "kkHF41y4Q1nW2S9G",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": null,
+          "override": false,
+          "condition": ""
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "material",
+              "value": "1",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false,
+          "units": "self",
+          "special": ""
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft",
+            "type": ""
+          },
+          "affects": {
+            "choice": false,
+            "type": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false,
+          "formula": "",
+          "name": ""
+        },
+        "img": "modules/kctg-5e/images/Activities/Consume2.png"
+      }
+    },
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": [],
+      "autoDestroy": false
+    },
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "damage": {
+      "base": {
+        "number": null,
+        "denomination": null,
+        "types": [],
+        "custom": {
+          "enabled": false
+        },
+        "scaling": {
+          "number": 1
+        }
+      },
+      "replace": false
+    },
+    "magicalBonus": null
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "C3FNsGlq2Lf7wevT": 3
+  },
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!WeM0OZ4tiwzyUCc9"
+}

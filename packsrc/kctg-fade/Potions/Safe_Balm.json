@@ -1,0 +1,151 @@
+{
+  "name": "Safe Balm",
+  "type": "consumable",
+  "img": "modules/kctg-5e/images/Safe%20Balm.webp",
+  "system": {
+    "description": {
+      "value": "<p>A small balm created by alchemists to alleviate pain. It is however speculated that, if it is rubbed on the skin, it can also cure fevers, as well, as colds. This is a belief held by most commonfolk and usually used to treat their children. </p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "safe-balm",
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": "food"
+    },
+    "activities": {
+      "kkHF41y4Q1nW2S9G": {
+        "type": "utility",
+        "name": "Consume",
+        "_id": "kkHF41y4Q1nW2S9G",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": null,
+          "override": false,
+          "condition": ""
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "material",
+              "value": "1",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false,
+          "units": "self",
+          "special": ""
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft",
+            "type": ""
+          },
+          "affects": {
+            "choice": false,
+            "type": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false,
+          "formula": "",
+          "name": ""
+        },
+        "img": "modules/kctg-5e/images/Activities/Consume2.png"
+      }
+    },
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": [],
+      "autoDestroy": false
+    },
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "damage": {
+      "base": {
+        "number": null,
+        "denomination": null,
+        "types": [],
+        "custom": {
+          "enabled": false
+        },
+        "scaling": {
+          "number": 1
+        }
+      },
+      "replace": false
+    },
+    "magicalBonus": null
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "C3FNsGlq2Lf7wevT": 3
+  },
+  "flags": {
+    "core": {},
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "KOnJIG8fAii1bNsQ",
+  "sort": -25000,
+  "_id": "WiCnnQHanm0COFqO",
+  "_originalKey": "!items!WiCnnQHanm0COFqO"
+}

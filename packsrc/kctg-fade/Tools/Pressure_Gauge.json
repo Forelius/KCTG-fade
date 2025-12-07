@@ -1,0 +1,54 @@
+{
+  "folder": "9z8F4GiWlXBk1DYI",
+  "name": "Pressure Gauge",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Pressure%20Gauge.webp",
+  "system": {
+    "description": {
+      "value": "<p>An pressure gauge is a measuring instrument used to monitor the force within contained systems, such as steam conduits or alchemical apparatus. Some variants are focused on arcane mechanisms, using enchanted fluids or elemental spirits to detect fluctuations in force that would be invisible to the naked eye.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "hand-axe",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "ownership": {
+    "default": 0,
+    "233gPIEGs3GHtRh3": 3
+  },
+  "_id": "ijFkOiQtlGiVGLos",
+  "sort": 1950000,
+  "_originalKey": "!items!ijFkOiQtlGiVGLos"
+}

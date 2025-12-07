@@ -1,0 +1,58 @@
+{
+  "name": "Carved Wooden Toy",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Carved%20Wooden%20Toy/Carved%20Wooden%20Toy1.webp",
+  "system": {
+    "description": {
+      "value": "<p>Carving is one of the favorite activities for traveling merchants or adventurers on long voyages to pass the time. It is easy to learn and practice on the go, and it only requires a small carving knife. The toys or trinkets made from it are either sold to stores or given to close family members.<br /></p><section class=\"secret\" id=\"secret-FxnKtZz6HmEHDS50\"><img src=\"modules/kctg-5e/images/Carved%20Wooden%20Toy/Carved%20Wooden%20Toy1.webp\" width=\"55\" /><img src=\"modules/kctg-5e/images/Carved%20Wooden%20Toy/Carved%20Wooden%20Toy3.webp\" width=\"55\" /><img src=\"modules/kctg-5e/images/Carved%20Wooden%20Toy/Carved%20Wooden%20Toy2.webp\" width=\"55\" /><img src=\"modules/kctg-5e/images/Carved%20Wooden%20Toy/Carved%20Wooden%20Toy4.webp\" width=\"55\" /><img src=\"modules/kctg-5e/images/Carved%20Wooden%20Toy/Carved%20Wooden%20Toy6.webp\" width=\"55\" /><img src=\"modules/kctg-5e/images/Carved%20Wooden%20Toy/Carved%20Wooden%20Toy5.webp\" width=\"55\" /><p>Alternative icons exist in the module's folder</p></section>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": null,
+      "rules": "2024",
+      "book": "",
+      "page": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "identifier": "carved-wooden-toy"
+  },
+  "effects": [],
+  "folder": "bxQZu0dOpDO6ztac",
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e2"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "EyS7EBXqRSvDs6VV",
+  "sort": 900000,
+  "_originalKey": "!items!EyS7EBXqRSvDs6VV"
+}

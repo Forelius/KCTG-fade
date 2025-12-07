@@ -1,0 +1,155 @@
+{
+  "folder": "yOWGA89yzYNJ180M",
+  "name": "Chocolate Navel Orange",
+  "type": "consumable",
+  "img": "modules/kctg-5e/images/Chocolate%20Navel%20Orange.webp",
+  "system": {
+    "description": {
+      "value": "<p>Chocolate Navel Orange, also called simply the chocolate orange. The chocolate orange has a distinctively rich aroma, often reminiscent of vanilla or honey, which enhances most dishes baked or cooked. Its unique aroma goes especially well with dark leafy greens, nuts, and other fruits, making it a favorite in most salads. They can be tossed into salads, used as topping over breakfast dishes such as parfaits and oats or mixed into fruit juices.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "food",
+      "subtype": "food"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "antlers",
+    "container": null,
+    "properties": [],
+    "activities": {
+      "o8GU9HFJIUSh98I2": {
+        "type": "utility",
+        "name": "Consume",
+        "_id": "o8GU9HFJIUSh98I2",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": null,
+          "override": false,
+          "condition": ""
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "material",
+              "value": "1",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false,
+          "units": "self",
+          "special": ""
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft",
+            "type": ""
+          },
+          "affects": {
+            "choice": false,
+            "type": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false,
+          "formula": "",
+          "name": ""
+        },
+        "img": "modules/kctg-5e/images/Activities/Consume.png"
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "autoDestroy": false,
+      "max": ""
+    },
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "damage": {
+      "base": {
+        "number": null,
+        "denomination": null,
+        "types": [],
+        "custom": {
+          "enabled": false
+        },
+        "scaling": {
+          "number": 1
+        }
+      },
+      "replace": false
+    },
+    "magicalBonus": null
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3,
+    "C3FNsGlq2Lf7wevT": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "sJghO9FUgQQnbEWv",
+  "sort": 0,
+  "_originalKey": "!items!sJghO9FUgQQnbEWv"
+}

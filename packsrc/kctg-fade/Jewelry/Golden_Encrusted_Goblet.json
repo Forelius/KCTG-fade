@@ -1,0 +1,53 @@
+{
+  "name": "Golden Encrusted Goblet",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Golden%20Encrusted%20Goblet.webp",
+  "effects": [],
+  "folder": "cIJKJ2rN2ZLnb881",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Throughout history and in certain fringe regions of the realms, goblets served as a symbol of status and refinement. Alchemists and herbalists have long warned against drinking alcohol from gold goblets, as the metal can react with the contents and produce toxic effects. Today, such goblets are most often discovered in forgotten tombs or among the hoards of exotic collectors, winged or otherwise.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 55,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "sort": 100391,
+  "_id": "8OmMHCoAqbu1cNci",
+  "_originalKey": "!items!8OmMHCoAqbu1cNci"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Hickory Plank",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Hickory%20Plank.webp",
+  "effects": [],
+  "folder": "LLvC7EvZacBUO0n8",
+  "sort": 1800000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "S2snUdXrJD5N6A0B",
+  "system": {
+    "description": {
+      "value": "<p>This specific light-colored wood is widely used for tools like hammers, picks, axes, wheels, ladders, flooring, and furniture. </p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 16,
+    "price": {
+      "value": 2,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "ownership": {
+    "default": 0,
+    "FvHmsAdVJKNAy9eZ": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!S2snUdXrJD5N6A0B"
+}

@@ -1,0 +1,58 @@
+{
+  "folder": "nneAAqmcEwOL9zrI",
+  "name": "Kurnarac",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Kurnarac.webp",
+  "system": {
+    "description": {
+      "value": "<p>Deep within the cave, the Kurnarac seed is carefully planted. With a precise shot from the slingshot or a modified crossbow, it lands against the ceiling, sticking fast. Years pass, and once a small seed begins to grow, its upside-down tree-like form takes shape as its spiky bark gradually thickens. The cold, damp cave becomes the perfect environment for a steady, almost imperceptible growth. Over the decades, its roots stretch downward, like a stalactite forming, until the Kurnarac matures, its bark now a thick, protective shell. The need for harvesting fades, as the plant naturally preserves its Wall Meat within, offering sustenance that will last indefinitely.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "material",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "antlers",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "h696quOjAtz7hySa",
+  "sort": 3000000,
+  "_originalKey": "!items!h696quOjAtz7hySa"
+}

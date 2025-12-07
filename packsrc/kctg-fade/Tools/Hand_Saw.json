@@ -1,0 +1,46 @@
+{
+  "folder": "9z8F4GiWlXBk1DYI",
+  "name": "Hand Saw",
+  "type": "loot",
+  "_id": "BEZM7FIQYGvesfQG",
+  "img": "modules/kctg-5e/images/Hand%20Saw.webp",
+  "system": {
+    "description": {
+      "value": "<p>With a wide range of applications, hand saws are the go-to tools for tasks like roughly cutting wood and logs, as well as making intricate curved cuts in wood. Whether used in professional trades or by the commoner for projects at home or in the garden, they prove to be indispensable tools.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": ""
+    },
+    "quantity": 1,
+    "weight": 1.5,
+    "price": {
+      "value": 2,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 700000,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!BEZM7FIQYGvesfQG"
+}

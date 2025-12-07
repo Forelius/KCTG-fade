@@ -1,0 +1,64 @@
+{
+  "name": "Copper Ingot",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Copper%20Ingot.webp",
+  "system": {
+    "description": {
+      "value": "<p>Copper Ingot, once purified in the smelter, are used in the production of household utensils, weapons, armor, agricultural tools, and furniture ornamentation. They are often used by rookie blacksmiths as a training metal since their lower melting point reduces fuel consumption compared to many sturdier metals.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "rknvmXL7rtQgObfA",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "uW93YgPSLjmSCtT9",
+  "sort": 150000,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!uW93YgPSLjmSCtT9"
+}

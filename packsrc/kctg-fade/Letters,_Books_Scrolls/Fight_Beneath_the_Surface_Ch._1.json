@@ -1,0 +1,65 @@
+{
+  "name": "Fight Beneath the Surface Ch. 1",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Fight%20Beneath%20the%20Surface%20Ch.%201.webp",
+  "system": {
+    "description": {
+      "value": "<blockquote><p>\"North Noria was once the epicenter of the region plagued by Kah'Yul’s influence.</p><p>In response, Cleric Anilisia, chief of the Red Obsidian, sought to plant a Young Virathryn sapling, a sacred tree said to bridge the mortal world to Kah'Yul's realm. She planted it within the overground chambers, believing that its growth toward the sky would forge the connection she needed.</p><p>However, her not-so-friendly sisters, who opposed her plan, had already made their move, poisoning the soil in secret.</p><p>Days later, Cleric Tilena, chief among the dissenters, mocked Anilisia’s efforts. In a cruel display, Tilena reached into the corrupted earth, unearthed the blackened Virathryn seed, and crushed it in her hand. Fearing Anilisia’s wrath, Tilena cast powerful illusions to mask her escape and fled into the wilds.\"</p></blockquote><p><br />The chapter ends here. The remaining chapters of this chronicle seem lost to time, their secrets buried with them.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "treasure",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "TFPwDODIpyRO0E0Q",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "zxtdh6BlnOfPmMup",
+  "sort": 273438,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!zxtdh6BlnOfPmMup"
+}

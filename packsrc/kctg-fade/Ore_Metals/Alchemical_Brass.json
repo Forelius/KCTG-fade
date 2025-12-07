@@ -1,0 +1,40 @@
+{
+  "name": "Alchemical Brass",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<p>On the rare occasions when Alchemists and Blacksmiths collaborate, they are able to create something truly unique. One such creation is an ingot that can be used to reinforce a weapon, making it so powerful that it can even break mountains when it strikes true. It is said that when Alchemical Brass is added to a regular weapon, it increases the weapon's accuracy and increases the chances of striking vital areas, making the strikes even more fatal.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 500,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "img": "modules/kctg-5e/images/Alchemical%20Brass%20Ingot.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "rknvmXL7rtQgObfA",
+  "sort": 2000000,
+  "_id": "SIatgaFwg4tCEiAW",
+  "_originalKey": "!items!SIatgaFwg4tCEiAW"
+}

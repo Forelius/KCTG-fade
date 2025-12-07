@@ -1,0 +1,53 @@
+{
+  "name": "Royal Signet",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Signet.webp",
+  "effects": [],
+  "folder": "cIJKJ2rN2ZLnb881",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Royal Signet is a piece of jewelry, typically custom-made for the nobility. The most renowned jewelers are usually commissioned for this precise work, as the impression it leaves in wax must be as detailed and clear as possible. The band is generally crafted from gold, while the signet itself is forged from a combination of alloys that can be replaced or reworked into the ring with ease if needed.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 125,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "sort": 100391,
+  "_id": "KG8vK5rdLngsYrUT",
+  "_originalKey": "!items!KG8vK5rdLngsYrUT"
+}

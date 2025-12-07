@@ -1,0 +1,40 @@
+{
+  "name": "Golden Deer",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Golden%20Deer.webp",
+  "system": {
+    "description": {
+      "value": "<p>When the forest folk finishes their druidic circles, a lot of precious metals they create coins from the alloys, from platinum and silver, as well gold and copper. The gold and copper alloy is named tumbaga, and in the bigger cities, they are commonly referred to as Tumbaga coins. They are worth roughly 25% of the gold's value. They are referred to as Deers or Elk, as it is the most common imprint on these coins. </p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 0.01,
+    "price": {
+      "value": 25,
+      "denomination": "cp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "HbFNnaCa2Bu4s3ht",
+  "sort": 148438,
+  "_id": "wHi7xrK9xtcB4nyo",
+  "_originalKey": "!items!wHi7xrK9xtcB4nyo"
+}

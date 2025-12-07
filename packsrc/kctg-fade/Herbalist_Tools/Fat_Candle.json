@@ -1,0 +1,54 @@
+{
+  "name": "Fat Candle",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Fat%20Candle.webp",
+  "effects": [],
+  "folder": "nneAAqmcEwOL9zrI",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Fat candles are crafted from rendered animal fat, such as whale blubber or tallow from sheep and cows. Although beeswax candles last longer, these candles burn more brightly and cost significantly less. The downside is that they release an unpleasant foul odor while burning.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "resource",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "IzXi5RNyVxF3jlKa",
+  "sort": 5800000,
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_originalKey": "!items!IzXi5RNyVxF3jlKa"
+}

@@ -1,0 +1,54 @@
+{
+  "folder": "9z8F4GiWlXBk1DYI",
+  "name": "Gloves of Working",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Gardening%20Gloves.webp",
+  "system": {
+    "description": {
+      "value": "<p>Gloves were worn by outdoor workers for practical purposes, such as gardening or heavy outdoor work. These working gloves were often made of leather and lined with fur, or alternatively, made of sheepskin with the fleece on the inside.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 15,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "hand-axe",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "ownership": {
+    "default": 0,
+    "HSSviIXZSSQdGVd0": 3
+  },
+  "_id": "OzczUCxn8Tph0D2n",
+  "sort": 1550000,
+  "_originalKey": "!items!OzczUCxn8Tph0D2n"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Moldavite",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Moldavite.webp",
+  "system": {
+    "description": {
+      "value": "<p>Moldavite is one of the most intriguing gems. It is said that this gem came from the skies long ago from a gigantic rock, yet no records of this specific event were made or survived the ages to confirm.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Good",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "6fbOMU5rQqYYoSTU",
+  "sort": 500000,
+  "_originalKey": "!items!6fbOMU5rQqYYoSTU"
+}

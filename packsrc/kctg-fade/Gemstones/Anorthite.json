@@ -1,0 +1,54 @@
+{
+  "name": "Anorthite",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Anorthite.webp",
+  "system": {
+    "description": {
+      "value": "<p>Although anorthite itself is not typically used as a gemstone, some varieties with attractive colors or optical properties may be cut and polished for use in jewelry as a substitute for other, more expensive gemstones. Only the untrained merchant is unable to see the difference between Anorthite and a precious gem, and the purchase of precious rocks is only made by experienced merchants.</p><p>\t</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "FFpEYX7EYmrZqvgb",
+  "sort": 700000,
+  "_originalKey": "!items!FFpEYX7EYmrZqvgb"
+}

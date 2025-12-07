@@ -1,0 +1,40 @@
+{
+  "name": "Seafinder Coin",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Seafinder%20Coin.webp",
+  "system": {
+    "description": {
+      "value": "<p>A coin made for sea captains, for long trips, mainly used for superstition. Prior to setting sail on a lenghty journey, the captain will throw one of these coins into the waters to appease the gods or the sea itself depending on his beliefs. The coin is usually made out of silver with an gem that can range from Blue Topaz to the inexpensive Chrysocolla.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 0.1,
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "HbFNnaCa2Bu4s3ht",
+  "sort": 124219,
+  "_id": "8VxYvOJ7bMzhTC3M",
+  "_originalKey": "!items!8VxYvOJ7bMzhTC3M"
+}

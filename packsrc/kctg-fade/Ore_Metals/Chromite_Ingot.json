@@ -1,0 +1,55 @@
+{
+  "name": "Chromite Ingot",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Chromite%20Ingots.webp",
+  "system": {
+    "description": {
+      "value": "<p>After the ore is smelted into Chromite Ingots, it is usually used to create sturdy tools for extreme climates, whether natural or more magical in nature. Alchemists occasionally use the purified metal smelted from the ore as a catalyst in brewing potions that provide resistance to the elements.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "rock-salt",
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "treasure",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "C3FNsGlq2Lf7wevT": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "rknvmXL7rtQgObfA",
+  "_id": "QuPCqpeBMlLO3pPK",
+  "sort": 1000000,
+  "_originalKey": "!items!QuPCqpeBMlLO3pPK"
+}

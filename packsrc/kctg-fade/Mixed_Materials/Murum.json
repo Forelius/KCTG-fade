@@ -1,0 +1,52 @@
+{
+  "name": "Murum",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Murum.webp",
+  "system": {
+    "description": {
+      "value": "<p>Murum finds application in various heavy-duty tasks such as plinth filling, road pavements, backfilling in trenches, and footing pits. Its absence of organic matter and ease of compaction, leading to the formation of durable surfaces, make it an ideal soil for construction purposes.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "ioDwaLKA1DUtYokk",
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "SenUHeR3Ejkk2YGc",
+  "sort": 800000,
+  "_originalKey": "!items!SenUHeR3Ejkk2YGc"
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Liquid Malachite",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<p>Liquid Malachite is generally stored in a wooden container. When taken out of its container and coming in contact with metal, it quickly spreads, attaches, and hardens, but only temporarily. Historically, it was primarily utilized by militaristic tribal communities, as they didn't typically wear armor but rather used a thin woven metal cloth. However, its potential should not be underestimated, as even when combined with tin, the liquid malachite increases the strength and durability of materials to a level comparable to steel.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 60,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "img": "modules/kctg-5e/images/Liquid%20Malachite.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "sort": 3700000,
+  "_id": "55fisYI3Ja4IH2UD",
+  "_originalKey": "!items!55fisYI3Ja4IH2UD"
+}

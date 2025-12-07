@@ -1,0 +1,52 @@
+{
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "name": "Hydrophane",
+  "type": "loot",
+  "_id": "oxZVDBlDt0vuFJAh",
+  "img": "modules/kctg-5e/images/Hydrophane.webp",
+  "system": {
+    "description": {
+      "value": "<p>This semi-precious stone was commonly employed in inlay work or cut into cabochons for jewelry. In its dry state, it appeared plain and opaque, typically displaying an ivory or frosty-white color. However, when submerged in water, it underwent a remarkable transformation, becoming transparent and exhibiting a rainbow-like iridescence akin to a prism.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!oxZVDBlDt0vuFJAh"
+}

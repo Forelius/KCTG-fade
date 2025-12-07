@@ -1,0 +1,54 @@
+{
+  "name": "Sandalwood Log",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Sandalwood%20Log.webp",
+  "system": {
+    "description": {
+      "value": "<p>Sandalwood is primarily harvested for its oil. The Sandalwood forests are considered one of the most expensive woods within the realms. From the oil, a lot can be crafted such as perfumes, soaps, candles, and incense, as well as, if turned into a fine powder, for medicine, religious or cultural purposes, also, as a flavor for foods and beverages.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0
+    },
+    "price": {
+      "value": 125,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "LLvC7EvZacBUO0n8",
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "MNlBwyH0681mDupk",
+  "sort": 400000,
+  "_originalKey": "!items!MNlBwyH0681mDupk"
+}

@@ -1,0 +1,71 @@
+{
+  "name": "Box of Horrors",
+  "type": "container",
+  "_id": "TLlo3M4guHuhB1Kf",
+  "img": "modules/kctg-5e/images/Box%20of%20Evil.webp",
+  "system": {
+    "description": {
+      "value": "<p>They appear only during Red Harvest, when the nights grow long and the air stinks of smoke and cider. Children wait all year for them, as they are filled to the brim with sweets, darting between bonfires with sticky fingers and purple-stained lips. Grown traders pretend they’re above such things, though I’ve seen more than one caravan master “inspect” an entire box before camp is set. </p>",
+      "chat": ""
+    },
+    "identifier": "new-item",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 2,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "currency": {
+      "pp": 0,
+      "gp": 0,
+      "ep": 0,
+      "sp": 0,
+      "cp": 0
+    },
+    "capacity": {
+      "volume": {
+        "units": "cubicFoot",
+        "value": null
+      },
+      "weight": {
+        "units": "lb",
+        "value": 3
+      },
+      "count": null
+    },
+    "properties": []
+  },
+  "effects": [],
+  "folder": "ODTmZCF7DbiMcwhX",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "233gPIEGs3GHtRh3": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!TLlo3M4guHuhB1Kf"
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Bucket",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Bucket.webp",
+  "system": {
+    "description": {
+      "value": "<p>While buckets are commonly used to transport water from wells to homes or for cleaning tasks, they can also be repurposed as makeshift latrines in extreme situations or certain jail cells where outhouses are not an option.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 5,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "bxQZu0dOpDO6ztac",
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "jaQ2wQ51JoEwCXzv",
+  "sort": 3000000,
+  "_originalKey": "!items!jaQ2wQ51JoEwCXzv"
+}

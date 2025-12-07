@@ -1,0 +1,42 @@
+{
+  "name": "Cedar Log",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<p>It is typically harvested from cedar trees that grow in forested areas and is known for its durability and resistance to decay. Cedar logs are often used to create strong and sturdy structures, such as buildings, bridges, and fences, as well as furniture and other wooden objects.</p><p></p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": {
+      "value": 0
+    },
+    "price": {
+      "value": 14,
+      "denomination": "cp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "img": "modules/kctg-5e/images/Cedar%20Log.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "LLvC7EvZacBUO0n8",
+  "sort": 2700000,
+  "_id": "PgNo51VBKS3TchGJ",
+  "_originalKey": "!items!PgNo51VBKS3TchGJ"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Opal Earrings",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Opal%20Earrings.webp",
+  "effects": [],
+  "folder": "cIJKJ2rN2ZLnb881",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Cut by experienced gemcutters and connected with silver implements, opal, being one of the most colorful gems, when cut so precisely and in such a way that it provides a beautiful array of colors, becomes a favorite among the middle to higher classes of citizens. Some arcane casters usually wear the earrings, as they can be used as a conduit for some magical spells in their repertoire.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1250,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "sort": 100391,
+  "_id": "GIJsKhTlBiydqNsE",
+  "_originalKey": "!items!GIJsKhTlBiydqNsE"
+}

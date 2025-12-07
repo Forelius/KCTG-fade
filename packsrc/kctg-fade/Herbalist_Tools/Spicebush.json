@@ -1,0 +1,59 @@
+{
+  "folder": "nneAAqmcEwOL9zrI",
+  "name": "Spicebush",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Spicebush.webp",
+  "system": {
+    "description": {
+      "value": "<p>The Northern Lindera, infamous as an invasive species, is swiftly dealt with by herbalists who seek to protect local ecosystems. Yet, its fruit finds its way into kitchens, where it is appreciated as a flavorful seasoning for meats, soups, and hearty dishes, to the discontent of the herbalists.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 5,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "material",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "identifier": "antlers",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "XwG0vTrXkUhurxoy",
+  "sort": 0,
+  "_originalKey": "!items!XwG0vTrXkUhurxoy"
+}

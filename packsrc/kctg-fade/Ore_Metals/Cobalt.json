@@ -1,0 +1,64 @@
+{
+  "name": "Cobalt",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Cobalt.webp",
+  "system": {
+    "description": {
+      "value": "<p>Cobalt is one of the most mistaken ores for a gemstone, due to it’s shape and luster. Some naval fleets prefer cobalt-plated armor for their ships, as it resists the corrosive effects of saltwater far better than any other metal. Some alchemists utilize it for its conductive properties, and it is believed in fringe circles, that containers made from cobalt can store lightning, but these rumors remain unfounded.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 22,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "rknvmXL7rtQgObfA",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "6DokoZGSmyjZRDsX",
+  "sort": 1350000,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!6DokoZGSmyjZRDsX"
+}

@@ -1,0 +1,50 @@
+{
+  "folder": "9z8F4GiWlXBk1DYI",
+  "name": "Spindle",
+  "type": "loot",
+  "_id": "yPgrcuEBe23lC05t",
+  "img": "modules/kctg-5e/images/Spindle.webp",
+  "system": {
+    "description": {
+      "value": "<p>Commonly made from either wood, bone or metal, the spindle is a rod for spinning wool, silk, and other natural fibers. Among weavers and tailors, it stands out as one of their most cherished tools.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": ""
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 2800000,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!yPgrcuEBe23lC05t"
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Carriage Safety Guide",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Carriage%20Safety%20Guide.webp",
+  "system": {
+    "description": {
+      "value": "<p>Small safety scroll that contains information of the next carriage trip, with points such as:</p><p><br /><br /></p><ul><li><p>Smoking Area: While we acknowledge the confusion, this area is not intended for the consumption of exotic herbs. It is specifically designated for humanoids of elemental nature. Please refrain from any form of extinguishing in this area.</p></li><li><p>Metal, Heavy, and Large Creatures: If you are a creature composed of metal, of significant size, or a magic user who carries extensive inventory in compact spaces (e.g., extra-dimensional storage), please inform us prior to boarding. Specialized equines may be required. Failure to notify us will result in extended baggage fees.</p></li><li><p>Clawed Humanoids: Please refrain from scratching any seats or wooden parts of the carriage.</p></li><li><p>Horned Humanoids: Horned individuals must keep their horns corked at all times unless their horns curve inward toward themselves.</p></li><li><p>Transmutation Casters: Do not transmute any liquids into alcohol. Following a previous incident, all alcohol is strictly forbidden during the trip. Additionally, please ignore any screaming rocks encountered during the journey.</p></li><li><p>Full Moon Advisory: Passengers with lycanthropy symptoms are advised not to book trips during a full moon. Should you choose to ignore this warning, be aware that you may be permanently hired to replace any equines lost during the journey.</p></li><li><p>Aura Bearers: Passengers with an active aura must remain in the specifically sanctioned areas. We understand the importance of your religion, deity, or patron, but we must consider the comfort of all travelers, including those from other cultures, or those recently returned from the afterlife. Noncompliance will be reported to the nearest guard post.</p></li><li><p>Petrifying Creatures: If your species can petrify others through sight or other means, you must notify staff before boarding. Failure to do so will result in the installation of mirrors around your seat for the duration of the trip.</p></li><li><p>Food Consumption: No food may be consumed during the journey. Multiple rest stops will be provided where you may eat. Other passengers are not considered food, regardless of cultural practices.</p></li><li><p>Safety Notice: Keep all limbs inside the carriage at all times. We are not responsible for any injuries sustained during the journey.</p></li></ul>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "treasure",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "TFPwDODIpyRO0E0Q",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "zuEhHxkxsgAKwRQ9",
+  "sort": 156250,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!zuEhHxkxsgAKwRQ9"
+}

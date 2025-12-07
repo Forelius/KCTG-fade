@@ -1,0 +1,52 @@
+{
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "name": "Demontoid",
+  "type": "loot",
+  "_id": "5NlG8I5sAyP4W6TL",
+  "img": "modules/kctg-5e/images/Demontoid.webp",
+  "system": {
+    "description": {
+      "value": "<p>Demantoid, one of the scarcest garnet types, exhibits a vivid color comparable to emerald and sparkle that exceeds even diamonds. Highly sought after by both gem connoisseurs and jewelry aficionados, demantoids are typically sold at a premium way above their regional price.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 125,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!5NlG8I5sAyP4W6TL"
+}

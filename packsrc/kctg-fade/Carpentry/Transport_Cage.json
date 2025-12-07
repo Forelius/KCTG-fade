@@ -1,0 +1,58 @@
+{
+  "name": "Transport Cage",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Transport%20cage.webp",
+  "system": {
+    "description": {
+      "value": "<p>This wooden cage is designed for the easy transportation of small livestock, such as hens, chickens, and small hares, facilitating their movement to and from local markets with ease.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": null,
+      "rules": "2024",
+      "book": "",
+      "page": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "identifier": "barrel-copy"
+  },
+  "effects": [],
+  "folder": "bxQZu0dOpDO6ztac",
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e2"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "yzU9LHzBHEbCIiNH",
+  "sort": 200000,
+  "_originalKey": "!items!yzU9LHzBHEbCIiNH"
+}

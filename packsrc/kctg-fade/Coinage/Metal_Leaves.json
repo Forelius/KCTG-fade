@@ -1,0 +1,40 @@
+{
+  "name": "Metal Leaves",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Gold%20Leafs.webp",
+  "system": {
+    "description": {
+      "value": "<p>These are known as touchstone leaves, and are used by merchants or bank tellers to easily identify types of precious metals. The leaves themselves can be made out of gold, silver, platinum, or electrum, with various levels of purity. When testing a metal object, the leaves are scratched on a touchstone along with the object in question. Based on the residue they leave behind, it is possible to quickly identify the metal's purity or determine if it is a counterfeit.</p><p></p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "HbFNnaCa2Bu4s3ht",
+  "sort": 121875,
+  "_id": "MMgo4Enc4bQZBcdA",
+  "_originalKey": "!items!MMgo4Enc4bQZBcdA"
+}

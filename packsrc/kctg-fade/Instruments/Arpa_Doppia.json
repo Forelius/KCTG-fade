@@ -1,0 +1,55 @@
+{
+  "name": "Arpa Doppia",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Arpa%20Doppia.webp",
+  "system": {
+    "description": {
+      "value": "<p>The Arpa Doppia, or double harp, renowned for its intricate double strings, delivers a one-of-a-kind sound, cherished by the upper echelons of society and frequently gracing the vibrant, bustling cities across the realms.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2014"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "identifier": "chair"
+  },
+  "effects": [],
+  "folder": "IwFJtR8yJkW4FYub",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e2"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "E1xOR8VGEbP7ZwVH",
+  "_originalKey": "!items!E1xOR8VGEbP7ZwVH"
+}

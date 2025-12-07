@@ -1,0 +1,52 @@
+{
+  "name": "Dark Red Diamond",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Dark%20Red%20Diamond.webp",
+  "effects": [],
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "sort": 6800000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "jOlb76MlnuzPUFBg",
+  "system": {
+    "description": {
+      "value": "<p>The gem is cut in a round shape, and when it refracts light it looks as if a fire is embedded in it.  In the right light, these polished gems resemble droplets of blood. They usually come in dark red to brownish-red colors. They are also known as the most expensive variant of a diamond. It is speculated that when a spell is cast with its help, part of the caster's soul gets consumed along with the diamond.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 12500,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "FvHmsAdVJKNAy9eZ": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "auVc65DdvimseblT": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!jOlb76MlnuzPUFBg"
+}

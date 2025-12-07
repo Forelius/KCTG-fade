@@ -1,0 +1,58 @@
+{
+  "name": "Wooden Ladle",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Wooden%20ladle.webp",
+  "system": {
+    "description": {
+      "value": "<p>The ladle plays a crucial role in most kitchens. Wooden ladles are specifically used with expensive or cast-iron pots to prevent scratching and extend their lifespan.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": null,
+      "rules": "2024",
+      "book": "",
+      "page": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 5,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "identifier": "barrel-copy"
+  },
+  "effects": [],
+  "folder": "bxQZu0dOpDO6ztac",
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e2"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "V93swyUA2kaqAwTI",
+  "sort": 500000,
+  "_originalKey": "!items!V93swyUA2kaqAwTI"
+}

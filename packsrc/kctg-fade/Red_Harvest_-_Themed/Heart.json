@@ -1,0 +1,58 @@
+{
+  "folder": "ODTmZCF7DbiMcwhX",
+  "name": "Heart",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Heart.webp",
+  "system": {
+    "description": {
+      "value": "<p>Looks like a stage prop, doesn’t it? Too shiny, too perfect, the sort of thing you’d expect dangling from a street conjurer’s sleeve. Yet hold one in your palm and you’ll swear it thrums against your skin, slow, steady, like the echo of your own chest. I’ve seen hardened mercenaries drop the thing lika a curse, as if they’d grabbed a live rat.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "chick",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "ownership": {
+    "default": 0,
+    "233gPIEGs3GHtRh3": 3
+  },
+  "sort": 150000,
+  "_id": "CY2YNQKilooHQR6y",
+  "_originalKey": "!items!CY2YNQKilooHQR6y"
+}

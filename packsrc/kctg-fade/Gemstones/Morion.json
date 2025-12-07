@@ -1,0 +1,52 @@
+{
+  "name": "Morion",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Smoky%20Quartz.webp",
+  "effects": [],
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "sort": 2100000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "fQZUf2nsbp551ZXZ",
+  "system": {
+    "description": {
+      "value": "<p>Also known as Smoky Quartz. One of the rarer forms of quartz. Due to it being almost opaque, it does have some similar proprieties to the Rose Quartz. It's usually sought after by nefarious people as it is mainly used in necromancy. When bones are infused with Moriom they become as hard as steel.</p>\n<p> </p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 75,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "FvHmsAdVJKNAy9eZ": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "auVc65DdvimseblT": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!fQZUf2nsbp551ZXZ"
+}

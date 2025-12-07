@@ -1,0 +1,50 @@
+{
+  "folder": "9z8F4GiWlXBk1DYI",
+  "name": "Mason Hammer",
+  "type": "loot",
+  "_id": "XQLa1R5qA8YEMe3Z",
+  "img": "modules/kctg-5e/images/Mason%20Hammer.webp",
+  "system": {
+    "description": {
+      "value": "<p>Commonly called brick hammers, mason's hammers are primarily designed for the precise breaking of bricks, rocks, pavers, or driving stakes. They feature one flat traditional face and, on the back, a short or long chisel-shaped blade. This design allows them to effectively chip off edges or small pieces of stone and cut brick masonry units without the need for a separate chisel.</p><p></p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": ""
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 3,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 2000000,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!XQLa1R5qA8YEMe3Z"
+}

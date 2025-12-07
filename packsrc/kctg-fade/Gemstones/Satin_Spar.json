@@ -1,0 +1,48 @@
+{
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "name": "Satin Spar",
+  "type": "loot",
+  "_id": "R6YUn7NsrG1dGbG8",
+  "img": "modules/kctg-5e/images/Satin%20Spar.webp",
+  "system": {
+    "description": {
+      "value": "<p>Satin Spar, a fibrous variety of gypsum, is distinguished by its pearly luster, sparkling sheen, and silky texture. Warriors heading into battle frequently wear these stones, believing their luster can blind far-away archers and shield them from projectiles.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!R6YUn7NsrG1dGbG8"
+}

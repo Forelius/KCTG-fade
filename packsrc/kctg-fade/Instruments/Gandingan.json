@@ -1,0 +1,55 @@
+{
+  "name": "Gandingan",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Gandingan.webp",
+  "system": {
+    "description": {
+      "value": "<p>The gandingan is a set of four large, hanging gongs used for percussion in theater plays, often to heighten suspense or in traditional musical performances. Made primarily of bronze, the gongs vary in size and are crafted with thin bodies and wide rims, allowing for convenient stacking during transportation as they tend to be quite heavy.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2014"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 20,
+      "units": "lb"
+    },
+    "price": {
+      "value": 15,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "identifier": "chair"
+  },
+  "effects": [],
+  "folder": "IwFJtR8yJkW4FYub",
+  "sort": 2400000,
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "zlHqpaMiD3wKkrZ1",
+  "_originalKey": "!items!zlHqpaMiD3wKkrZ1"
+}

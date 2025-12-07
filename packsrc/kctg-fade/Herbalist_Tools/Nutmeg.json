@@ -1,0 +1,59 @@
+{
+  "folder": "nneAAqmcEwOL9zrI",
+  "name": "Nutmeg",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Nutmeg.webp",
+  "system": {
+    "description": {
+      "value": "<p>Nutmeg is the seed or the ground spice derived from the seed, of several tree species. Nutmeg and Mace the red cover of the nutmeg seed, is used to flavor baked goods, meat, fish, and vegetables, and in preserving and pickling or for seasonal beverages such as eggnog, mulled cider, and mulled wine. Herbalists use Nutmeg as it may help relieve bloating, cramps, and upset stomachs due to food intolerance or allergies.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 3,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "material",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "identifier": "antlers",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "ygnFaOm05vGQIITF",
+  "sort": 1600000,
+  "_originalKey": "!items!ygnFaOm05vGQIITF"
+}

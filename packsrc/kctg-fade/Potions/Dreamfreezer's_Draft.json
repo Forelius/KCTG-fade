@@ -1,0 +1,151 @@
+{
+  "name": "Dreamfreezer's Draft",
+  "type": "consumable",
+  "img": "modules/kctg-5e/images/Dreamfreezer%20Draft.webp",
+  "system": {
+    "description": {
+      "value": "<p>This potion is normally used by clerics, herbalists, or medics of any form, for under-the-skin extraction of critters, or helping with life-threatening surgeries. The potion causes the user to go into a comatose-like state, and when under it, it is believed that forgotten and current deities come to chitchat, however, this has never been proven to any degree of accuracy. The downside of the potion is that different users have different resistance to it, and once the surgery starts, the lead assigned medic for that situation needs to move quickly, as there is no constant clear time-frame. It can be minutes or even hours depending on who consumed the potion. Forrest folk are fully immune to this potion. </p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "dreamfreezers-draft",
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "consumable",
+      "subtype": "food"
+    },
+    "activities": {
+      "kkHF41y4Q1nW2S9G": {
+        "type": "utility",
+        "name": "Consume",
+        "_id": "kkHF41y4Q1nW2S9G",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": null,
+          "override": false,
+          "condition": ""
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "material",
+              "value": "1",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false,
+          "units": "self",
+          "special": ""
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft",
+            "type": ""
+          },
+          "affects": {
+            "choice": false,
+            "type": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false,
+          "formula": "",
+          "name": ""
+        },
+        "img": "modules/kctg-5e/images/Activities/Consume2.png"
+      }
+    },
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": [],
+      "autoDestroy": false
+    },
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "damage": {
+      "base": {
+        "number": null,
+        "denomination": null,
+        "types": [],
+        "custom": {
+          "enabled": false
+        },
+        "scaling": {
+          "number": 1
+        }
+      },
+      "replace": false
+    },
+    "magicalBonus": null
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "C3FNsGlq2Lf7wevT": 3
+  },
+  "flags": {
+    "core": {},
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "KOnJIG8fAii1bNsQ",
+  "sort": 300000,
+  "_id": "QqIjp8ty9mekUjhd",
+  "_originalKey": "!items!QqIjp8ty9mekUjhd"
+}

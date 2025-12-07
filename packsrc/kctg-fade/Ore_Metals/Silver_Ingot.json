@@ -1,0 +1,64 @@
+{
+  "name": "Silver Ingot",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Silver%20Ingot.webp",
+  "system": {
+    "description": {
+      "value": "<p>Silver Ingots, once produced, have a multitude of uses and are sought after by craftsmen of all trades. They can be fashioned into boxes that preserve wine and food, cutlery, fine art, gemmed jewelry, and even masterfully crafted armor and weaponry. Depending on the region, silver can sometimes surpass even the most brilliant-cut diamonds in its price.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "rknvmXL7rtQgObfA",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "1vhcGLGoKxeZNUtD",
+  "sort": 3050000,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!1vhcGLGoKxeZNUtD"
+}

@@ -1,0 +1,54 @@
+{
+  "folder": "9z8F4GiWlXBk1DYI",
+  "name": "Mine Cart",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Mine%20Cart.webp",
+  "system": {
+    "description": {
+      "value": "<p>Created for the sole purpose of removing debris from the mines, they can also be used to transport miners deeper to their working spots. They are usually carried back to the entrance at the end of the day by either commoners or livestock, but in some areas rope-haulage systems have been developed to make pulling easier.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 200,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "hand-axe",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "ownership": {
+    "default": 0,
+    "233gPIEGs3GHtRh3": 3
+  },
+  "_id": "eg0kQe1gGG9iXFJe",
+  "sort": 100098,
+  "_originalKey": "!items!eg0kQe1gGG9iXFJe"
+}

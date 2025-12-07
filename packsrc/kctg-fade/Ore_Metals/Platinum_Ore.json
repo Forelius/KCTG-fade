@@ -1,0 +1,64 @@
+{
+  "name": "Platinum Ore",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Platinum%20Ore.webp",
+  "system": {
+    "description": {
+      "value": "<p>Platinum Ore is an extremely rare metal, found exclusively through underground mining. It possesses remarkable resistance to corrosion, even under high-temperature smelting, making it one of the most noble metals. Platinum is primarily used to create alloys with gold by jewelers for making intricate rings and necklaces sold at a quite high premium price.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 30,
+      "denomination": "pp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "rknvmXL7rtQgObfA",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "WrgerstWm56lPRAx",
+  "sort": 2925000,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!WrgerstWm56lPRAx"
+}

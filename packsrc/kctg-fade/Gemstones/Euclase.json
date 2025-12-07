@@ -1,0 +1,48 @@
+{
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "name": "Euclase",
+  "type": "loot",
+  "_id": "bi1HZXBpZkNQqUiU",
+  "img": "modules/kctg-5e/images/Euclase.webp",
+  "system": {
+    "description": {
+      "value": "<p>Euclase was easily cut into faceted gems and came in various colors ranging from colorless to pale yellow, vivid yellow, pale green, and blue. The blue hues commanded the highest price. There's speculation that this specific gem is not reacting well to any form of arcane arts, as when it interacts with them, it explodes into a small ball of glass and shrapnel.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 500,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!bi1HZXBpZkNQqUiU"
+}

@@ -1,0 +1,59 @@
+{
+  "folder": "u1YauWP6weWgnFOR",
+  "name": "Mule",
+  "type": "loot",
+  "_id": "rp9AZj1ThUu3Y4oQ",
+  "img": "modules/kctg-5e/images/Mule.webp",
+  "system": {
+    "description": {
+      "value": "<p>Mules, widely used as working animals in the realms, are highly prized for their hardiness and docile nature. Their strength for their size and superior physical endurance compared to most horses, coupled with the ability to survive extreme weather, increased patience, and longer lifespan, make them a favorite choice for traveling very long distances.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 480,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "mule",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "sort": 900000,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!rp9AZj1ThUu3Y4oQ"
+}

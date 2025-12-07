@@ -1,0 +1,59 @@
+{
+  "folder": "nneAAqmcEwOL9zrI",
+  "name": "Sky Blue",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/SkyBlue.webp",
+  "system": {
+    "description": {
+      "value": "<p>The small mushroom is a distinctive all-blue color, in some places called Werewere-kokako, due to its similar coloring to the Kokako bird. Its beauty is deceptive, for its poison brings swift death to those who dare to eat it.  For the skilled artisan, it offers something different, a blue dye so rich and rare to be used for ordinary cloth to transform it into a work of art.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 3,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "material",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "identifier": "antlers",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "pemkv7d8Nmz0KGEk",
+  "sort": 0,
+  "_originalKey": "!items!pemkv7d8Nmz0KGEk"
+}

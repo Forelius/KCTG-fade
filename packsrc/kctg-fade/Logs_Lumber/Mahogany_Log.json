@@ -1,0 +1,52 @@
+{
+  "name": "Mahogany Log",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Mahogany.webp",
+  "system": {
+    "description": {
+      "value": "<p>Mahogany is a straight-grained, reddish-brown timber that is mainly harvested for the wood, found in most warmer climates, mainly tropical forests, and extremely rare. Some territories, have this specific wood outright banned for import as it tends to put a high economic pressure on the territory as it is also in high demand.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": 14,
+    "price": {
+      "value": 250,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "LLvC7EvZacBUO0n8",
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "CD2TPBbuTazYy9ly",
+  "sort": 1300000,
+  "_originalKey": "!items!CD2TPBbuTazYy9ly"
+}

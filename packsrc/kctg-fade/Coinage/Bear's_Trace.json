@@ -1,0 +1,39 @@
+{
+  "name": "Bear's Trace",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Bears%20Trace.webp",
+  "system": {
+    "description": {
+      "value": "<p>The Gleaming Unicorn and Golden Deer coins are considered valuable by some, but woodland folk refuse to touch them due to their metal properties. To create an alternative, the folk imbue a piece of soil with magic, and each minter uses their own animal form paw, claw, or hoof to create a unique mark in the mold as a signature. These coins have a value close to a copper due to their magical imbue, and multiple forgeries have been attempted. However, those familiar with the arcane arts can realize the coin is a counterfeit, or simply by adding water, as the coin is made of soil and it simply gets muddy. The magical imbuement also gives the coins water-repelling properties, making them harder to counterfeit.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 0.01,
+    "price": {
+      "value": 2,
+      "denomination": "cp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "HbFNnaCa2Bu4s3ht",
+  "_id": "QX0NzTXMSNuxLypA",
+  "sort": 150000,
+  "_originalKey": "!items!QX0NzTXMSNuxLypA"
+}

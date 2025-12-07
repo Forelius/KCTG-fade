@@ -1,0 +1,52 @@
+{
+  "name": "Latratite",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<p>On the rarest of occasions, it is referred to as the \"Gem of the Divines,\" and not many of its kind have been discovered throughout history. It is speculated that, if ingested, the consumer will gain the ability to persuade everyone in their path. However, the limited knowledge we have of Latratite does not provide any information on its potential side effects. Rumor has it that ingesting this gem will make your skin emanate a faint blue glow, your eyes and hair perpetually change shades until they reach a pure gold color. Those coming with contact with someone who has ingested Latratite will only tell the truth or be easily coerced. However, when the effect dissipates, the user will not remember the event, but others will remember what was said to them.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 250,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "img": "modules/kctg-5e/images/Latratite.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "sort": 3200000,
+  "_id": "wfTXSb6agvXIb5z7",
+  "_originalKey": "!items!wfTXSb6agvXIb5z7"
+}

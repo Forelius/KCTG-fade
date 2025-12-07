@@ -1,0 +1,155 @@
+{
+  "folder": "SnCLn6dGh9qoaujc",
+  "name": "Wall Meat",
+  "type": "consumable",
+  "img": "modules/kctg-5e/images/Wall%20Meat.webp",
+  "system": {
+    "description": {
+      "value": "<p>Wall Meat, harvested from the Kurnarac, is a prized delicacy among the subterranean folk, due to the long and laborious process of planting and harvesting it. Despite its name, Wall Meat is not actual meat but a type of mushroom with a tough, hard exterior. Its preparation is simple but can be off-putting to those unaccustomed to underground cuisine, as it has a strong, mold-like odor from its lengthy time spent in the subterranean environment. Only those with a robust constitution are fit to cook it. Once prepared, however, it has a rich flavor, blending the best qualities of tender beef and sautéed mushrooms.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 25,
+      "units": "lb"
+    },
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "food",
+      "subtype": "food"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "antlers",
+    "container": null,
+    "properties": [],
+    "activities": {
+      "o8GU9HFJIUSh98I2": {
+        "type": "utility",
+        "name": "Consume",
+        "_id": "o8GU9HFJIUSh98I2",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": null,
+          "override": false,
+          "condition": ""
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "material",
+              "value": "1",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false,
+          "units": "self",
+          "special": ""
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft",
+            "type": ""
+          },
+          "affects": {
+            "choice": false,
+            "type": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false,
+          "formula": "",
+          "name": ""
+        },
+        "img": "modules/kctg-5e/images/Activities/Consume.png"
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "autoDestroy": false,
+      "max": ""
+    },
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "damage": {
+      "base": {
+        "number": null,
+        "denomination": null,
+        "types": [],
+        "custom": {
+          "enabled": false
+        },
+        "scaling": {
+          "number": 1
+        }
+      },
+      "replace": false
+    },
+    "magicalBonus": null
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3,
+    "C3FNsGlq2Lf7wevT": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "VzRu0QWyICJF1yTI",
+  "sort": 400000,
+  "_originalKey": "!items!VzRu0QWyICJF1yTI"
+}

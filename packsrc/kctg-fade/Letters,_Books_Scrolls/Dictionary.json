@@ -1,0 +1,65 @@
+{
+  "name": "Dictionary",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Dictionary.webp",
+  "system": {
+    "description": {
+      "value": "<p>This book contains all the words in a language along with their specific definitions. It is especially helpful for those attempting to learn the language, uncover archaic terms or regionalisms, and to also resolve complex puzzles.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "treasure",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "TFPwDODIpyRO0E0Q",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "djb6uGJzRCKMNa75",
+  "sort": 265625,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!djb6uGJzRCKMNa75"
+}

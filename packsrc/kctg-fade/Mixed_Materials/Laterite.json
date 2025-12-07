@@ -1,0 +1,50 @@
+{
+  "name": "Laterite",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Laterite.webp",
+  "system": {
+    "description": {
+      "value": "<p>Laterite is mainly used in making bricks, but it is used in all types of paint, primers, powders, and coatings, among other things. Used as a pigment in tiles, floor tiles, flooring products, ceramics, pottery, and many other items involving tiles and ceramics.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 3,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "ioDwaLKA1DUtYokk",
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "4qa4xmbanVVc21SP",
+  "sort": 500000,
+  "_originalKey": "!items!4qa4xmbanVVc21SP"
+}

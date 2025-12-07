@@ -1,0 +1,43 @@
+{
+  "name": "Clay Brick",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<p>The clay was shaped into bricks by pushing it into a wooden mold, then heating it in kilns. They can also be glazed with colorful finishes or decorated with intricate patterns, making them a popular choice for decorative building materials.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 2,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "material"
+    }
+  },
+  "img": "modules/kctg-5e/images/Clay%20Brick.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "ioDwaLKA1DUtYokk",
+  "sort": 900000,
+  "_id": "YHPjMwB0EKCJOh13",
+  "_originalKey": "!items!YHPjMwB0EKCJOh13"
+}

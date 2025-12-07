@@ -1,0 +1,59 @@
+{
+  "folder": "u1YauWP6weWgnFOR",
+  "name": "Aphid",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Aphid.webp",
+  "system": {
+    "description": {
+      "value": "<p>Aphids are tiny insects that survive by sucking sap from plants. Their presence can lead to serious crop damage, and without intervention, they pose a threat to farms, trees, and gardens alike. Commoners dread any appearance of this little critters.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "chick",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "HZnG6o4mWLb9zdrl",
+  "_originalKey": "!items!HZnG6o4mWLb9zdrl"
+}

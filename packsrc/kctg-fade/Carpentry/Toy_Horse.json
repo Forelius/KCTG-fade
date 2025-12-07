@@ -1,0 +1,58 @@
+{
+  "name": "Toy Horse",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Toy%20Horse.webp",
+  "system": {
+    "description": {
+      "value": "<p>The toy horse provides a sense of adventure for young children, crafted primarily from wood and often accompanied by wooden toy swords and shields. It sparks the imagination and is a must for the new aspiring adventurers.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": null,
+      "rules": "2024",
+      "book": "",
+      "page": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 15,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "identifier": "barrel-copy"
+  },
+  "effects": [],
+  "folder": "bxQZu0dOpDO6ztac",
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e2"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "eRHDEclkXbBVzgRz",
+  "sort": 1700000,
+  "_originalKey": "!items!eRHDEclkXbBVzgRz"
+}

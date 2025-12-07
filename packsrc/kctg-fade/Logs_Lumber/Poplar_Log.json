@@ -1,0 +1,54 @@
+{
+  "name": "Poplar Log",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Poplar%20Log.webp",
+  "system": {
+    "description": {
+      "value": "<p>Poplar is one of the most available types of wood. Due to its lower price due to its accessibility, it is an excellent choice for most beginners to intermediate carpenters. It also has a wide range of uses, such as construction, joinery, or carving.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0
+    },
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "LLvC7EvZacBUO0n8",
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "IOky1zsQWIEKCKWG",
+  "sort": 200000,
+  "_originalKey": "!items!IOky1zsQWIEKCKWG"
+}

@@ -1,0 +1,52 @@
+{
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "name": "Hypersthene",
+  "type": "loot",
+  "_id": "YJxkGcvOEKlSetTh",
+  "img": "modules/kctg-5e/images/Hypersthene.webp",
+  "system": {
+    "description": {
+      "value": "<p>This semi-precious stone displays hues ranging from green, red, and blue, to silver, and is notable for its complete opacity, a rarity among gemstones. Due to its unique characteristics, it fetches a premium price and is primarily utilized to embellish both furniture and clothing.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!YJxkGcvOEKlSetTh"
+}

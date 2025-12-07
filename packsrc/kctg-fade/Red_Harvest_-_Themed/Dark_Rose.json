@@ -1,0 +1,58 @@
+{
+  "folder": "ODTmZCF7DbiMcwhX",
+  "name": "Dark Rose",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Dark%20Rose.webp",
+  "system": {
+    "description": {
+      "value": "<p>You won't find this harvested and cared for in any proper garden, and thank the stars for that. I had only ever seen it in ashy soil of old forgotten battlefields or in the silent, dark and thick forests where the very air feels damp, old and watchful. Its stems and leaves are the deep purple of a day old bruise, veined with a crimson so dark it’s nearly black, while the flower itself, does resemble blood in color. It has no scent, instead, it carries a metallic smell, like dread on the wind, and the melancholy decay of the forgotten.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 3,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "chick",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "ownership": {
+    "default": 0,
+    "233gPIEGs3GHtRh3": 3
+  },
+  "sort": 150000,
+  "_id": "kpK03jYymO3xbsaf",
+  "_originalKey": "!items!kpK03jYymO3xbsaf"
+}

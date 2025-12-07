@@ -1,0 +1,54 @@
+{
+  "folder": "9z8F4GiWlXBk1DYI",
+  "name": "Stopwatch",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Stopwatch.webp",
+  "system": {
+    "description": {
+      "value": "<p>Mechanical stopwatches are powered by a mainspring, which must be wound up, usually by turning the knurled knob at the top of the stopwatch. They are primarily used to measure elapsed time in various fields such as sports, training, and science for activities like running laps or conducting experiments.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "hand-axe",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "ownership": {
+    "default": 0,
+    "233gPIEGs3GHtRh3": 3
+  },
+  "_id": "mK1tDRTc2rKxSf9R",
+  "sort": 1450000,
+  "_originalKey": "!items!mK1tDRTc2rKxSf9R"
+}

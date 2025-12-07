@@ -1,0 +1,58 @@
+{
+  "name": "Wooden Mannequin",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Wooden%20Mannequin.webp",
+  "system": {
+    "description": {
+      "value": "<p>Wooden mannequins, also known as laymen or lay figures, have many uses, ranging from artists to leatherworkers. Artists utilize these mannequins as molds for their sculptures, applying a layer of gypsum that is later removed to reveal the final form. Meanwhile, leatherworkers shape leather around these figures to craft hide armor and other equipment tailored to fit a humanoid form.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": null,
+      "rules": "2024",
+      "book": "",
+      "page": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 15,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "identifier": "barrel-copy"
+  },
+  "effects": [],
+  "folder": "bxQZu0dOpDO6ztac",
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e2"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "rRvcKWDfcxA8YmNj",
+  "sort": 400000,
+  "_originalKey": "!items!rRvcKWDfcxA8YmNj"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Birch Plank",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<p>The plank is incredibly strong and durable, yet surprisingly light and easy to work with. It is the perfect material for creating everything from delicate jewelry and intricate carvings to elegant furniture and powerful artifacts. Most towns' sawmills that trade in it, are speculated to have highly skilled craftsmen and artisans in their midst</p><p></p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 14,
+    "price": {
+      "value": 2,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "img": "modules/kctg-5e/images/Birch%20plank.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "LLvC7EvZacBUO0n8",
+  "sort": 1000000,
+  "_id": "YrUnoEZDvobghcNI",
+  "_originalKey": "!items!YrUnoEZDvobghcNI"
+}

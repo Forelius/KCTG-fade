@@ -1,0 +1,56 @@
+{
+  "name": "Painite",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Painite.webp",
+  "system": {
+    "description": {
+      "value": "<p>Painite is the rarest gem in the realms. Nobody has a specific price for it and some say it can buy entire kingdoms, while others say it has no value. So far, besides the ornamentation of jewelry pieces, no other uses have been found. Researchers do study these specific gems for their more arcane applications; however, no discoveries have been made as of yet.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "0s4xPwfxnWVqkOWX",
+  "sort": 400000,
+  "_originalKey": "!items!0s4xPwfxnWVqkOWX"
+}

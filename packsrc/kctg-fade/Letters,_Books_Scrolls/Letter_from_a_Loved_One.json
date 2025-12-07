@@ -1,0 +1,65 @@
+{
+  "name": "Letter from a Loved One",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Letter%20From%20a%20Loved%20One.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>Hello dear, </em></p><p><em>We are happy to hear you are doing well, and the last coin you send back we finally we were able to fix the hole we had in the thatch in our kitchen. The youngest finally came of age to be sent to the abbott to learn to read and write, and how to do so efficently, but our oldest, his eyes are getting darker as time goes, now they are like the deep sea, a deep blue that looks unnatural. If you look long enough you see things... Horrible things. I am scared... When are you coming back? Please let it be soon. </em></p><p><em>With love,</em></p><p><em>Your Dandelion</em></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "treasure",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "TFPwDODIpyRO0E0Q",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "MoPstf5scpuHf6YU",
+  "sort": 264063,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!MoPstf5scpuHf6YU"
+}

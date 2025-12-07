@@ -1,0 +1,48 @@
+{
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "name": "Cymophane",
+  "type": "loot",
+  "_id": "AHPxjcpL2OTS2sao",
+  "img": "modules/kctg-5e/images/Cymophane.webp",
+  "system": {
+    "description": {
+      "value": "<p>Cymophane, when fashioned into beads, earns the name \"Cat's Eye\" from its ability to reflect light in a manner that mimics the appearance of a feline's eye.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 200,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!AHPxjcpL2OTS2sao"
+}

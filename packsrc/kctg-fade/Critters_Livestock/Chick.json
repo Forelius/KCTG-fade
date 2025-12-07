@@ -1,0 +1,59 @@
+{
+  "folder": "u1YauWP6weWgnFOR",
+  "name": "Chick",
+  "type": "loot",
+  "_id": "LsIP3CGFjlkuwMDK",
+  "img": "modules/kctg-5e/images/Chick.webp",
+  "system": {
+    "description": {
+      "value": "<p>The chick does not have many uses at this point in its lifespan. However, those who manage the coops tend to separate them for future use, either for meat or for eggs. To earn a little income, the farmer will take some of the chicks to the market for sale.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 2,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "chick",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!LsIP3CGFjlkuwMDK"
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Last Will",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Last%20Will.webp",
+  "system": {
+    "description": {
+      "value": "<p>Usually made as a transfer of wealth and land, enforced by a nearby lord or kingdom, for the assets to be distributed as instructed. Some wills are not for wealth distribution but serve as a way to communicate final thoughts, hopes, or legacies, sometimes with a personal touch through the aid of a bard or clergy.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "treasure",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "TFPwDODIpyRO0E0Q",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "fG5GevJ7zjOpQwSK",
+  "sort": 274219,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!fG5GevJ7zjOpQwSK"
+}

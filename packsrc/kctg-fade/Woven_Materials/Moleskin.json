@@ -1,0 +1,40 @@
+{
+  "name": "Moleskin",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Moleskin.webp",
+  "system": {
+    "description": {
+      "value": "<p>A heavy cotton fabric which got its name due to the soft feeling to the touch, which bears similarity to mole's fur. The most common use of moleskin is for creating trousers, however, it is also usually a prime material for bandaging.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 3,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "LAyIc8TxL1JT6Oit",
+  "sort": 143750,
+  "_id": "WjjOK6A0JNV9kILY",
+  "_originalKey": "!items!WjjOK6A0JNV9kILY"
+}

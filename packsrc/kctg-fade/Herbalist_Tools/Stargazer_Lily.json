@@ -1,0 +1,58 @@
+{
+  "folder": "nneAAqmcEwOL9zrI",
+  "name": "Stargazer Lily",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Stargazer%20Lily.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>\"As dusk falls and the night sky begins to darken, there’s a sense of anticipation in the air. Those who know the legend watch the sky closely, waiting for the first signs of a meteor shower. At that very moment, the Stargazer Lily begins to bloom, its petals unfolding as if responding to the celestial display above. The sweet scent fills the air, carrying with it the magic of the stars as if the flower itself has been touched by the heavens.\"</em></p><p>The Stargazer Lily, known for its fragrance, is grown and harvested in various regions to create perfumes. Some believe that the flower blooms only during a meteor shower, adding a mystical element to its already enchanting nature.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "material",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "antlers",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "jRY3hJOFvB4jw5PC",
+  "sort": 500000,
+  "_originalKey": "!items!jRY3hJOFvB4jw5PC"
+}

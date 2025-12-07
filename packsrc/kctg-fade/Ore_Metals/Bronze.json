@@ -1,0 +1,40 @@
+{
+  "_id": "qZETZq20GB7jZbPV",
+  "name": "Bronze",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Bronze.webp",
+  "effects": [],
+  "folder": "rknvmXL7rtQgObfA",
+  "sort": 3700000,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Bronze, an alloy commonly created by mixing Copper and Tin, is the most familiar material for most artists, but also for treasurers for making coins. It is also broadly used in boat and ship fittings, as well as in the manufacturing process of mirrors, bells, and instrument strings.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 7,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "ownership": {
+    "default": 0,
+    "3fjwTQThfGz3b3g3": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!qZETZq20GB7jZbPV"
+}

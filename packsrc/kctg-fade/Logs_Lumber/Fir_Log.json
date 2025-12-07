@@ -1,0 +1,40 @@
+{
+  "name": "Fir Log",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<p>The Fir Log is a sturdy and versatile piece of wood, prized for its strength and durability. The logs are cut from the resilient fir trees that grow in the snowy mountains, imbued with their rugged spirit and strength. Because fir wood is strong and durable, it is an ideal material for creating frames and other structural components of a building. In addition to their practical uses, fir planks are also prized for their attractive appearance. The wood has a distinctive light-colored, straight-grain appearance, making it a popular choice for decorative purposes.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 0,
+    "price": {
+      "value": 2,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "img": "modules/kctg-5e/images/Fir%20Log.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "LLvC7EvZacBUO0n8",
+  "sort": 700000,
+  "_id": "B2VSNmoY32KUU9Cn",
+  "_originalKey": "!items!B2VSNmoY32KUU9Cn"
+}

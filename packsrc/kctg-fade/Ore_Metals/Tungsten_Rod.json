@@ -1,0 +1,64 @@
+{
+  "name": "Tungsten Rod",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Tungsten%20Rod.webp",
+  "system": {
+    "description": {
+      "value": "<p>Tungsten, sometimes referred to as \"Wolfram\", is one of the heaviest metals used in any form of crafting. Due to its heavy nature and tough molding, it is primarily used in alloying with softer metals, such as Rhenium or Aluminum all to enhance their durability and shelf life. Another use of tungsten is in the creation of combat battering rams, from which it derives its name.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 6,
+      "denomination": "ep"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "rknvmXL7rtQgObfA",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "uKxzcxF1t3Q64Fmb",
+  "sort": 450000,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!uKxzcxF1t3Q64Fmb"
+}

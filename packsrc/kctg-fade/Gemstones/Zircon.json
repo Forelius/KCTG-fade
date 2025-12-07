@@ -1,0 +1,52 @@
+{
+  "name": "Zircon",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Zircon.webp",
+  "effects": [],
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "sort": 5800000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "QZNr5svbU3ygMOua",
+  "system": {
+    "description": {
+      "value": "<p>Zircon is a gemstone of many colors. There is also a transparent variant of it very similar to a diamond, which is why it's usually used as a cheaper alternative to it. Anyone without knowledge of gemstones can be easily fooled into believing that the stone is more expensive than it is.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "FvHmsAdVJKNAy9eZ": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "auVc65DdvimseblT": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!QZNr5svbU3ygMOua"
+}

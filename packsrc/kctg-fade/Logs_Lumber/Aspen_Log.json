@@ -1,0 +1,54 @@
+{
+  "name": "Aspen Log",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Aspen.webp",
+  "system": {
+    "description": {
+      "value": "<p>Aspen wood is white, soft, lightweight, and fairly strong and has a multitude of uses. Mainly found in colder climates, making it one of the more widespread trees. Its bark is used in multiple medicinal poultices by herbalists mainly for its antioxidants or anti-inflammatory properties. </p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0
+    },
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "LLvC7EvZacBUO0n8",
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "YUt0DIP2NiorDyBl",
+  "sort": 1500000,
+  "_originalKey": "!items!YUt0DIP2NiorDyBl"
+}

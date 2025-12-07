@@ -1,0 +1,53 @@
+{
+  "name": "Gem Encrusted Crown",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Gem%20encrusted%20Crown.webp",
+  "effects": [],
+  "folder": "cIJKJ2rN2ZLnb881",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>A crown fit for a king. Usually crafted by a jeweler with a diverse set of skills, such as silversmithing, goldsmithing, and gemcutting, and often honored with the distinguished title of Crown Jeweler by the populace. He is also responsible for maintaining each piece of royal jewelry, ensuring it remains in pristine condition every time it is worn.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1250,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "sort": 100391,
+  "_id": "gj99dhJYP8G28xj4",
+  "_originalKey": "!items!gj99dhJYP8G28xj4"
+}

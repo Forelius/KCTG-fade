@@ -1,0 +1,50 @@
+{
+  "folder": "9z8F4GiWlXBk1DYI",
+  "name": "Garden Hoe",
+  "type": "loot",
+  "_id": "o9FXV5bSl7HC29oA",
+  "img": "modules/kctg-5e/images/Grape%20Hoe.webp",
+  "system": {
+    "description": {
+      "value": "<p>The garden hoe serves multiple purposes, assisting with seeding by creating small trenches for seed placement and aiding in weed removal. With its sharp and wide blade, farmers favor the garden hoe for cutting rows of weeds. It effortlessly slides just beneath the soil's surface, cutting the roots of pesky weeds.</p><p></p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": ""
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 1,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 2500000,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!o9FXV5bSl7HC29oA"
+}

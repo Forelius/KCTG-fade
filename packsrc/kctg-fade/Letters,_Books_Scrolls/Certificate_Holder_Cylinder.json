@@ -1,0 +1,65 @@
+{
+  "name": "Certificate Holder Cylinder",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Certificate%20Holder%20Cylinder.webp",
+  "system": {
+    "description": {
+      "value": "<p>Simple cylinder designed to hold a large amount of documentation. It is usually carried by tax collectors or couriers to transport a large quantity of papers or documents while traveling. In archives, cylinders are used to store records, helping to occupy less space and be better for organization. These cylinders are often made from durable materials, such as thick leather, metal, or reinforced parchment, to withstand wear and protect important documents during transit.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "treasure",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "TFPwDODIpyRO0E0Q",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "pa2l2rdeQRYPOSbe",
+  "sort": 275000,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!pa2l2rdeQRYPOSbe"
+}

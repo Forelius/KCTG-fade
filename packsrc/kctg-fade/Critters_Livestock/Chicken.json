@@ -1,0 +1,59 @@
+{
+  "folder": "u1YauWP6weWgnFOR",
+  "name": "Chicken",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Chicken.webp",
+  "system": {
+    "description": {
+      "value": "<p>Known as poultry, chickens are typically kept by commoners for their reliable supply of eggs to sustain the entire household. The meat is mainly reserved for special occasions like birthdays or holidays, as it does become the centerpiece for a very filling meal.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 2,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "chick",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "73PcLBqC7fWwaQsW",
+  "_originalKey": "!items!73PcLBqC7fWwaQsW"
+}

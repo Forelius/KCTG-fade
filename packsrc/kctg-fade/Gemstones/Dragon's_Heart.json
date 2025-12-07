@@ -1,0 +1,52 @@
+{
+  "name": "Dragon's Heart",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<p>According to legends, the Dragon's Heart is a rare gemstone that is said to be formed from the molten core of a dragon. It is believed to contain the essence of the dragon's power and strength. However, this belief is unverified, as the gem is typically discovered in the aftermath of a dragon's death or when a dragon vacates its lair. The discovery of the Dragon's Heart is a recent one, made by adventurers and treasure hunters who ventured into dragon's lairs in search of treasure and glory. The gem can only be found in caves, caverns, or mines that have been used as a dragon's lair. It is said that after a period of time, the gem will appear in the center of the lair, as if the earth itself has spit it out. Due to the limited number of these gems discovered, the Dragon's Heart is considered one of the most valuable and expensive gems available for trade.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 12500,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "img": "modules/kctg-5e/images/Dragon%27s%20Heart.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "sort": 5100000,
+  "_id": "AIr6JppOrr6JcmQ7",
+  "_originalKey": "!items!AIr6JppOrr6JcmQ7"
+}

@@ -1,0 +1,58 @@
+{
+  "folder": "bxQZu0dOpDO6ztac",
+  "name": "Sextant",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Sextant.webp",
+  "system": {
+    "description": {
+      "value": "<p>The sextant is a navigation instrument designed to measure the angular distance between two visible objects. Primarily, it is used to measure the angle between an astronomical body, such as a star or a moon, and the horizon, which is crucial for nautical navigation.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 25,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "material",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "antlers",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "uePR3RyTGmLW7BQL",
+  "sort": 0,
+  "_originalKey": "!items!uePR3RyTGmLW7BQL"
+}

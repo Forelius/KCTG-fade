@@ -1,0 +1,54 @@
+{
+  "folder": "9z8F4GiWlXBk1DYI",
+  "name": "Puzzle Box",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Puzzle%20Box.webp",
+  "system": {
+    "description": {
+      "value": "<p>This small toy comes with a disclaimer stating that it contains small parts. While it is mechanized, the Puzzle Box is mostly aimed at young children to help them with cognitive development. It contains many small cogs and gears. However, when it is finally opened, parents always leave a treat for the children.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "hand-axe",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "ownership": {
+    "default": 0,
+    "233gPIEGs3GHtRh3": 3
+  },
+  "_id": "Sh2KJC54yhAnrIO3",
+  "sort": 1912500,
+  "_originalKey": "!items!Sh2KJC54yhAnrIO3"
+}

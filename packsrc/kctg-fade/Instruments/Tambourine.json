@@ -1,0 +1,55 @@
+{
+  "name": "Tambourine",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Tamburine.webp",
+  "system": {
+    "description": {
+      "value": "<p>The tambourine is a versatile percussion instrument featuring a wooden frame with pairs of small metal jingles known as zills. It can be played in many ways such as held in the hand, mounted on a stand, shaken to produce a lively sound, or struck sharply with the hand or a stick. Musicians can also use the tambourine attached to their leg or hip for added rhythm.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2014"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "identifier": "chair"
+  },
+  "effects": [],
+  "folder": "IwFJtR8yJkW4FYub",
+  "sort": 1500000,
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "crYNeb8uSBfzu4lQ",
+  "_originalKey": "!items!crYNeb8uSBfzu4lQ"
+}

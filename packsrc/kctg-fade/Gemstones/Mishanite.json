@@ -1,0 +1,48 @@
+{
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "name": "Mishanite",
+  "type": "loot",
+  "_id": "lvpbOCqhWd5ZSItM",
+  "img": "modules/kctg-5e/images/Mishanite.webp",
+  "system": {
+    "description": {
+      "value": "<p>Mishanite is a uniquely sought-after gem, much like Harumite. Those who seek it can mold it into any desired shape or color, and multiple manifestations can coexist. Despite its lack of tangible value to others, Mishanite holds immense sentimental significance. Finding this gem evokes a profound sense of personal warmth and closeness.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!lvpbOCqhWd5ZSItM"
+}

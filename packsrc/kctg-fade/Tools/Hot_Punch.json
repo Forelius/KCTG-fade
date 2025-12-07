@@ -1,0 +1,46 @@
+{
+  "folder": "9z8F4GiWlXBk1DYI",
+  "name": "Hot Punch",
+  "type": "loot",
+  "_id": "GjvLJpwjKqfLoApm",
+  "img": "modules/kctg-5e/images/Hot%20Punch.webp",
+  "system": {
+    "description": {
+      "value": "<p>Referred to either as a forging punch or hot punch, this tool is primarily utilized for cutting or punching through metal to shape and secure it. Moreover, it lends itself to forming impressions or designs, making it a choice for the more discerning customers.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": ""
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 3,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 1300000,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!GjvLJpwjKqfLoApm"
+}

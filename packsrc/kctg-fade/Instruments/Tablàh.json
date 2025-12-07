@@ -1,0 +1,55 @@
+{
+  "name": "Tablàh",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Tabla.webp",
+  "system": {
+    "description": {
+      "value": "<p>The tablàh, commonly referred to as the goblet drum or chalice drum, and sometimes called dombek or tarabuka depending on the region, has a shape that resembles a large goblet. Made of wood with a thin leather membrane, this percussion instrument plays a vital role in many musical traditions, contributing a unique rhythm to them.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2014"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 12,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "identifier": "chair"
+  },
+  "effects": [],
+  "folder": "IwFJtR8yJkW4FYub",
+  "sort": 800000,
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "KFqI0kIQN29LjU2L",
+  "_originalKey": "!items!KFqI0kIQN29LjU2L"
+}

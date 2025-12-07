@@ -1,0 +1,52 @@
+{
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "name": "Chrysocolla",
+  "type": "loot",
+  "_id": "cw0EFat0NwnTNMiL",
+  "img": "modules/kctg-5e/images/Chrysocolla.webp",
+  "system": {
+    "description": {
+      "value": "<p>Chrysocolla, more readily available than turquoise, boasts vivid blue and blue-green colors that have made it popular for carvings and ornamental purposes since ancient times. It is frequently used in silversmithing and goldsmithing as a versatile substitute for turquoise, thanks to its ease of shaping and working with metals.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 1600000,
+  "ownership": {
+    "default": 0,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!cw0EFat0NwnTNMiL"
+}

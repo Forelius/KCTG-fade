@@ -1,0 +1,65 @@
+{
+  "name": "Left Behind Note",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Left%20Behind%20Note.webp",
+  "system": {
+    "description": {
+      "value": "<blockquote><p>\"Me and the party thought coming here was a good idea. Now, I’m stuck in this room, and I don’t know what awaits me beyond the door, only that there are many.</p><p>If anyone finds this, please let my family know that I am alive, though I’ll be traveling far away. It may be some time before I can reach them again.</p><p>Consider this my final wish, should fate not favor me.</p><p>I hope your luck is better than my own.</p><p>Erne of Windfall\"</p></blockquote>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "treasure",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "TFPwDODIpyRO0E0Q",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "v0wodxsZcxThnzRm",
+  "sort": 160841,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!v0wodxsZcxThnzRm"
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Chalcedony",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Chalcedony.webp",
+  "effects": [],
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "sort": 5200000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "ko33IiTimJDochzF",
+  "system": {
+    "description": {
+      "value": "<p>It is speculated that it's sometimes used in Necromancy, mainly as a replacement for the human bone, to provide either protection or control over the undead creature. It is also used to carve small cameos or busts in locked pendants, mainly in jewelry</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "FvHmsAdVJKNAy9eZ": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "auVc65DdvimseblT": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!ko33IiTimJDochzF"
+}

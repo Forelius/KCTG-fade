@@ -1,0 +1,55 @@
+{
+  "name": "Maracas",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Maracas.webp",
+  "system": {
+    "description": {
+      "value": "<p>Known by various names like chac-chac, tamaracas, or shakers, maracas are rattle instruments usually played in pairs. They contain a few pebbles inside and are traditionally covered with the skin of a rare bird called the scarlet ibis. Many believe that the dances accompanied by the maracas can heal the sick.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2014"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "identifier": "chair"
+  },
+  "effects": [],
+  "folder": "IwFJtR8yJkW4FYub",
+  "sort": 600000,
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "HBALB26mmw8XHVcI",
+  "_originalKey": "!items!HBALB26mmw8XHVcI"
+}

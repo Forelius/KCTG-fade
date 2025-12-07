@@ -1,0 +1,52 @@
+{
+  "name": "Mahogany Lumber",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Mohagany%20Lumber.webp",
+  "system": {
+    "description": {
+      "value": "<p>Mahogany is important lumber prized for its beauty, durability, and color, and tends to be the most prized type of lumber. It is used for paneling and to make furniture, boats, decorative pieces, musical instruments, and other items. </p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 14
+    },
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "LLvC7EvZacBUO0n8",
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "dkFvSBJQuvjC4zIr",
+  "sort": 1400000,
+  "_originalKey": "!items!dkFvSBJQuvjC4zIr"
+}

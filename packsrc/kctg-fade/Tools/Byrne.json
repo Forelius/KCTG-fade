@@ -1,0 +1,54 @@
+{
+  "folder": "9z8F4GiWlXBk1DYI",
+  "name": "Byrne",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Byrne.webp",
+  "system": {
+    "description": {
+      "value": "<p>These belts were typically made from leather, woven braid, embroidered fabric or solid metalwork. Commoner women favored sturdier and more practical versions made from leather or tightly woven wool, as they mostly used them as a stand-in for a corset. Most belts remained plain apart from the buckle, while men often chose theirs to display status and personal pride.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 15,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "hand-axe",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "ownership": {
+    "default": 0,
+    "HSSviIXZSSQdGVd0": 3
+  },
+  "_id": "qqkUFcc7NDUrvl1m",
+  "sort": 137500,
+  "_originalKey": "!items!qqkUFcc7NDUrvl1m"
+}

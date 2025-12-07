@@ -1,0 +1,52 @@
+{
+  "name": "Opal",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Opal.webp",
+  "effects": [],
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "sort": 5500000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "1gKTJXdUXUv8rlYC",
+  "system": {
+    "description": {
+      "value": "<p><em>\"In a time when magical experimentation was still a thing, two mages decided to combine fire and lightning enchanted opals. A massive explosion occurred, and the two were never heard from again. Those attuned to magic, from time to time, can feel the reverberation of that explosion in their bones. In some places, it is now forbidden by law to combine the two.\" </em></p>\n<p> </p>\n<p>Being one of the most colorful gems, when the stone is cut so precisely, and in such a way that it provides a beautiful array of colors, it can sometimes be worth more than a Diamond. Mainly used in jewelry, like pendants and ring centerpieces. </p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1000,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "FvHmsAdVJKNAy9eZ": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "auVc65DdvimseblT": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!1gKTJXdUXUv8rlYC"
+}

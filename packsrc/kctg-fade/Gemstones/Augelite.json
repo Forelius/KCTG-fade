@@ -1,0 +1,52 @@
+{
+  "name": "Augelite",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<p>Augelite is an ornamental stone found throughout the realms. It is mainly worn by priests and is embedded into jewelry and holy symbols. This gemstone is stated to reflect any magic, or it is rarely used to create small anti-magic fields. Commoners claim that augelite gemstone has the ability to absorb negative energy and its widely believed that this is the reason is embedded in religious items.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "img": "modules/kctg-5e/images/Augelite.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "sort": 1300000,
+  "_id": "3rd0FN32wCmT2Scn",
+  "_originalKey": "!items!3rd0FN32wCmT2Scn"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Silver Ring",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Silver%20Ring.webp",
+  "effects": [],
+  "folder": "cIJKJ2rN2ZLnb881",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Silver rings tend to serve primarily as fashion statements, often chosen to complement specific outfits through visual coordination. They are also worn by individuals who are allergic to certain metals or by those seeking a more affordable option when purchasing new jewelry.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "sort": 100391,
+  "_id": "1g58QiFYHi2nyI7i",
+  "_originalKey": "!items!1g58QiFYHi2nyI7i"
+}

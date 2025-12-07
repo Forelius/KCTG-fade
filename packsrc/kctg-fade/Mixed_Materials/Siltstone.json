@@ -1,0 +1,55 @@
+{
+  "name": "Siltstone",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Siltstone.webp",
+  "system": {
+    "description": {
+      "value": "<p>Siltstone, a type of mudrock, is made of compressed clay and silt. It absorbs water well, making it useful for aquifers and water storage but unsuitable for most construction due to its porous nature, and when it is, it is primarily used in areas where no other type of rock material is available. </p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 5,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "rock-salt",
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "C3FNsGlq2Lf7wevT": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "ioDwaLKA1DUtYokk",
+  "_id": "Qxi70s9lq4dZHi4f",
+  "sort": 50000,
+  "_originalKey": "!items!Qxi70s9lq4dZHi4f"
+}

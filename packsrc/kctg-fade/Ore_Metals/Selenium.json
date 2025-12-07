@@ -1,0 +1,40 @@
+{
+  "name": "Selenium",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<p>Selenium is a rare and precious mineral that is highly sought after for its unique properties. It is said to have a deep, iridescent luster that shimmers with every color of the rainbow. When it is struck with a hammer or chisel, it gives off a pure, clear tone that is said to have a soothing effect on those who hear it. Despite its many wondrous properties, Selenium is also said to be incredibly difficult to obtain, and many brave and daring adventurers have set out in search of it, only to be met with failure or their demise.</p><p></p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 1000,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "img": "modules/kctg-5e/images/Selenium.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "rknvmXL7rtQgObfA",
+  "sort": 2900000,
+  "_id": "9DRXauWRFlorGwXc",
+  "_originalKey": "!items!9DRXauWRFlorGwXc"
+}

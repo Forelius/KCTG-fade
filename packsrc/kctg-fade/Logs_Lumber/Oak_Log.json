@@ -1,0 +1,40 @@
+{
+  "name": "Oak Log",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Oak%20Log.webp",
+  "effects": [],
+  "folder": "LLvC7EvZacBUO0n8",
+  "sort": 2100000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "BAqxLG5s5gx78aWN",
+  "system": {
+    "description": {
+      "value": "<p>The logs are usually processed into lumber, however, it's also commonly used in bakeries, furnaces, or home fireplaces as kindle.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 0,
+    "price": {
+      "value": 2,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "ownership": {
+    "default": 0,
+    "FvHmsAdVJKNAy9eZ": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!BAqxLG5s5gx78aWN"
+}

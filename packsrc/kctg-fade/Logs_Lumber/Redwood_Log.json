@@ -1,0 +1,40 @@
+{
+  "name": "Redwood Log",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Red%20Wood%20Log.webp",
+  "effects": [],
+  "folder": "LLvC7EvZacBUO0n8",
+  "sort": 2300000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "zq7gAeAvZbt8kwdU",
+  "system": {
+    "description": {
+      "value": "<p>A universal wood log, it can be used in anything, but usually used in carpentry and general construction, ranging from indoor and outdoor furniture, shingles, fence posts, paneling, and even arrow shafts. </p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 0,
+    "price": {
+      "value": 3,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "ownership": {
+    "default": 0,
+    "FvHmsAdVJKNAy9eZ": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!zq7gAeAvZbt8kwdU"
+}

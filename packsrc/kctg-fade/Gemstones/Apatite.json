@@ -1,0 +1,52 @@
+{
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "name": "Apatite",
+  "type": "loot",
+  "_id": "67efaNd9URtdS8z1",
+  "img": "modules/kctg-5e/images/Apatite.webp",
+  "system": {
+    "description": {
+      "value": "<p>Apatite is primarily used in the manufacture of fertilizer, dyes, and paint after being ground into fine dust. On rare occasions it is cut into a gem, it is a soft stone that can be easily worked by gem cutters without the need for specialized tools or extensive experience.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 500000,
+  "ownership": {
+    "default": 0,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!67efaNd9URtdS8z1"
+}

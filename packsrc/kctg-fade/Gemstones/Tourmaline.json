@@ -1,0 +1,52 @@
+{
+  "name": "Tourmaline",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Tourmaline.webp",
+  "effects": [],
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "sort": 5900000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "9fFh5YnufxJFCJaj",
+  "system": {
+    "description": {
+      "value": "<p>It is one of the most prized minerals, and its fine crystals can be among the most beautiful examples in the mineral kingdom. Instead of being faceted, many fine Tourmaline crystals are preserved for their beauty. It is also believed that they can absorb any spell cast upon them, and convert it into lightning. </p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "FvHmsAdVJKNAy9eZ": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "auVc65DdvimseblT": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!9fFh5YnufxJFCJaj"
+}

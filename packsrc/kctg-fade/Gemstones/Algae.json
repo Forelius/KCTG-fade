@@ -1,0 +1,48 @@
+{
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "name": "Algae",
+  "type": "loot",
+  "_id": "1PrJGIF6BKSdvsm1",
+  "img": "modules/kctg-5e/images/Algae.webp",
+  "system": {
+    "description": {
+      "value": "<p>With a consistency similar to quartz and the smoothness of agate, this gem is one of the finest ornamental stones for furniture. According to folklore, it is believed that this gem can prevent the shape-shifting attributes of spells and, in some fringe beliefs, even the living furniture.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!1PrJGIF6BKSdvsm1"
+}

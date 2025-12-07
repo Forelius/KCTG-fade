@@ -1,0 +1,58 @@
+{
+  "folder": "nneAAqmcEwOL9zrI",
+  "name": "Golden Berry",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Orange%20Berry.webp",
+  "system": {
+    "description": {
+      "value": "<p>The cape gooseberry is sometimes referred to as either ground cherry or golden berry, due to its yellow color. Most of the time, it is eaten as is or dipped in sweet chocolate. It can also be cooked to make exquisite jams, jellies, and purées, or used in exotic fruit salads, pavlovas, and roulades. Additionally, it can be simmered in water with a little sugar and used in fruit pies, cakes, or crumbles.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 3,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "material",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "antlers",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "ECZAPt7OPWr5LpJc",
+  "sort": 2800000,
+  "_originalKey": "!items!ECZAPt7OPWr5LpJc"
+}

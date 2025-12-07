@@ -1,0 +1,58 @@
+{
+  "folder": "nneAAqmcEwOL9zrI",
+  "name": "Popcorn Kernels",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Popcorn%20Kennels.webp",
+  "system": {
+    "description": {
+      "value": "<p>Popcorn is a variety of corn kernels that expands and puffs up when heated. The term also refers to the snack food made by heating these kernels. They can be topped with sugar, salt, butter, caramel, or cheese.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 5,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "material",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "antlers",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "v6OzTRxnDynAeGrj",
+  "sort": 600000,
+  "_originalKey": "!items!v6OzTRxnDynAeGrj"
+}

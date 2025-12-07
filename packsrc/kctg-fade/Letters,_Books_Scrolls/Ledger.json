@@ -1,0 +1,65 @@
+{
+  "name": "Ledger",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Ledger.webp",
+  "system": {
+    "description": {
+      "value": "<p>Businesses use specific ledgers to track purchases or sales or to store information. Depending on the store it can also contain additional information such as customers, traders, trade routes, or where the deepest cave exists. Prospectors use them to keep track of locations for ores. Herbalists tend to use them to track inventory, while a kingdom might store information on tax. As many ledgers exist there are as many uses. </p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "treasure",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "TFPwDODIpyRO0E0Q",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "7Z65oSHQRb1osjAO",
+  "sort": 273048,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!7Z65oSHQRb1osjAO"
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Wooden Bowls",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Wooden%20Bowl.webp",
+  "system": {
+    "description": {
+      "value": "<p>Carved from hardwoods, wooden bowls are both aesthetically pleasing and practical, known for their heat retention and easy handling. Nevertheless, their porous nature can complicate cleaning and maintenance, necessitating special care.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": null,
+      "rules": "2024",
+      "book": "",
+      "page": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "identifier": "barrel-copy"
+  },
+  "effects": [],
+  "folder": "bxQZu0dOpDO6ztac",
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e2"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "bqqMCpbJc3OynmCN",
+  "sort": 300000,
+  "_originalKey": "!items!bqqMCpbJc3OynmCN"
+}

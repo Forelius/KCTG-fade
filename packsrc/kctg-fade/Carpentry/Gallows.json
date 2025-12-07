@@ -1,0 +1,58 @@
+{
+  "name": "Gallows",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Gallows.webp",
+  "system": {
+    "description": {
+      "value": "<p>One single upright post with a beam at the top forms the basic structure of the gallows, designed for executing death row inmates guilty of horrendous acts. Beyond punishment, they have served as public displays of justice or, in some cases, as a warning to the people after the unrest, often at the direction of the regional higher class.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": null,
+      "rules": "2024",
+      "book": "",
+      "page": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "identifier": "barrel-copy"
+  },
+  "effects": [],
+  "folder": "bxQZu0dOpDO6ztac",
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e2"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "YOpKKpeGpwaGmiEP",
+  "sort": 1200000,
+  "_originalKey": "!items!YOpKKpeGpwaGmiEP"
+}

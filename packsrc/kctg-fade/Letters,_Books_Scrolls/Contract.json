@@ -1,0 +1,65 @@
+{
+  "name": "Contract",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Contract.webp",
+  "system": {
+    "description": {
+      "value": "<p>A written contract between two parties that outlines the specifics for a job, trade, or other arrangement. It is signed by both parties and stamped with a seal by a third party as a witness. The contract can include as many details as required for the request at hand. It is typically provided in three copies, one for each party involved.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "treasure",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "TFPwDODIpyRO0E0Q",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "oy0n4v6QSwuz6Z9M",
+  "sort": 159375,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!oy0n4v6QSwuz6Z9M"
+}

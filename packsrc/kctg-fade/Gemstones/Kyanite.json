@@ -1,0 +1,52 @@
+{
+  "name": "Kyanite",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<p>Kyanite mainly used in creating ceramic dishware, due to its distinctive beautiful blue colors and being a gemstone that blends easily with any other materials, under heat. It can also grind to a fine powder, making it be used in high-quality inks.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "img": "modules/kctg-5e/images/Kyanite.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "sort": 2200000,
+  "_id": "f8ONJcVNOrsyafep",
+  "_originalKey": "!items!f8ONJcVNOrsyafep"
+}

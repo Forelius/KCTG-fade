@@ -1,0 +1,58 @@
+{
+  "folder": "ODTmZCF7DbiMcwhX",
+  "name": "Skull Candle",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Skull%20Candle.webp",
+  "system": {
+    "description": {
+      "value": "<p>Tavern-keeps and innholders are their primary patrons. They are cheap to buy and cheaper to maintain, and they give a place a certain... character. I also must say, they are particularly fond of them, claiming the grim visage keeps rowdy dockhands in their seats. I find they are more often used as a target for throwing knives after the seventh round of ale, but for one night a year, I think the keeps can manage.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "chick",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "ownership": {
+    "default": 0,
+    "233gPIEGs3GHtRh3": 3
+  },
+  "sort": 150000,
+  "_id": "W5gypuBKjioaHBPi",
+  "_originalKey": "!items!W5gypuBKjioaHBPi"
+}

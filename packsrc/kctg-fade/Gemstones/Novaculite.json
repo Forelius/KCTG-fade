@@ -1,0 +1,48 @@
+{
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "name": "Novaculite",
+  "type": "loot",
+  "_id": "agTzaweDuzlBndS8",
+  "img": "modules/kctg-5e/images/Novaculite.webp",
+  "system": {
+    "description": {
+      "value": "<p>Novaculite, resembling quartz, fulfills highly specialized roles. Originally utilized for crafting arrow and spear points, it has since gained prominence as the primary material for manufacturing sharpening stones, essential in the production of whetstones.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!agTzaweDuzlBndS8"
+}

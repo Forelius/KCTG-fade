@@ -1,0 +1,58 @@
+{
+  "folder": "ODTmZCF7DbiMcwhX",
+  "name": "Darkness Eye",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Darkness%20Eye.webp",
+  "system": {
+    "description": {
+      "value": "<p>The first time I saw a Darkness Eye, it was in the cracked palm of a street vendor in Marrowgate, and I swear the thing looked like it was swallowing the light whole. A gem, indeed, but not one that glitters or winks at you, with it's jumping colors. Its surface is dull and black as pitch, yet somehow deeper than any pit. Stare too long, and your stomach tightens as though you’re falling into it. Some say it’s not stone at all, but a fragment of night itself created into a round shape.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 15,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "chick",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "ownership": {
+    "default": 0,
+    "233gPIEGs3GHtRh3": 3
+  },
+  "sort": 150000,
+  "_id": "HcoIyxgNv40EGtoU",
+  "_originalKey": "!items!HcoIyxgNv40EGtoU"
+}

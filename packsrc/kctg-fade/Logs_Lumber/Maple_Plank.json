@@ -1,0 +1,40 @@
+{
+  "name": "Maple Plank",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Maple%20Plank.webp",
+  "effects": [],
+  "folder": "LLvC7EvZacBUO0n8",
+  "sort": 800000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "5BuMYwDqaNGjY1Pd",
+  "system": {
+    "description": {
+      "value": "<p>The lumber is mainly used to make furniture and is the best choice for wooden flooring.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 14,
+    "price": {
+      "value": 2,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "ownership": {
+    "default": 0,
+    "FvHmsAdVJKNAy9eZ": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!5BuMYwDqaNGjY1Pd"
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Platinum Ingot",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Platinum%20Ingot.webp",
+  "system": {
+    "description": {
+      "value": "<p>Platinum ingots are extremely difficult to manufacture, requiring the hottest smelters fueled by lava or arcane fire to properly melt and refine platinum ore. Once purified into ingot form, only the most skilled craftsmen and elite workshops use it for the creation of high-quality items. However, the ingots are traded mainly as a commodity for high-value goods.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 500,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "rknvmXL7rtQgObfA",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "1lqSSKGDENZOnc49",
+  "sort": 2950000,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!1lqSSKGDENZOnc49"
+}

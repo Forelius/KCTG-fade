@@ -1,0 +1,52 @@
+{
+  "name": "Sandalwood Lumber",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Sandalwood%20plank.webp",
+  "system": {
+    "description": {
+      "value": "<p>Sandalwood is extremely rare and precious, it is used for intricate carvings, to make sturdy furniture, medicines, cosmetics, and religious rites. The heartwood of the tree is treasured for its aroma and is one of the finest natural materials for making beautifully carved furniture and tools.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 25,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "LLvC7EvZacBUO0n8",
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "mFfHyLPhApkcTk4Y",
+  "sort": 100000,
+  "_originalKey": "!items!mFfHyLPhApkcTk4Y"
+}

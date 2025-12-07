@@ -1,0 +1,58 @@
+{
+  "folder": "ODTmZCF7DbiMcwhX",
+  "name": "Crow Feathers",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Crow%20Feathers.webp",
+  "system": {
+    "description": {
+      "value": "<p>The crow is a clever creature, when making it, most say it's a watcher and a guide, a creature that knows the secrets of both the field and the midden. Binding two of its feathers is said to capture a small sliver of that cunning, and for the red string tied to its base? That acts as a focus. It binds the magic, so to speak, keeps it from wandering off. This specific suppersticion is divided as for every soul who sees it as a lucky charm, there’s another who’ll spit on the ground and call it a fool’s gamble. </p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 5,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "chick",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "ownership": {
+    "default": 0,
+    "233gPIEGs3GHtRh3": 3
+  },
+  "sort": 150000,
+  "_id": "yQ7EZPU7aPA1xjR2",
+  "_originalKey": "!items!yQ7EZPU7aPA1xjR2"
+}

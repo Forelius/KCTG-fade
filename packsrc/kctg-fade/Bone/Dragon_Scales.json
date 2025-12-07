@@ -1,0 +1,50 @@
+{
+  "folder": "NGIN3DqFLpdjTTXr",
+  "name": "Dragon Scales",
+  "type": "loot",
+  "_id": "8mOAbvV7MRmfetNO",
+  "img": "modules/kctg-5e/images/Dragon%20Scales.webp",
+  "system": {
+    "description": {
+      "value": "<p>The scales do not have many uses, yet, stories travel the lands, that, you can, in a time of need, use the scales as an improvised defense tool, as they are quite sturdy and have a similar shape to a shield, and they can resist the element from which dragon the scale came from.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": ""
+    },
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!8mOAbvV7MRmfetNO"
+}

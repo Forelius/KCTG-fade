@@ -1,0 +1,54 @@
+{
+  "folder": "9z8F4GiWlXBk1DYI",
+  "name": "Timer",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Timer.webp",
+  "system": {
+    "description": {
+      "value": "<p>Usually associated with explosives, for situations where multiple explosions need to happen simultaneously, an amazing piece of engineering, whether for the demolition of a gate wall or a sturdy mine wall. The timer is a necessity for a planned chained reaction. However, it is also used in sporting events to provide a clear indication of a winner.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "hand-axe",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "ownership": {
+    "default": 0,
+    "233gPIEGs3GHtRh3": 3
+  },
+  "_id": "lLNhlQMkIVJ1iySB",
+  "sort": 1475000,
+  "_originalKey": "!items!lLNhlQMkIVJ1iySB"
+}

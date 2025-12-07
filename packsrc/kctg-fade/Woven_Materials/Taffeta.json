@@ -1,0 +1,40 @@
+{
+  "name": "Taffeta",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Taffeta.webp",
+  "system": {
+    "description": {
+      "value": "<p>A plain woven fabric made from silk, dressmakers, and seamstress mainly use it in ball gowns, wedding dresses, and corsets but it is also used in interior decoration as curtains and wall covers.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "LAyIc8TxL1JT6Oit",
+  "sort": 146875,
+  "_id": "iMHOkKtsgoFMCTSJ",
+  "_originalKey": "!items!iMHOkKtsgoFMCTSJ"
+}

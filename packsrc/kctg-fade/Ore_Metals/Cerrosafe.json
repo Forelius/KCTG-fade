@@ -1,0 +1,55 @@
+{
+  "name": "Cerrosafe",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Cerrosafe.webp",
+  "system": {
+    "description": {
+      "value": "<p>Cerrosafe is a valuable material in the mold-making industry. Its ability to capture fine details with precision makes it a favorite choice for intricate ceramic and brick molds. Its low melting temperature also means it cannot withstand high heat applications, minimizing its use in processes like metal forging or high-temperature kiln and forge work.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "rock-salt",
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "treasure",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "C3FNsGlq2Lf7wevT": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "rknvmXL7rtQgObfA",
+  "_id": "w6J7p0tRXP1HFA8Y",
+  "sort": 1400000,
+  "_originalKey": "!items!w6J7p0tRXP1HFA8Y"
+}

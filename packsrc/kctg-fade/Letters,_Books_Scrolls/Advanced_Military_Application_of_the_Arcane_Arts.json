@@ -1,0 +1,65 @@
+{
+  "name": "Advanced Military Application of the Arcane Arts",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Advanced%20Military%20Application%20of%20the%20Arcane%20Arts.webp",
+  "system": {
+    "description": {
+      "value": "<p>A small manual that delves into military strategies for the tactical use of arcane arts. It contains multiple chapters covering combat topics such as group formations, flanking techniques, tips for surviving when lost behind enemy lines, essential survival skills, and, in the final chapter, the importance of the chain of command. This manual is issued to newly recruited soldiers, who are expected to memorize all 200 pages of it.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "treasure",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "TFPwDODIpyRO0E0Q",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "sStDVQH658Ql5wZJ",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!sStDVQH658Ql5wZJ"
+}

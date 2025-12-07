@@ -1,0 +1,40 @@
+{
+  "name": "Death Cap",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Death%20Cap.webp",
+  "system": {
+    "description": {
+      "value": "<p>The most favored mushroom by the most unfavorable people. The consumption of the Death Cap is more often than not fatal. In most forests close to civilization, signs are put up to warn people against eating random mushrooms due to the Death Caps growing almost anywhere. </p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 125,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "3fjwTQThfGz3b3g3": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "nneAAqmcEwOL9zrI",
+  "sort": 2100000,
+  "_id": "i9mWFelkrEDvOM25",
+  "_originalKey": "!items!i9mWFelkrEDvOM25"
+}

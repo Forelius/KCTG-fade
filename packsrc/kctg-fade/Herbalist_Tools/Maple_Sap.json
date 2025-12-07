@@ -1,0 +1,40 @@
+{
+  "name": "Maple Sap",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Maple%20Sap.webp",
+  "system": {
+    "description": {
+      "value": "<p>Being one of the sweetest variants of sap, it can be used by brewmasters to create ales, or by tavern keeps to sweeten water, as a syrup, or even tea. Alchemists use it to create potions that make your aim true. </p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 25,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "3fjwTQThfGz3b3g3": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "nneAAqmcEwOL9zrI",
+  "sort": 3700000,
+  "_id": "vEji6n906Lkn1oZA",
+  "_originalKey": "!items!vEji6n906Lkn1oZA"
+}

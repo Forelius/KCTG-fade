@@ -1,0 +1,65 @@
+{
+  "name": "Codex Micologica - A Guide to Mushrooms",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Codex%20Micologica.webp",
+  "system": {
+    "description": {
+      "value": "<p>A detailed booklet that showcases the most common mushrooms, categorized by climate, region, and weather. The Codex provides extensive information with clear indications of which mushrooms are safe to eat, safe to brew, which to avoid, and how to store them for extended periods. Carried as a companion both in the wild and in the alchemists' laboratories. </p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "treasure",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "TFPwDODIpyRO0E0Q",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "LH71jiOeMFkKc2qm",
+  "sort": 262500,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!LH71jiOeMFkKc2qm"
+}

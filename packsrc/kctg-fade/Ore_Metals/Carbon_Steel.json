@@ -1,0 +1,55 @@
+{
+  "name": "Carbon Steel",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Carbon%20Steel.webp",
+  "system": {
+    "description": {
+      "value": "<p>Commonly mistaken for dark steel due to its similar coloring but lacking its arcane properties, this alloy is a very strong variant of steel. However, it is more prone to rusting. It is primarily used to create cutting tools, springs, wrenches, hammers, and other types of tools used in construction.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "rknvmXL7rtQgObfA",
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "WImeGlp3fFN5m5U1",
+  "sort": 1100000,
+  "_originalKey": "!items!WImeGlp3fFN5m5U1"
+}

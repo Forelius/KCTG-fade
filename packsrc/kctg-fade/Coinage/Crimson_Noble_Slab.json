@@ -1,0 +1,39 @@
+{
+  "name": "Crimson Noble Slab",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Crimson%20Noble%20Slabs.webp",
+  "system": {
+    "description": {
+      "value": "<p>These specific slabs are made of 100% pure gold, weighing around 2.2 lbs, and for the longest time, they were simply known as Noble Gold Slabs. As people started using the slabs more frequently for nefarious deeds, they changed the name from Noble Gold Slabs to Crimson Noble Slabs. Nobility tends to use these for payment, as they are not marked with their family seals, to help sort out any forms of rivalry, from coups, and subversions to assassinations. These slabs are widely accepted by the majority merchants, who understand that they represent a completed transaction. Refusing them could potentially put them and their loved ones in danger.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 2.2,
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "HbFNnaCa2Bu4s3ht",
+  "_id": "DdsRyg6SayRf29E3",
+  "sort": 125000,
+  "_originalKey": "!items!DdsRyg6SayRf29E3"
+}

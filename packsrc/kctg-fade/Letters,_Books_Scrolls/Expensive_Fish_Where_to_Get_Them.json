@@ -1,0 +1,65 @@
+{
+  "name": "Expensive Fish & Where to Get Them",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Expensive%20fish%20%26%20Where%20to%20get%20them%20.webp",
+  "system": {
+    "description": {
+      "value": "<p>The book quickly delves into details about various fishing areas; however, much of the information appears incomplete or misleading. It is commonly sold in taverns by self-proclaimed famous fishermen, often targeting unskilled commoners as part of a get-rich-quick scheme. The basic premise encourages readers to simply head to the nearest body of water, catch whatever they can, and sell it for profit. Throughout the book, a recurring tagline is used as an incentive: \"One catch can change your life. Here's how!\"</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "treasure",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "TFPwDODIpyRO0E0Q",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "2v6zGjXj1Nl1o24k",
+  "sort": 271875,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!2v6zGjXj1Nl1o24k"
+}

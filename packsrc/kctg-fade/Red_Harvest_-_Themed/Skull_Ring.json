@@ -1,0 +1,58 @@
+{
+  "folder": "ODTmZCF7DbiMcwhX",
+  "name": "Skull Ring",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Skull%20Ring.webp",
+  "system": {
+    "description": {
+      "value": "<p>While a staple for the Red Harvest, wear one long enough and folk assume you’ve done something grim, as I forgot to take it of for a few. I wore one for a fortnight on the in a runty village while traveling, just to see, and the dockhands and farmers alike, gave me a wide berth, muttering that I must’ve lost a crew to the deep, or that something horrible has happened to me.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 15,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "chick",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "ownership": {
+    "default": 0,
+    "233gPIEGs3GHtRh3": 3
+  },
+  "sort": 150000,
+  "_id": "wRwtge45MLbypbsD",
+  "_originalKey": "!items!wRwtge45MLbypbsD"
+}

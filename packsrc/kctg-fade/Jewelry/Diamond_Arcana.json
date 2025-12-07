@@ -1,0 +1,53 @@
+{
+  "name": "Diamond Arcana",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Diamond%20Arcana.webp",
+  "effects": [],
+  "folder": "cIJKJ2rN2ZLnb881",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Created by the most skilled arcane masters and gem cutters. Formed from a single flawless diamond, the entire band is carved directly from the stone itself, shaped through forgotten arcane techniques rather than conventional tools. Each ring becomes part of a greater arcane economy, moving between powerful hands for very expensive spells.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 7500,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "sort": 112500,
+  "_id": "GTFaS9zEg35TEavS",
+  "_originalKey": "!items!GTFaS9zEg35TEavS"
+}

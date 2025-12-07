@@ -1,0 +1,65 @@
+{
+  "name": "Menu",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Menu.webp",
+  "system": {
+    "description": {
+      "value": "<div style=\"background-image:url('modules/kctg-5e/images/Menu%20Assets/background.webp');background-size:cover;background-repeat:no-repeat;background-position:center;padding:1rem;border:1px solid #eed292;border-radius:25px;color:white\"><img src=\"modules/kctg-5e/images/Menu%20Assets/Menu.webp\" style=\"border:none\" /><p>Soup of the day: @UUID[Compendium.kctg-5e.kctg-dnd5e.Item.hgj2p0ll2qMNWzDO]{Bean Soup} - 1 sp<br />Local Speciality: @UUID[Compendium.kctg-5e.kctg-dnd5e.Item.VTX1hSA0TwYVQPeR]{Caltabose} - 8 cp<br /><br /></p><img src=\"modules/kctg-5e/images/Menu%20Assets/Main%20Dish.webp\" style=\"border:none\" /><p>@UUID[Compendium.kctg-5e.kctg-dnd5e.Item.ub7WXDvJvGFKa0K5]{Chicken and Rice} - 6 cp<br />@UUID[Compendium.kctg-5e.kctg-dnd5e.Item.qSx1ag6ijrdKMEWF]{Fish Soup} - 3 cp<br /><br /></p><img src=\"modules/kctg-5e/images/Menu%20Assets/Drinks.webp\" style=\"border:none\" /><p>@UUID[Compendium.kctg-5e.kctg-dnd5e.Item.05eubXOrw0zOi7jd]{Ale} - 3 cp<br />@UUID[Compendium.kctg-5e.kctg-dnd5e.Item.psxtA9buFbY1wF3z]{Beer} - 3 cp<br />@UUID[Compendium.kctg-5e.kctg-dnd5e.Item.1J6MzMx2XVXzv8Mo]{Mulled Wine} - 8 cp<br /><br /></p><img src=\"modules/kctg-5e/images/Menu%20Assets/Deserts.webp\" style=\"border:none\" /><p>@UUID[Compendium.kctg-5e.kctg-dnd5e.Item.7P1Mm16UlStKQR07]{Rhubarb Pie} - 1 sp<br />@UUID[Compendium.kctg-5e.kctg-dnd5e.Item.iA7lzQEuQQ60opo9]{Red Cherry Sticks} - 3 cp</p><img src=\"modules/kctg-5e/images/Menu%20Assets/Events.webp\" style=\"border:none\" /><p>King's Visit - TBA<br />Traveling Bards - TBA</p></div>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "treasure",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "TFPwDODIpyRO0E0Q",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "vHqCZbnw7DPZ0hB8",
+  "sort": 272853,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!vHqCZbnw7DPZ0hB8"
+}

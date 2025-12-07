@@ -1,0 +1,40 @@
+{
+  "name": "Birch Log",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<p>The Birch Log is a common yet essential item within the realms, prized for its versatility and utility. It is a thin, pale log harvested from the birch trees that grow in abundance throughout the land. The wood is strong yet pliable, making it perfect for a wide variety of uses. Craftsmen and artisans alike value the Birch Log for its ability to be shaped and molded into a wide range of objects. It is often used to create everything from simple tools and household items to intricate carvings and intricate pieces of furniture.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 0,
+    "price": {
+      "value": 17,
+      "denomination": "cp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "img": "modules/kctg-5e/images/Birch%20Log.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "LLvC7EvZacBUO0n8",
+  "sort": 3000000,
+  "_id": "eynhuaJHgc6e9CEY",
+  "_originalKey": "!items!eynhuaJHgc6e9CEY"
+}

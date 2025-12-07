@@ -1,0 +1,50 @@
+{
+  "folder": "NGIN3DqFLpdjTTXr",
+  "name": "Bone Dice",
+  "type": "loot",
+  "_id": "qoR9QrVZ0X1isJyr",
+  "img": "modules/kctg-5e/images/Bone%20Dice.webp",
+  "system": {
+    "description": {
+      "value": "<p>Made from most creatures, mainly ankle bones from animals or otherwise, however, hooves, horns, and even antlers were also used. In the past the dice were not used for games, were used by religious figures with rocks, sticks, or even animal entrails, for fortune-telling. In some of the more remote regions playing dice might be an insult and is advisable against it.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": ""
+    },
+    "quantity": 1,
+    "weight": 0.1,
+    "price": {
+      "value": 1,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!qoR9QrVZ0X1isJyr"
+}

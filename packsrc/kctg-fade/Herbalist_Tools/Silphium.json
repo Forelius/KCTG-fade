@@ -1,0 +1,54 @@
+{
+  "name": "Silphium",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Silphium.webp",
+  "effects": [],
+  "folder": "nneAAqmcEwOL9zrI",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Silphium, also known as laserwort, is a rare and exotic plant utilized by expert alchemists and herbalists for various purposes. Its uses include functioning as a spice, a component in perfumes, an aphrodisiac, and a medicinal remedy. It treats ailments such as coughs, sore throats, fevers, indigestion, general pain, and warts, and it also acts as a contraceptive.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 15,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gear",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "jWkyhDx4ZnBt74rZ",
+  "sort": 1050000,
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_originalKey": "!items!jWkyhDx4ZnBt74rZ"
+}

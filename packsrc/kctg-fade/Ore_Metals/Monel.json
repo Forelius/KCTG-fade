@@ -1,0 +1,50 @@
+{
+  "name": "Monel",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Monel.webp",
+  "system": {
+    "description": {
+      "value": "<p>Monel is created by combining nickel and copper, and it has minimal iron content. It boasts exceptional corrosion resistance, making it suitable for a wide range of applications. Whether it's for dog tags, piping, metal sheets, or nails used in saltwater ships, objects made from this alloy typically exhibit extended durability.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "rknvmXL7rtQgObfA",
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "Zkv6zSLemBpgqzoQ",
+  "sort": 1700000,
+  "_originalKey": "!items!Zkv6zSLemBpgqzoQ"
+}

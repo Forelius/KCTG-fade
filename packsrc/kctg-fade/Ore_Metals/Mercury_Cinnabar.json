@@ -1,0 +1,64 @@
+{
+  "name": "Mercury / Cinnabar",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Mercury%20Ore.webp",
+  "system": {
+    "description": {
+      "value": "<p>Mercury is found in large quantities within cinnabar deposits and generally found in areas associated with volcanic activity and hot springs. This silvery-looking metal changes into liquid form at room temperature, making it unique among its metallic counterparts. Mercury is primarily used by alchemists to treat skin ailments, though its effects remain a topic of debate.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 25,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "rknvmXL7rtQgObfA",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "mnK3qRqyfqWDph9Z",
+  "sort": 2150000,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!mnK3qRqyfqWDph9Z"
+}

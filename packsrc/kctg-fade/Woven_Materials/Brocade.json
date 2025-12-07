@@ -1,0 +1,40 @@
+{
+  "name": "Brocade",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/brocade%20.webp",
+  "system": {
+    "description": {
+      "value": "<p>The life of a noble is filled with entertainment, riding, hunting, music, and dancing, all of these activities are a stage for the display of fashion. Wealthy nobles wear brocade-type clothing, they are made with multi-colored silks and sometimes even embedded with gold and silver threads, as a display of wealth. </p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 120,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "LAyIc8TxL1JT6Oit",
+  "sort": 200000,
+  "_id": "5lD91yTCK0h5zXNa",
+  "_originalKey": "!items!5lD91yTCK0h5zXNa"
+}

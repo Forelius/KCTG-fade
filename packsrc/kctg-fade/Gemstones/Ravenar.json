@@ -1,0 +1,52 @@
+{
+  "name": "Ravenar",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<p>The luster of this gem closely resembles the eyes of a raven, and those who are well-versed with magic casting speculate that it has the ability to hold the souls of the living. It is strongly believed that it possess a dark energy, to help with with the arts of the undead, and its smooth, glossy surface seems to pulse similarity to a slow heartbeat</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1000,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "img": "modules/kctg-5e/images/Ravenar.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "sort": 6300000,
+  "_id": "CgPpPfgo947dWeRB",
+  "_originalKey": "!items!CgPpPfgo947dWeRB"
+}

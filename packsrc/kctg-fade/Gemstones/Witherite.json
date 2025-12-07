@@ -1,0 +1,52 @@
+{
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "name": "Witherite",
+  "type": "loot",
+  "_id": "CMUlS6UNxHAchE6i",
+  "img": "modules/kctg-5e/images/Witherite.webp",
+  "system": {
+    "description": {
+      "value": "<p>Witherite is a distinctive gemstone known for its requirement of a specific mount.  Whether used in jewelry, armor, or any decorative item, it must be mounted on an electrum piece, a gold and silver alloy, otherwise, it risks becoming dislodged.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!CMUlS6UNxHAchE6i"
+}

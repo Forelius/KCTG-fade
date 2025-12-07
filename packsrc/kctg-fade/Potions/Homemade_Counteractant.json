@@ -1,0 +1,151 @@
+{
+  "name": "Homemade Counteractant",
+  "type": "consumable",
+  "img": "modules/kctg-5e/images/Homemade%20Counteractant.webp",
+  "system": {
+    "description": {
+      "value": "<p>Some of the commoners use quite a bit of lemon in creating these solutions, with other materials that they can find, which in return might have some adverse reactions. Sometimes leading to blindness or skin diseases after the concoction explodes or has other unforeseen and unfortunate side-effects, however, it's still common practice to create your own as the price for a store bought one is usually outside what a regular commoner can afford. Alchemists try to provide warnings of these issues, however, they mostly fall on deaf ears.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "homemade-counteractant",
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "consumable",
+      "subtype": "food"
+    },
+    "activities": {
+      "kkHF41y4Q1nW2S9G": {
+        "type": "utility",
+        "name": "Consume",
+        "_id": "kkHF41y4Q1nW2S9G",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": null,
+          "override": false,
+          "condition": ""
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "material",
+              "value": "1",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false,
+          "units": "self",
+          "special": ""
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft",
+            "type": ""
+          },
+          "affects": {
+            "choice": false,
+            "type": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false,
+          "formula": "",
+          "name": ""
+        },
+        "img": "modules/kctg-5e/images/Activities/Consume2.png"
+      }
+    },
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": [],
+      "autoDestroy": false
+    },
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "damage": {
+      "base": {
+        "number": null,
+        "denomination": null,
+        "types": [],
+        "custom": {
+          "enabled": false
+        },
+        "scaling": {
+          "number": 1
+        }
+      },
+      "replace": false
+    },
+    "magicalBonus": null
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "C3FNsGlq2Lf7wevT": 3
+  },
+  "flags": {
+    "core": {},
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "KOnJIG8fAii1bNsQ",
+  "sort": 246875,
+  "_id": "pCDalwgkhErG4YTE",
+  "_originalKey": "!items!pCDalwgkhErG4YTE"
+}

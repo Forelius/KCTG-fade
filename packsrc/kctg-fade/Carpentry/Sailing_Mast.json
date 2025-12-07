@@ -1,0 +1,58 @@
+{
+  "name": "Sailing Mast",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Sailing%20Mast.webp",
+  "system": {
+    "description": {
+      "value": "<p>The sailing mast is a pole that rises vertically from a ship and supports the sails. Larger sailboats often have more than one mast. The mast plays a crucial role in supporting the sails, allowing the wind to propel the ship.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": null,
+      "rules": "2024",
+      "book": "",
+      "page": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 150,
+      "units": "lb"
+    },
+    "price": {
+      "value": 25,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "identifier": "barrel-copy"
+  },
+  "effects": [],
+  "folder": "bxQZu0dOpDO6ztac",
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e2"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "zwTO6mNpNlTY1Mr4",
+  "sort": 1500000,
+  "_originalKey": "!items!zwTO6mNpNlTY1Mr4"
+}

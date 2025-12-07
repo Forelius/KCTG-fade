@@ -1,0 +1,60 @@
+{
+  "name": "Macaw",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Captains%20Parrot.webp",
+  "system": {
+    "description": {
+      "value": "<p>The Macaw, one of the rarer types of parrots, is highly favored by seafaring rogues. These birds keep a watchful eye on the crew, relay commands, and update the captain on the ship's activities while he rests.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 2,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "identifier": "macaw"
+  },
+  "effects": [],
+  "folder": "u1YauWP6weWgnFOR",
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "qozcSY5f36PJgZbt": 3,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "qzHgvUunwIx3RmiE",
+  "sort": 1000000,
+  "_originalKey": "!items!qzHgvUunwIx3RmiE"
+}

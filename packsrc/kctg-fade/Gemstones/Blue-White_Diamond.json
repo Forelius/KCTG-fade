@@ -1,0 +1,52 @@
+{
+  "name": "Blue-White Diamond",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Blue-White%20Diamond.webp",
+  "effects": [],
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "sort": 6900000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "zSm8sSZ1JpZUo4yG",
+  "system": {
+    "description": {
+      "value": "<p>The most notable gem from the Diamond variations is usually the colorless one which does have a blue-white tint. The use of diamonds is mainly in the jewelry market. Due to its brilliance, hardness, and rarity, it is the most famous of all gemstones. </p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 5000,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "FvHmsAdVJKNAy9eZ": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "auVc65DdvimseblT": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!zSm8sSZ1JpZUo4yG"
+}

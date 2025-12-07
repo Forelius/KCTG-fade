@@ -1,0 +1,40 @@
+{
+  "name": "Sea Daric",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Sea%20Daric.webp",
+  "system": {
+    "description": {
+      "value": "<p>A gleaming gold disc, emblazoned with a highly detailed carved skull. These coins are often crafted from pillaged gold obtained from various sources such as gold coins, jewelry, and gold bars. The weight of the coin itself is heavy, serving as a tangible reminder of the riches and dangers of the high seas. Throughout the minting process, the crafter ensures that the gold is as close to 100% pure as possible, making it one of the most valuable coins in circulation.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 0.01,
+    "price": {
+      "value": 3,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "HbFNnaCa2Bu4s3ht",
+  "sort": 123438,
+  "_id": "bnYREi7Y8xmAYOLz",
+  "_originalKey": "!items!bnYREi7Y8xmAYOLz"
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "E7Wt9TXxb6Ku7vlL",
+  "name": "Brass",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Brass.webp",
+  "effects": [],
+  "folder": "rknvmXL7rtQgObfA",
+  "sort": 2200000,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Brass is similar to bronze, another alloy containing Copper and Tin. Brass is quite a popular material for decoration due to its bright gold appearance. Its usage ranges from locks, hinges, and gears to plumbing and valves, as well as in the creation of instruments like horns or bells.</p>\n<p> </p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 75,
+      "denomination": "cp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "ownership": {
+    "default": 0,
+    "3fjwTQThfGz3b3g3": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!E7Wt9TXxb6Ku7vlL"
+}

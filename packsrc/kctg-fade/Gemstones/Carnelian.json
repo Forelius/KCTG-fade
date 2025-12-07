@@ -1,0 +1,52 @@
+{
+  "name": "Carnelian",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Carnelian.webp",
+  "effects": [],
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "sort": 5000000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "6MgP4x3qIw8N14pk",
+  "system": {
+    "description": {
+      "value": "<p>Rarely referred to as Sard. It is stated that when wearing this gemstone, you can feel Lady Luck smile upon you. When cut, it is used as beads for necklaces or bracelets, rarely used as large slabs, as designs carved out for portraits or busts.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "FvHmsAdVJKNAy9eZ": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "auVc65DdvimseblT": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!6MgP4x3qIw8N14pk"
+}

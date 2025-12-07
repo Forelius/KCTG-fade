@@ -1,0 +1,50 @@
+{
+  "folder": "NGIN3DqFLpdjTTXr",
+  "name": "Dragon Bones",
+  "type": "loot",
+  "_id": "vE73uuBEi4bM0v1o",
+  "img": "modules/kctg-5e/images/Dragon%20Bones.webp",
+  "system": {
+    "description": {
+      "value": "<p>The most commonly collected bones come from the huge dragons and due to it, the transportation of them is usually a logistic nightmare. However, due to their size and light weight, some of the small more tribal villages can be used in the construction of huts, fences, or even walls. </p><p></p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": ""
+    },
+    "quantity": 1,
+    "weight": 10,
+    "price": {
+      "value": 3,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!vE73uuBEi4bM0v1o"
+}

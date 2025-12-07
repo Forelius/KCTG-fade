@@ -1,0 +1,58 @@
+{
+  "folder": "nneAAqmcEwOL9zrI",
+  "name": "Plum Seeds",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Plum%20Seeds.webp",
+  "system": {
+    "description": {
+      "value": "<p>The process of planting plum trees shares many similarities with that of peaches. However, it requires even more attention to temperature control. The seeds need a period of cold exposure to break dormancy, and the timing must be just right to ensure that the seeds are not exposed to too much warmth or freezing temperatures. This critical period is why only the most experienced farmhands or herbalists take on the task, ensuring that the plum seeds have the ideal conditions for successful seeding.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "material",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "antlers",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "849vXyS5OvwH0fhM",
+  "sort": 300000,
+  "_originalKey": "!items!849vXyS5OvwH0fhM"
+}

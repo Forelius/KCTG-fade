@@ -1,0 +1,58 @@
+{
+  "folder": "QZPnXbHpm2yPfeUn",
+  "name": "Far North Dye",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Far%20North/Far%20North%20Dye.webp",
+  "system": {
+    "description": {
+      "value": "<p>Far North Dye is ground from purple ochre, a rare variant of the ochre gemstone, which is ground into a fine powder. Though uncommon in the region, it is one of the most frequently used dyes in the northern realms, as it provides strong visibility from a distance on the light colored pelts it is typically applied to.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 25,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "material",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "antlers",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "ownership": {
+    "default": 0,
+    "HSSviIXZSSQdGVd0": 3
+  },
+  "_id": "NMSNhC0PyufQzefG",
+  "sort": 100013,
+  "_originalKey": "!items!NMSNhC0PyufQzefG"
+}

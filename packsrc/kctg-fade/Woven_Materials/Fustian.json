@@ -1,0 +1,40 @@
+{
+  "name": "Fustian",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/fustian.webp",
+  "system": {
+    "description": {
+      "value": "<p>A heavy cloth woven for clothing, usually used for padding clothes, for colder seasons, or heavy-duty work like building.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 12,
+      "denomination": "cp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "LAyIc8TxL1JT6Oit",
+  "sort": -50000,
+  "_id": "juPT5S0K1Gb13MvX",
+  "_originalKey": "!items!juPT5S0K1Gb13MvX"
+}

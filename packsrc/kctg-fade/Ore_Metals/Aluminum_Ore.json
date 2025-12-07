@@ -1,0 +1,64 @@
+{
+  "name": "Aluminum Ore",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Aluminium%20Ore.webp",
+  "system": {
+    "description": {
+      "value": "<p>Aluminum Ore is a lightweight metal used as a material in alloys. Due to its soft nature, blacksmiths use it in combination with silver ore to craft cutlery or containers, while alchemists incorporate it into the creation of certain unique potions.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 5,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "rknvmXL7rtQgObfA",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "xEXkfs2Gom9NhvFo",
+  "sort": 900000,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!xEXkfs2Gom9NhvFo"
+}

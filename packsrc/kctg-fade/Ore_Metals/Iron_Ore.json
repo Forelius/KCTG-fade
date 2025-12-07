@@ -1,0 +1,64 @@
+{
+  "name": "Iron Ore",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Iron%20Ore.webp",
+  "system": {
+    "description": {
+      "value": "<p>Iron Ore is one of the more abundant ores that can be found in both underground and mountainous regions. The quality of the iron can vary wildly depending on where it is located. Most of the iron gets transformed into pig iron which is the main material that goes into the forges to manufacture steel. Iron ore is a vital trade good, even more so than gold, with kingdoms leveraging their deposits to dominate commerce.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 6,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "rknvmXL7rtQgObfA",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "RxJMdIYyd18ui3Np",
+  "sort": 3475000,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!RxJMdIYyd18ui3Np"
+}

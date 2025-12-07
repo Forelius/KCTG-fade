@@ -1,0 +1,58 @@
+{
+  "folder": "nneAAqmcEwOL9zrI",
+  "name": "Onion Sprout",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Onion%20Chive.webp",
+  "system": {
+    "description": {
+      "value": "<p>A sprouting onion won't grow more onions in the current year. Instead, it will eventually flower and begin seeding. Afterward, the seeds can grow onions for the following year. By separating the sprouts inside an onion's layers and planting them in good soil, you can produce multiple new onions within a single season.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 3,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "material",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "antlers",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "8DemCR4jma9bMP51",
+  "sort": 2600000,
+  "_originalKey": "!items!8DemCR4jma9bMP51"
+}

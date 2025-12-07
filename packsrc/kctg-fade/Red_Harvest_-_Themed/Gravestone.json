@@ -1,0 +1,58 @@
+{
+  "folder": "ODTmZCF7DbiMcwhX",
+  "name": "Gravestone",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Gravestone.webp",
+  "system": {
+    "description": {
+      "value": "<p>Gravestones as when it comes with Red Harvest's nature, oddly enough, aren't just decorative. I’ve found that wherever these grave markers are set, the ground beneath has a curious habit of stirring, like it is calling. More than one caretaker in Bacau's Letea District swears that a cheap plaster marker is just as likely to hide a restless corpse as the real thing. Some scholars argue it’s all coincidence or that the Red Harvest festival simply draws out the necromantic residue that lingers in cities from the countless wars.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 25,
+      "units": "lb"
+    },
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "chick",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "ownership": {
+    "default": 0,
+    "233gPIEGs3GHtRh3": 3
+  },
+  "sort": 150000,
+  "_id": "3ZEKRhetFnxbDFB3",
+  "_originalKey": "!items!3ZEKRhetFnxbDFB3"
+}

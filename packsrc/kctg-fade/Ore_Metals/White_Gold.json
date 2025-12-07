@@ -1,0 +1,55 @@
+{
+  "name": "White Gold",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/White%20Gold.webp",
+  "system": {
+    "description": {
+      "value": "<p>White gold, an alloy of gold and silver, should not be mistaken for platinum. Known as gray gold in some regions, it is highly valued by the nobility for its high price and pristine silver look in their jewelry.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 75,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "rknvmXL7rtQgObfA",
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "GSpOEtVrQo7FHxX3",
+  "sort": 400000,
+  "_originalKey": "!items!GSpOEtVrQo7FHxX3"
+}

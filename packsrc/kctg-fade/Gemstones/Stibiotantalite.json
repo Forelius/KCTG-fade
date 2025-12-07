@@ -1,0 +1,52 @@
+{
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "name": "Stibiotantalite",
+  "type": "loot",
+  "_id": "ErLVoyJzfa5IZJAx",
+  "img": "modules/kctg-5e/images/Stibiotantalite.webp",
+  "system": {
+    "description": {
+      "value": "<p>Stibiotantalite is primarily valued as a gemstone, known for its vivid, shiny, golden-brown appearance. It was commonly worn by merchants and mid-level courtiers as an affordable alternative to more expensive gemstones.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!ErLVoyJzfa5IZJAx"
+}

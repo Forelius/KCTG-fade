@@ -1,0 +1,40 @@
+{
+  "name": "God's Wrath",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Sulfur.webp",
+  "system": {
+    "description": {
+      "value": "<p>Sometimes called Brimstone, and more commonly known as Sulfur. Alchemists usually use blocks of sulfur in creating potent acids that can burn through anything. <br />It is often at the center of disputes between alchemical and religious groups, as by some religions it is believed to be sacred, given how it burns in a unique color with the flames a rich purple shade. Alchemists however advise against burning the blocks as they believe that doing so can inflict irreparable damage to one's health. <br />Herbalists use it to create multiple types of green dyes.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "3fjwTQThfGz3b3g3": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "nneAAqmcEwOL9zrI",
+  "sort": 2200000,
+  "_id": "YcAjajPo3NZqZAZG",
+  "_originalKey": "!items!YcAjajPo3NZqZAZG"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Hair Pin",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Hair%20Pin.webp",
+  "effects": [],
+  "folder": "cIJKJ2rN2ZLnb881",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>A designer hairpin crafted with small gemstones to represent high status. It is made in such a way that, when it holds the hair, it exudes elegance and style, or to simply signal membership in the high noble class. These are primarily made by experienced jewelers and only on very high-priced commissions.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 25,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "sort": 100391,
+  "_id": "GnOlzAxnuMFupzr5",
+  "_originalKey": "!items!GnOlzAxnuMFupzr5"
+}

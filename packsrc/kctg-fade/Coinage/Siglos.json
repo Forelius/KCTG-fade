@@ -1,0 +1,40 @@
+{
+  "name": "Siglos",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Siglos.webp",
+  "system": {
+    "description": {
+      "value": "<p>These coins are crafted exclusively by monasteries for their parishioners who are merchants. They are typically made from stone and decorated with religious symbols and colors. The coins are distributed to merchants who travel to wealthier regions so that they can access services without having to pay extra. These services may include lodging, education, or meetings with the local high priests.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 0.1,
+    "price": {
+      "value": 25,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "HbFNnaCa2Bu4s3ht",
+  "sort": 134375,
+  "_id": "uHlkYGl20a0iyqLV",
+  "_originalKey": "!items!uHlkYGl20a0iyqLV"
+}

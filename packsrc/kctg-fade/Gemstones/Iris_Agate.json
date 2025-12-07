@@ -1,0 +1,52 @@
+{
+  "name": "Iris Agate",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Iris%20Agate.webp",
+  "effects": [],
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "sort": 4300000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "jkD2poJBJcv20iM1",
+  "system": {
+    "description": {
+      "value": "<p>This stone is a finely-banded and usually colorless agate, however, when cut properly, it displays an amazing show of colors on its surface, sometimes also referred to as \"Rainbow Agate\" </p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 13,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "FvHmsAdVJKNAy9eZ": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "auVc65DdvimseblT": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!jkD2poJBJcv20iM1"
+}

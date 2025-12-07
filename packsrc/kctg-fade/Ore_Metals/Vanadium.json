@@ -1,0 +1,40 @@
+{
+  "name": "Vanadium",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<p>Vanadium is a desired metal throughout the realms, and for very good reason. It is insanely rare and has a deep, green-gray luster that shines in the light. Some blacksmiths and alchemists can imbue vanadium with magical properties, making it even more valuable. Vanadium is very light yet stronger than steel and is speculated that it can absorb and store magical energy.</p><p></p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 500,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "img": "modules/kctg-5e/images/Vanadium.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "rknvmXL7rtQgObfA",
+  "sort": 2700000,
+  "_id": "9QnmrkjJhsNVcIK6",
+  "_originalKey": "!items!9QnmrkjJhsNVcIK6"
+}

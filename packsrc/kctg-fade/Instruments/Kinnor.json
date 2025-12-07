@@ -1,0 +1,55 @@
+{
+  "name": "Kinnor",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Kinnor.webp",
+  "system": {
+    "description": {
+      "value": "<p>The kinnor resembles the lyre in shape, but it is typically held from the end and strummed like a lute. Unlike the lyre, where fingerpicking is common, the kinnor uses a metal rod as a pick, allowing for the production of prolonged notes and a distinct sound.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2014"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 2,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "identifier": "chair"
+  },
+  "effects": [],
+  "folder": "IwFJtR8yJkW4FYub",
+  "sort": 1100000,
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "OTdxMmQU3AwT7FpI",
+  "_originalKey": "!items!OTdxMmQU3AwT7FpI"
+}

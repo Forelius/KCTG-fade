@@ -1,0 +1,53 @@
+{
+  "name": "Cannon",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Cannon.webp",
+  "effects": [],
+  "folder": "bxQZu0dOpDO6ztac",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Unlike the ballista, cannons are designed for offensive use, largely because they are mounted on wheels. These wheels serve multiple purposes, they make the cannon easier to transport by sea or road and absorb the force of its powerful recoil. Earlier models of cannons without wheels often had a habit of shattering due to the recoil.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gear",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "6FzwOF0qcASm1TTx",
+  "sort": 850000,
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_originalKey": "!items!6FzwOF0qcASm1TTx"
+}

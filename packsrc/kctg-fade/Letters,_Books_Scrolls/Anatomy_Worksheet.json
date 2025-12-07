@@ -1,0 +1,65 @@
+{
+  "name": "Anatomy Worksheet",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Anatomy%20Worksheet.webp",
+  "system": {
+    "description": {
+      "value": "<p>Anatomy Worksheet is a specialized sheet that details all the body parts of a creature. From tissues to cranial nerves, from articulations to skeletal muscles, each component is described and drawn in extensive detail to give the reader a full understanding of how the living body functions. The Anatomy Worksheet is used not only for academic study but also for practical applications such as medical treatment, arcane healing, or creature crafting.   </p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "treasure",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "TFPwDODIpyRO0E0Q",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "Gq2j8m5aBs8YYOKc",
+  "sort": 150000,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!Gq2j8m5aBs8YYOKc"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Lead Ingot",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<p>Through the realms, the lead ingot is a valuable commodity. Skilled craftsmen seek it out to make powerful bullets for their weapons. These bullets are then powered by magic so they can inflict a lot of damage on magical beasts or incorporeal beings. They are also used by alchemists to create potions and elixirs. The lead ingot is very valuable and versatile.</p><p></p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 3,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "img": "modules/kctg-5e/images/Lead%20Ingot.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "rknvmXL7rtQgObfA",
+  "sort": 3600000,
+  "_id": "Z2lhpLdsRQ3tDTgP",
+  "_originalKey": "!items!Z2lhpLdsRQ3tDTgP"
+}

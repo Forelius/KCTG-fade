@@ -1,0 +1,50 @@
+{
+  "folder": "NGIN3DqFLpdjTTXr",
+  "name": "Boar Cranium",
+  "type": "loot",
+  "_id": "jw0Eq7ufaQv6D6N8",
+  "img": "modules/kctg-5e/images/Boar%20Cranium.webp",
+  "system": {
+    "description": {
+      "value": "<p>The boar, in more traditional regions, represents good health and incredible strength. As most cannot afford the price of a taxidermist to have the head mounted on a wall, an alternative is to obtain the skull directly, as it is quite easy to acquire and a favored decoration in some country homes.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": ""
+    },
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!jw0Eq7ufaQv6D6N8"
+}

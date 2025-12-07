@@ -1,0 +1,70 @@
+{
+  "name": "Far North Cloth",
+  "type": "equipment",
+  "img": "modules/kctg-5e/images/Far%20North/Far%20North%20Cloth.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>Made from the wool of the moose, the greasy felt is heavy, dense, and water-resistant. It is never worn as a fine garment, but rather to protect the body from the harsh Northern elements, it's main drawback being noticeably heavy.</p><p></p><section class=\"secret\" id=\"secret-yBMWs7msC6rQmCxG\"><p><strong>Note for DMs</strong></p><p>This item possesses no fixed stats, this is by design. The GM/DM is advised to modify the stats to best fit their world, setting and story. Due to those factors, all stats can vary wildly.</p></section>",
+      "chat": ""
+    },
+    "identifier": "kctg",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "crewed": false,
+    "armor": {
+      "value": null,
+      "dex": null
+    },
+    "proficient": 0,
+    "properties": [],
+    "strength": null,
+    "type": {
+      "value": "clothing",
+      "baseItem": "hide"
+    }
+  },
+  "effects": [],
+  "folder": "QZPnXbHpm2yPfeUn",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "HSSviIXZSSQdGVd0": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "dODgecssRP62WpcG",
+  "_originalKey": "!items!dODgecssRP62WpcG"
+}

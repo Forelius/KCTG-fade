@@ -1,0 +1,59 @@
+{
+  "folder": "nneAAqmcEwOL9zrI",
+  "name": "Dandelion",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Dandelion.webp",
+  "system": {
+    "description": {
+      "value": "<p>Dandelion leaves add flavor to salads, sandwiches, and teas. The roots are used in some coffee substitutes, and the flowers are used to make wines. Dandelions are definitely safe to eat both raw and cooked, and you can eat almost all parts of the dandelion. They can also be used for medicinal purposes, as they are one of the best greens that can be used in anti-inflammation tinctures. </p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "material",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "identifier": "antlers",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "D1FhtUKpR956xTpd",
+  "sort": 1000000,
+  "_originalKey": "!items!D1FhtUKpR956xTpd"
+}

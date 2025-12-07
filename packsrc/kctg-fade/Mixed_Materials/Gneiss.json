@@ -1,0 +1,52 @@
+{
+  "name": "Gneiss",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Gneiss.webp",
+  "system": {
+    "description": {
+      "value": "<p>Gneiss has many uses as a building material such as flooring, ornamental stones, gravestones, facing stones on buildings, and work surfaces. Depending on where is acquired, it can have beautiful patterns making it one of the most sought-after types of materials for ornamental construction.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 12,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "ioDwaLKA1DUtYokk",
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "0khzGYMfnIsdVkuF",
+  "sort": 300000,
+  "_originalKey": "!items!0khzGYMfnIsdVkuF"
+}

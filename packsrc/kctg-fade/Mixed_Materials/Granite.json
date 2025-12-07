@@ -1,0 +1,43 @@
+{
+  "name": "Granite",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<p>Granite is a common rock that comes in various colors, such as white, dark-gray, and brown. Because of its range of colors, it's often cut into shapes for gravestones, memorials, and pavement. Its durability and low maintenance needs make it a suitable choice for these uses.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 2,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "material"
+    }
+  },
+  "img": "modules/kctg-5e/images/Granite.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "ioDwaLKA1DUtYokk",
+  "sort": 1900000,
+  "_id": "IbjEUT78mVu2VnNh",
+  "_originalKey": "!items!IbjEUT78mVu2VnNh"
+}

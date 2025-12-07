@@ -1,0 +1,55 @@
+{
+  "name": "Hosho",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Hosho.webp",
+  "system": {
+    "description": {
+      "value": "<p>The hosho is a rattle instrument crafted from a wild orange known as damba, with sticks used to tie it together and filled with hota seeds or pebbles. Its unique shape produces a sharp, distinctive sound that often cuts through the music of other instruments.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2014"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "identifier": "chair"
+  },
+  "effects": [],
+  "folder": "IwFJtR8yJkW4FYub",
+  "sort": 500000,
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "B6s5DPeW5Xr3Zjwc",
+  "_originalKey": "!items!B6s5DPeW5Xr3Zjwc"
+}

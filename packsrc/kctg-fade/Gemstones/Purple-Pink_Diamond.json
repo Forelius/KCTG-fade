@@ -1,0 +1,52 @@
+{
+  "name": "Purple-Pink Diamond",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Purple%20PInk%20Diamonds.webp",
+  "effects": [],
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "sort": 3600000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "4enXlPoImsviYgZ7",
+  "system": {
+    "description": {
+      "value": "<p>Sometimes also referred to as fancy diamonds, they are extremely rare. It is also speculated that the wearers of specific diamonds can be protected from some spells or enchantments. </p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 10000,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "FvHmsAdVJKNAy9eZ": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "auVc65DdvimseblT": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!4enXlPoImsviYgZ7"
+}

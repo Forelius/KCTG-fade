@@ -1,0 +1,40 @@
+{
+  "name": "Cotton",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Cotton.webp",
+  "system": {
+    "description": {
+      "value": "<p>Cotton farming is relatively straightforward as most city-states have dedicated regions of farmland specifically for it, as it is one of the most widely used materials in clothing and indoor decoration.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "LAyIc8TxL1JT6Oit",
+  "sort": 175000,
+  "_id": "5rirTeVfaUX0UBk7",
+  "_originalKey": "!items!5rirTeVfaUX0UBk7"
+}

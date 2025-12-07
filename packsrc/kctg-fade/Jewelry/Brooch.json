@@ -1,0 +1,53 @@
+{
+  "name": "Brooch",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Broche.webp",
+  "effects": [],
+  "folder": "cIJKJ2rN2ZLnb881",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Brooch is a decorative jewelry item designed to be attached to garments, to fasten them together. It is usually made of metal, silver or gold or some other material, like clay. Brooches are frequently decorated with silver strands or with gemstones and may be solely for ornament and it can also serve a function as a clothes fastener.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 15,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "sort": 150000,
+  "_id": "51Mk0Xby3lvlglpx",
+  "_originalKey": "!items!51Mk0Xby3lvlglpx"
+}

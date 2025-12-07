@@ -1,0 +1,53 @@
+{
+  "name": "Gold Bangle",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Gold%20Bangle.webp",
+  "effects": [],
+  "folder": "cIJKJ2rN2ZLnb881",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Gold Bangle is a bracelet crafted from pure gold, designed to symbolize the highest class of nobility and the pinnacle of societal status. Forged by skilled blacksmiths using precise molds, each piece is then handed over to renowned goldsmiths who meticulously finish it with ornate detailing. These bangles are typically priced highly, which makes them frequent targets for thieves and swindlers seeking to profit from their value.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 25,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "sort": 100391,
+  "_id": "xU2wfz7fSZMywQXv",
+  "_originalKey": "!items!xU2wfz7fSZMywQXv"
+}

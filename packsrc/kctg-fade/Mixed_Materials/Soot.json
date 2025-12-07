@@ -1,0 +1,43 @@
+{
+  "name": "Soot",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Soot.webp",
+  "system": {
+    "description": {
+      "value": "<p>Deep black powder or flaky substance, produced by burning material. Used by alchemists and herbalists as a binding agent.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 1,
+      "denomination": "cp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "material"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "3fjwTQThfGz3b3g3": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "ioDwaLKA1DUtYokk",
+  "sort": 200000,
+  "_id": "3t85waQABFkGkfuM",
+  "_originalKey": "!items!3t85waQABFkGkfuM"
+}

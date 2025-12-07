@@ -1,0 +1,55 @@
+{
+  "name": "Maram",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Maram.webp",
+  "system": {
+    "description": {
+      "value": "<p>The maram is a percussion instrument found in various regions. It features a wooden cylinder with two skin heads on either end, which are tensioned with skin laces to create sound. This construction allows the maram to produce a rich, resonant tone when played to be used in a variety of musical situations such as traditional ceremonies to dance performances.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2014"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 3,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "identifier": "chair"
+  },
+  "effects": [],
+  "folder": "IwFJtR8yJkW4FYub",
+  "sort": 1700000,
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "eTeDNOymV6L9ecTd",
+  "_originalKey": "!items!eTeDNOymV6L9ecTd"
+}

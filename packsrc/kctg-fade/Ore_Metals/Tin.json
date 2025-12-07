@@ -1,0 +1,40 @@
+{
+  "_id": "cs8wt6CRZgkbaVCq",
+  "name": "Tin",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Tin.webp",
+  "effects": [],
+  "folder": "rknvmXL7rtQgObfA",
+  "sort": 2600000,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Tin is usually combined with Copper, due to it being soft, to prevent its oxidation. Doesn't have many uses besides the preservation of metals.</p>\n<p> </p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 4,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "ownership": {
+    "default": 0,
+    "3fjwTQThfGz3b3g3": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!cs8wt6CRZgkbaVCq"
+}

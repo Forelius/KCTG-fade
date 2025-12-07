@@ -1,0 +1,54 @@
+{
+  "name": "Transport Shackles",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Transport%20Shackles.webp",
+  "effects": [],
+  "folder": "9z8F4GiWlXBk1DYI",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>These shackles, made from iron or steel, like their counterparts and intended for easy mass production, function similar to pillories. They are typically designed to link several sets of shackles in a daisy chain to facilitate the transport of prisoners between locations.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 25,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gear",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "ByoV51WaOYTq7nLe",
+  "sort": 1200000,
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_originalKey": "!items!ByoV51WaOYTq7nLe"
+}

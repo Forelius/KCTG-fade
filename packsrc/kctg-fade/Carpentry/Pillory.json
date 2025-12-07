@@ -1,0 +1,52 @@
+{
+  "name": "Pillory",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Pillory.webp",
+  "system": {
+    "description": {
+      "value": "<p>The pillory is a device used for publicly punishing repeat offenders. It features a wooden frame with holes to secure the head and hands.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 10,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "bxQZu0dOpDO6ztac",
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "S6zQpOzDUmAojMN1",
+  "sort": 2400000,
+  "_originalKey": "!items!S6zQpOzDUmAojMN1"
+}

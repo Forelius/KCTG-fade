@@ -1,0 +1,64 @@
+{
+  "name": "Pure-Metal Bronze Ingot",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Bronze%20Ingot.webp",
+  "system": {
+    "description": {
+      "value": "<p>Pure-Metal Bronze Ingots are made from an alloy of the most refined chunks of copper and tin, in equal amounts. Skilled blacksmiths at prestigious smelters refine the metals through precise smelting techniques, ensuring that every ingot maintains a uniform composition. Without impurities or flaws, these blacksmiths can forge higher than normal quality tools, weapons, armor, and building materials such as decorative tiles for flooring or detailed sculptures.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 75,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "rknvmXL7rtQgObfA",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "qgpOPuNbtxfKuUxt",
+  "sort": 650000,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!qgpOPuNbtxfKuUxt"
+}

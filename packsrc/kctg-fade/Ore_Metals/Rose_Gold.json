@@ -1,0 +1,55 @@
+{
+  "name": "Rose Gold",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Rosegold.webp",
+  "system": {
+    "description": {
+      "value": "<p>Rose gold, created by combining pure gold and copper, is popular in specialized jewelry. It is more malleable than pure gold, making it a preferred material for whitesmiths, and it is less expensive than gold or white gold.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 25,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "rknvmXL7rtQgObfA",
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "MI5GTwDBUXca0CPK",
+  "sort": 600000,
+  "_originalKey": "!items!MI5GTwDBUXca0CPK"
+}

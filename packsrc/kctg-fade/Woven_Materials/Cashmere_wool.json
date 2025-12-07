@@ -1,0 +1,40 @@
+{
+  "name": "Cashmere wool",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Cashmere%20wool.webp",
+  "system": {
+    "description": {
+      "value": "<p>Simply known as cashmere, it is a fiber harvested mainly from specific breeds of goats. Cashmere can be used to create any form of clothing, however, the most common are frocks, which started to be used by middle-class commoners as a representation of status.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 55,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "LAyIc8TxL1JT6Oit",
+  "sort": 0,
+  "_id": "6psICDq1ZD5Mp8pa",
+  "_originalKey": "!items!6psICDq1ZD5Mp8pa"
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Pure-Metal Brass Ingot",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Brass%20Ingot.webp",
+  "system": {
+    "description": {
+      "value": "<p>Pure-Metal Brass Ingots are manufactured from the finest curated copper and zinc. They have become increasingly popular for crafting religious objects such as candlesticks, cathedral bells, and reliquaries, often fetching a high price. Though slightly softer than bronze, their corrosion resistance makes it ideal for naval and coastal and naval military gear.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 75,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "rknvmXL7rtQgObfA",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "IMDWHP2JwAzggAkO",
+  "sort": 2912500,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!IMDWHP2JwAzggAkO"
+}

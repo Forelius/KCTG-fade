@@ -1,0 +1,59 @@
+{
+  "folder": "u1YauWP6weWgnFOR",
+  "name": "Purple Emperor",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Purple%20Emperor.webp",
+  "system": {
+    "description": {
+      "value": "<p>Purple Emperor is an magnificent butterfly which flies high in the treetops of very dense forests. Alchemists, usually keep a few in a butterfly house for breeding, as they are an rare reagent in some of the most rare potions. </p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "chick",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "lGp6vg86pwlzoijp",
+  "_originalKey": "!items!lGp6vg86pwlzoijp"
+}

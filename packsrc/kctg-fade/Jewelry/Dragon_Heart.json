@@ -1,0 +1,53 @@
+{
+  "name": "Dragon Heart",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Dragon%20Heart.webp",
+  "effects": [],
+  "folder": "cIJKJ2rN2ZLnb881",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Dragon Heart is a pendant fit for an emperor, a masterpiece typically accompanied by its counterpart, the Dragon's Eyes earrings. The jewelry pieces are crafted from the same rare gemstone sharing the Dragon Heart name. Due to the gem's extreme rarity, only the most famous gem cutters and jewelers are permitted to cut and set these stones. The work made transforms raw rarity into symbols of godlike power.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "sort": 106250,
+  "_id": "s5IFBPs28tyapn8j",
+  "_originalKey": "!items!s5IFBPs28tyapn8j"
+}

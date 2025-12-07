@@ -1,0 +1,52 @@
+{
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "name": "Oölite",
+  "type": "loot",
+  "_id": "sF3q4SCn6B1iE1iN",
+  "img": "modules/kctg-5e/images/Oolite.webp",
+  "system": {
+    "description": {
+      "value": "<p>Oölites, often nicknamed Cave Pearls, are typically found in caves and vary in colors such as green, white, or brown, depending on the cave's specific biome. Their primary uses are decorative, used either as ornaments or crushed to create vivid inks.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!sF3q4SCn6B1iE1iN"
+}

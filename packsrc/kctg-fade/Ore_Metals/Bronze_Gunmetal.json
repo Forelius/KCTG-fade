@@ -1,0 +1,52 @@
+{
+  "name": "Bronze Gunmetal",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Bronze%20Gunmetal.webp",
+  "system": {
+    "description": {
+      "value": "<p>Bronze Gunmetal is an alloy of copper, tin, and zinc, with trace amounts of other metals such as lead or nickel, found its primary use in casting cannons, firearms, and various military equipment but also in fittings, gears, bearings, statues, and small objects such as buttons.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 15,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "rknvmXL7rtQgObfA",
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "jcbqxcdMzBHOdahJ",
+  "sort": 1900000,
+  "_originalKey": "!items!jcbqxcdMzBHOdahJ"
+}

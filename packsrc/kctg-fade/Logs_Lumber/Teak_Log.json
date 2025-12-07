@@ -1,0 +1,40 @@
+{
+  "name": "Teak Log",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<p>The logs are typically harvested from tropical regions and are known for their durability and resistance to rot and decay. The logs are often used to create strong and sturdy structures, such as buildings, bridges, and fences, as well as furniture. The wood is also prized for its resistance to pests and insects, making it a popular choice for use in household items.</p><p></p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 0,
+    "price": {
+      "value": 25,
+      "denomination": "cp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "img": "modules/kctg-5e/images/Teak%20log.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "LLvC7EvZacBUO0n8",
+  "sort": 2500000,
+  "_id": "odhf4kJc7qSzWgcd",
+  "_originalKey": "!items!odhf4kJc7qSzWgcd"
+}

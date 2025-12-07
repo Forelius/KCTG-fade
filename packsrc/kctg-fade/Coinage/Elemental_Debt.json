@@ -1,0 +1,40 @@
+{
+  "name": "Elemental Debt",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Elemental%20Debt.webp",
+  "system": {
+    "description": {
+      "value": "<p>This magical coin has an undefined value, which depends on the material used to create it. It is primarily used as a material that is about to be consumed for spells that have specific prerequisites. Magical alloys with pearls, diamonds, bones, and silver are commonly used to make these coins. Each coin bears the magical sygil representing the type of spell it can be used for, and this symbol also determines its value. These coins are typically found in major cities with a magical college that has the ability to craft them.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 0.01,
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "HbFNnaCa2Bu4s3ht",
+  "sort": 143750,
+  "_id": "WUPiCKhrquVA7HfF",
+  "_originalKey": "!items!WUPiCKhrquVA7HfF"
+}

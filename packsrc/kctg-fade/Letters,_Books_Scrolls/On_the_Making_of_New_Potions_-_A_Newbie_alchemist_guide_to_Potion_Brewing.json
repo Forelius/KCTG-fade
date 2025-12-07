@@ -1,0 +1,65 @@
+{
+  "name": "On the Making of New Potions - A Newbie alchemist guide to Potion Brewing",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/On%20the%20making%20of%20new%20Potions.webp",
+  "system": {
+    "description": {
+      "value": "<p>A beginner alchemist’s book, filled with detailed instructions on how to brew potions and including a few recipes on the last pages. It explains which alembics are preferable depending on what needs to be distilled and identifies common ingredients that work best as potion bases. The book is structured to gradually build the reader's skills, starting with simple mixtures and moving toward more complex brewing techniques.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "treasure",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "TFPwDODIpyRO0E0Q",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "pQO4oN4weHZmhJzy",
+  "sort": 160890,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!pQO4oN4weHZmhJzy"
+}

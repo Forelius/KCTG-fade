@@ -1,0 +1,53 @@
+{
+  "name": "Silver Earings",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Silver%20Earings.webp",
+  "effects": [],
+  "folder": "cIJKJ2rN2ZLnb881",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>To avoid the high prices of gem-inlaid implements, earrings made solely from silver are also crafted. Aside from being a precious metal, silver offers the added benefit of being easier to mold, allowing artisans to create intricate patterns and detailed designs, while keeping the cost accessible to the average commoner.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 125,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "sort": 100391,
+  "_id": "O329Uqrwbh9OZKLv",
+  "_originalKey": "!items!O329Uqrwbh9OZKLv"
+}

@@ -1,0 +1,50 @@
+{
+  "folder": "NGIN3DqFLpdjTTXr",
+  "name": "Dragon's Skull",
+  "type": "loot",
+  "_id": "zjn0a323CqOMCZaD",
+  "img": "modules/kctg-5e/images/Dragon%27s%20Skull.webp",
+  "system": {
+    "description": {
+      "value": "<p>Collectors love these types of skulls mainly due to their rarity. They go above and beyond just to get their hands on the skulls from adventurers, usually at a very fair price. However, based on the age and size of the dragon, these can vary wildly in price; sometimes, the price of one can exceed that of the most polished magical gemstones in existence. When it comes to their uses, they are mainly ornamental in nature, usually displayed in local museums.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": ""
+    },
+    "quantity": 1,
+    "weight": 10,
+    "price": {
+      "value": 750,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!zjn0a323CqOMCZaD"
+}

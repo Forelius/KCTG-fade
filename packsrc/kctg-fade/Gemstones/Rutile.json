@@ -1,0 +1,55 @@
+{
+  "name": "Rutile",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Rutile.webp",
+  "system": {
+    "description": {
+      "value": "<p>Rutile, in its natural crystal state, serves two main distinct purposes, decorating pottery with intricate designs and adding ornamentation to already placed gemstones. Found in large deposits, it is sometimes used in crafting entire pottery pieces or as striking ornamental accents on furniture.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "rock-salt",
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "C3FNsGlq2Lf7wevT": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "_id": "FxzN08vmZsdoHzCA",
+  "sort": 0,
+  "_originalKey": "!items!FxzN08vmZsdoHzCA"
+}

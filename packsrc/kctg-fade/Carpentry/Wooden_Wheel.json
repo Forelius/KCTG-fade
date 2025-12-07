@@ -1,0 +1,52 @@
+{
+  "name": "Wooden Wheel",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Wheel.webp",
+  "system": {
+    "description": {
+      "value": "<p>The wheel is a vital invention with widespread applications in society. It is used as a main component in carts, wagons, and carriages, and it is also been used in executions, such as with the breaking wheel. Its importance is evident in various aspects of a commoner's life.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 2,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "bxQZu0dOpDO6ztac",
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "zz7Z50tHQqf9Z2jD",
+  "sort": 600000,
+  "_originalKey": "!items!zz7Z50tHQqf9Z2jD"
+}

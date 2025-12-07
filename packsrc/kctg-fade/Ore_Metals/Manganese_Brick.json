@@ -1,0 +1,64 @@
+{
+  "name": "Manganese Brick",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Manganese%20Brick.webp",
+  "system": {
+    "description": {
+      "value": "<p>Manganese Bricks are not only used for their destructive flames but also for psychological warfare. When launched into enemy buildings and walls, they create intense heat and thick smoke, forcing defenders out of their strongholds. The horrible choking stench, coming from the charred brick, can linger for many hours, making it nearly impossible to reclaim the area.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 15,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "rknvmXL7rtQgObfA",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "2BrVgvOAYW5JmvN0",
+  "sort": 1275000,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!2BrVgvOAYW5JmvN0"
+}

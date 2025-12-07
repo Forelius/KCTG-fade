@@ -1,0 +1,55 @@
+{
+  "name": "Berimbau",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Berimbau.webp",
+  "system": {
+    "description": {
+      "value": "<p>Resembling a wooden hunting bow, the instrument comprises the verga referred to as the bow, a steel string, and a dried, hollowed calabash attached to its lower end. It is most commonly played by martial artists who practice capoeira. This distinctive fighting style integrates music and dance as part of its movements.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2014"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "identifier": "chair"
+  },
+  "effects": [],
+  "folder": "IwFJtR8yJkW4FYub",
+  "sort": 1600000,
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "cxpnVrLIaZ7EJjCE",
+  "_originalKey": "!items!cxpnVrLIaZ7EJjCE"
+}

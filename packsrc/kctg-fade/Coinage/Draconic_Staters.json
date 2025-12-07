@@ -1,0 +1,40 @@
+{
+  "name": "Draconic Staters",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Draconic%20Staters.webp",
+  "system": {
+    "description": {
+      "value": "<p>These coins, historically known as the first coins ever used, have undergone little modification throughout time. They are typically crafted by the minions of dragons, and always feature a carving of a dragon's wing or head. The dragons' hoards often contain varying qualities of precious metals, resulting in the coins being minted with a lower gold price compared to others on the market. Depending on the region, they may also be referred to as \"wings\" based on their symbol.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 0.01,
+    "price": {
+      "value": 35,
+      "denomination": "cp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "HbFNnaCa2Bu4s3ht",
+  "sort": 175000,
+  "_id": "oCNe3VYw69AArFBg",
+  "_originalKey": "!items!oCNe3VYw69AArFBg"
+}

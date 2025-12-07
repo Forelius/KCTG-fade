@@ -1,0 +1,52 @@
+{
+  "name": "Wardrobe",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Wardrobe.webp",
+  "system": {
+    "description": {
+      "value": "<p>Due to the considerable amount of materials involved, wardrobes are generally made to order by carpenters in smaller towns or villages.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "bxQZu0dOpDO6ztac",
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "IwQ3aHOCmm6PB5tQ",
+  "sort": 2300000,
+  "_originalKey": "!items!IwQ3aHOCmm6PB5tQ"
+}

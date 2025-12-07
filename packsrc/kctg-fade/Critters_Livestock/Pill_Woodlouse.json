@@ -1,0 +1,59 @@
+{
+  "folder": "u1YauWP6weWgnFOR",
+  "name": "Pill Woodlouse",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Roly%20Poly.webp",
+  "system": {
+    "description": {
+      "value": "<p>It goes by many names, including common pill-bug, slaters, common pill woodlouse, roly-poly, potato bug, doodle bug, and carpenter woodlouse. Some farmers keep them after a successful harvest to clean the soil, as they feed on dead plants and prevent the spread of weeds.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "chick",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "sCH0AsB0zuRGgRNj",
+  "_originalKey": "!items!sCH0AsB0zuRGgRNj"
+}

@@ -1,0 +1,59 @@
+{
+  "folder": "u1YauWP6weWgnFOR",
+  "name": "Travel Horse",
+  "type": "loot",
+  "_id": "RqZKR0nE3wdvZxmO",
+  "img": "modules/kctg-5e/images/Riding%20Horse.webp",
+  "system": {
+    "description": {
+      "value": "<p>A riding horse, or a saddle horse, is a horse used by mounted riders for recreation or transportation. It offers freedom, and movement, and enables some amazing feats of athleticism. There is a total thrill in galloping across an open field, in tune with your mount.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 480,
+      "units": "lb"
+    },
+    "price": {
+      "value": 75,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "travel-horse",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "sort": 500000,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!RqZKR0nE3wdvZxmO"
+}

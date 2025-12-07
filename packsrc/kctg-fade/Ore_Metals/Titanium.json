@@ -1,0 +1,40 @@
+{
+  "name": "Titanium",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<p>Titanium is an incredible metal. It is really expensive and rare, but it also has some amazing strengthening properties that make it one of the strongest metals around! When forged into weapons and armor by the most famous blacksmiths throughout the realm, this precious silver-gray metal is said to be near indestructible, not to mention incredibly light yet stronger than steel, making it the perfect material for crafting weapons and armor. </p><p></p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 250,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "img": "modules/kctg-5e/images/Titanium.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "rknvmXL7rtQgObfA",
+  "sort": 3000000,
+  "_id": "Reyx9n8TSpEU0Z6T",
+  "_originalKey": "!items!Reyx9n8TSpEU0Z6T"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Pearl Earrings",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Pearl.webp",
+  "effects": [],
+  "folder": "cIJKJ2rN2ZLnb881",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>These earrings are typically made to order, using both common and exotic pearls such as freshwater, black, white, or silver. The cost of a commission vary wildly depending on the materials chosen. In some regions, they serve a ceremonial purpose, worn by senior clergy as part of their sacred vestments.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 55,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "sort": 100391,
+  "_id": "GzzzOdev3rPSv1oN",
+  "_originalKey": "!items!GzzzOdev3rPSv1oN"
+}

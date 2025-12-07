@@ -1,0 +1,55 @@
+{
+  "name": "Aurichalcum  Ingot",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Aurichalcum%20Ingot.webp",
+  "system": {
+    "description": {
+      "value": "<p>When impurities are removed and clear ingots are produced, Aurichalcum Ingots finds several uses in essential components such as gears, ship parts, impellers, bearings, metallic sleeves, and other mechanical parts. Aurichalcum also remains tied to its ancient roots, with coins being minted to continue this long-standing tradition.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 25,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "rock-salt",
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "C3FNsGlq2Lf7wevT": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "rknvmXL7rtQgObfA",
+  "_id": "QAYunBCP2ove27aD",
+  "sort": 800000,
+  "_originalKey": "!items!QAYunBCP2ove27aD"
+}

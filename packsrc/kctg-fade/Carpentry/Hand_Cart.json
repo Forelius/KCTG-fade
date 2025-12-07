@@ -1,0 +1,58 @@
+{
+  "name": "Hand Cart",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Hand%20Cart.webp",
+  "system": {
+    "description": {
+      "value": "<p>The all-round tool for transporting items where they are needed. It can be used to transport feed for animals, large objects like planks, or carry fruits from orchards, all while remaining lightweight, making it a must-have tool on most farms.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": null,
+      "rules": "2024",
+      "book": "",
+      "page": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "identifier": "barrel-copy"
+  },
+  "effects": [],
+  "folder": "bxQZu0dOpDO6ztac",
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e2"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "6ujqGhcSE7N0VxuX",
+  "sort": 1300000,
+  "_originalKey": "!items!6ujqGhcSE7N0VxuX"
+}

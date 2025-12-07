@@ -1,0 +1,40 @@
+{
+  "name": "Vertugal",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<p><em>\"Some say that the forest spirits don't like it when you cut these trees. As time has passed, more and more sightings of these beings have been made, taking the shape of different woodland creatures, from cats to foxes, deer to bears. If you notice one and you plan to bring harm to the forest, you won't be in this realm for long.\"</em></p><p>A type of soft, light-colored wood with a straight grain is commonly used in pulpwood and paper production. This wood is popular in the printing industry, as it is lightweight and easy to work with. It can also be used in combination with fabric, such as cotton, or animal leather, to create parchment or other paper products.</p><p></p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 0,
+    "price": {
+      "value": 4,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "img": "modules/kctg-5e/images/Vertugal.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "LLvC7EvZacBUO0n8",
+  "sort": 2800000,
+  "_id": "puWvYHBRx2tGRhbJ",
+  "_originalKey": "!items!puWvYHBRx2tGRhbJ"
+}

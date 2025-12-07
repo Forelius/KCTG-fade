@@ -1,0 +1,55 @@
+{
+  "name": "Mbira",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Mbira.webp",
+  "system": {
+    "description": {
+      "value": "<p>The mbira is usually made from several types of hardwoods that form its soundboard, with iron tines for sound production. Revered in many cultures, the mbira is thought to produce sounds that can calm the mind and dispel magical thoughts, although this idea is largely based on folklore and remains only a rumor.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2014"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 15,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "identifier": "chair"
+  },
+  "effects": [],
+  "folder": "IwFJtR8yJkW4FYub",
+  "sort": 2300000,
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "yYaczp9VmEr8dw2Q",
+  "_originalKey": "!items!yYaczp9VmEr8dw2Q"
+}

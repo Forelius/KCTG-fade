@@ -1,0 +1,52 @@
+{
+  "name": "Palladium",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Paladium.webp",
+  "system": {
+    "description": {
+      "value": "<p>Palladium, with its lustrous white appearance, stands as a precious metal highly prized for its rarity and distinctive characteristics. Its notable usage in jewelry, especially as an alloy for crafting white gold.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 1000,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "rknvmXL7rtQgObfA",
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "693AVPlHi7InkjlV",
+  "sort": 1500000,
+  "_originalKey": "!items!693AVPlHi7InkjlV"
+}

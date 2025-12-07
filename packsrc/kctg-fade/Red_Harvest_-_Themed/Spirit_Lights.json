@@ -1,0 +1,58 @@
+{
+  "folder": "ODTmZCF7DbiMcwhX",
+  "name": "Spirit Lights",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Spirit%20Lights.webp",
+  "system": {
+    "description": {
+      "value": "<p>Well now's the Spirit Lights, and encounter that I don't wish. I’ve seen them twice in my travels, and that’s twice too many if you ask me. They look harmless at first, little flickers drifting through the dusk, not larger than fireflies. But the veterans of the harvest know better. Those lights don’t flit about all year. They only show themselves during the Red Harvest, when the moons line up and the fields glow crimson under their light. Stay out in the rows too long chasing one, and something follows. I’ve heard the screams in the night, thin and distant.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "chick",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "ownership": {
+    "default": 0,
+    "233gPIEGs3GHtRh3": 3
+  },
+  "sort": 150000,
+  "_id": "zIT5qFXNOpe3HhP0",
+  "_originalKey": "!items!zIT5qFXNOpe3HhP0"
+}

@@ -1,0 +1,48 @@
+{
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "name": "Dioptase",
+  "type": "loot",
+  "_id": "9DVB360GWAzAPvsE",
+  "img": "modules/kctg-5e/images/Dioptase.webp",
+  "system": {
+    "description": {
+      "value": "<p>Dioptase is greatly favored by gem collectors and is sometimes fashioned into small gems for jewelry. Another use for the gemstone is that it can also be pulverized and used as a pigment for painting.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!9DVB360GWAzAPvsE"
+}

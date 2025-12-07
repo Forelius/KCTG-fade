@@ -1,0 +1,58 @@
+{
+  "folder": "nneAAqmcEwOL9zrI",
+  "name": "Seed Potato",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Seeded%20Potato.webp",
+  "system": {
+    "description": {
+      "value": "<p>Seed potatoes are potatoes that are chosen for planting in the next growing cycle. Unlike mature potatoes that have been through several harvests, seed potatoes are harvested earlier in the growing process. While they are used for planting, they are still suitable for cooking just like regular potatoes.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 2,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "material",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "antlers",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "fXHckhHro0xhXJVl",
+  "sort": 400000,
+  "_originalKey": "!items!fXHckhHro0xhXJVl"
+}

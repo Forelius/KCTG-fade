@@ -1,0 +1,52 @@
+{
+  "name": "Chrysoberyl",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Chrysoberyl.webp",
+  "effects": [],
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "sort": 1800000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "rTIHqs3rkprLEWPo",
+  "system": {
+    "description": {
+      "value": "<p>All colored transparent variants of Chrysoberyl are made into gemstones, however, since they are hard to cut and have a limited value to them and they rarely make it into jewelry. Mainly used in magical arts and herbalism as components.</p>\n<p> </p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "FvHmsAdVJKNAy9eZ": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "auVc65DdvimseblT": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!rTIHqs3rkprLEWPo"
+}

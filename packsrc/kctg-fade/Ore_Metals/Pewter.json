@@ -1,0 +1,52 @@
+{
+  "name": "Pewter",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Pewter.webp",
+  "system": {
+    "description": {
+      "value": "<p>Pewter, a tin-based alloy that includes copper, antimony, and sometimes lead, is a popular material among blacksmiths for crafting tableware such as plates, cups, and utensils but also for decorative objects, mainly collectible statuettes and figurines, game figures, ship and other models, (replica) coins, pendants, plated jewellery and so on.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 2,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "rknvmXL7rtQgObfA",
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "JPKCBizwIOI3aPKu",
+  "sort": 1800000,
+  "_originalKey": "!items!JPKCBizwIOI3aPKu"
+}

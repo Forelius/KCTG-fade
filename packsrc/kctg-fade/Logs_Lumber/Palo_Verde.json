@@ -1,0 +1,54 @@
+{
+  "name": "Palo Verde",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Palo%20Verde.webp",
+  "system": {
+    "description": {
+      "value": "<p>The Palo Verde tree can be easily recognized by its green-colored bark. This tree is typically harvested for its bark, which can be used for multiple purposes. The inner bark can be woven into rope or baskets, or used for making chair bottoms. Additionally, it is utilized for making canoes, and clothing, and as a surface for paintings and maps. The bark can also be used as shingles and wall coverings.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0
+    },
+    "price": {
+      "value": 25,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "LLvC7EvZacBUO0n8",
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "0x52JJ2pJdzqtMh0",
+  "sort": 1100000,
+  "_originalKey": "!items!0x52JJ2pJdzqtMh0"
+}

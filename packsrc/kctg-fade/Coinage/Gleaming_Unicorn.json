@@ -1,0 +1,40 @@
+{
+  "name": "Gleaming Unicorn",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Gleaming%20Unicorn.webp",
+  "system": {
+    "description": {
+      "value": "<p>When forest folk attempt to create new forest circles, they use a form of primal magic to extract all the metals from the ground, and with the precious metals they dig out, they create coins. These coins are an alloy between platinum and silver making them a quite valuable commodity and used for trade when they go into civilization. Their value is roughly 25% of platinum. </p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 0.01,
+    "price": {
+      "value": 25,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "HbFNnaCa2Bu4s3ht",
+  "sort": 146875,
+  "_id": "JMcJyOeIyGBAr2dj",
+  "_originalKey": "!items!JMcJyOeIyGBAr2dj"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Zinc",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<p>Zinc is a rare, shimmering metal that is known for its ability to protect against the elements. It has a soft, silver color that glimmers in the light.  It is often used to coat other metals, such as iron or steel, to protect them from rust and decay. In ancient times, it was believed to have magical properties and was used in the crafting of powerful talismans and amulets, even magical mirrors.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 15,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "img": "modules/kctg-5e/images/Zinc.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "rknvmXL7rtQgObfA",
+  "sort": 3800000,
+  "_id": "60rTwRHgRBC5AuUw",
+  "_originalKey": "!items!60rTwRHgRBC5AuUw"
+}

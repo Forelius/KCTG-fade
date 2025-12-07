@@ -1,0 +1,48 @@
+{
+  "folder": "NGIN3DqFLpdjTTXr",
+  "name": "Chicken Bones",
+  "type": "loot",
+  "_id": "JxHn7MigKBWFsA1K",
+  "img": "modules/kctg-5e/images/Chicken%20Bones.webp",
+  "system": {
+    "description": {
+      "value": "<p>Saved after the cutting of a chicken and stored with either magical assistance or brewed concoctions that create freezing temperatures. Farmers typically store these alongside vegetable scraps to make chicken broth or gelatin. After their initial use for stock, remouillage is also made, a second stock that is a bit lighter. The bones can also be ground up for a bone meal as a food supplement for the local livestock.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": ""
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.2
+    },
+    "price": {
+      "value": 1,
+      "denomination": "cp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!JxHn7MigKBWFsA1K"
+}

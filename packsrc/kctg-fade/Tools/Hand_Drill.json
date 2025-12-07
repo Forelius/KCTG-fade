@@ -1,0 +1,46 @@
+{
+  "folder": "9z8F4GiWlXBk1DYI",
+  "name": "Hand Drill",
+  "type": "loot",
+  "_id": "MfhNII4umgjOAcxM",
+  "img": "modules/kctg-5e/images/Hand%20Drill.webp",
+  "system": {
+    "description": {
+      "value": "<p>Functioning as a manual tool, a hand drill transforms and magnifies the circular motion of the crank into the rotation of a drill chuck. The tool includes a cranking handle that turns pinion gears on the main shaft, with a chuck at the end designed to secure a drill bit. This versatile tool finds common use among masons, carpenters, leatherworkers, and even blacksmiths, facilitating the drilling of fine holes in hard materials such as wood, hard leather, stone, soft metals, or even bones.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": ""
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 1500000,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!MfhNII4umgjOAcxM"
+}

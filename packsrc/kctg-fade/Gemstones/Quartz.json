@@ -1,0 +1,52 @@
+{
+  "name": "Quartz",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Quartz.webp",
+  "effects": [],
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "sort": 6200000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "FA6Qs5ir7HRB43Oa",
+  "system": {
+    "description": {
+      "value": "<p>The deep sky blue color of this gemstone or transparent, somewhat rare, doesn't have many uses and it's used for ornamentation. When spells require gems that are not attached to a value, Quartz is the go-to gemstone for casters, as it has a low price.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium Of Trade Goods"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "FvHmsAdVJKNAy9eZ": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "auVc65DdvimseblT": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!FA6Qs5ir7HRB43Oa"
+}

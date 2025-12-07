@@ -1,0 +1,53 @@
+{
+  "name": "Gauze",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Gauze.webp",
+  "system": {
+    "description": {
+      "value": "<p>Primarily made out from linen, its main purpose is cleaning injureies. To help in this, some antiseptics like honey or vinegar are used with these cloths for bandaging, and sometimes medicinal herbs are incorporated to speed up the healing process. Most travelers have a few premade with them at all times.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 2,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "silk",
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "nneAAqmcEwOL9zrI",
+  "ownership": {
+    "default": 0,
+    "HSSviIXZSSQdGVd0": 3
+  },
+  "_id": "7v42Um4jw94k69et",
+  "sort": 850000,
+  "_originalKey": "!items!7v42Um4jw94k69et"
+}

@@ -1,0 +1,50 @@
+{
+  "folder": "NGIN3DqFLpdjTTXr",
+  "name": "Dragon Talons",
+  "type": "loot",
+  "_id": "UEk6gagStnWexO3m",
+  "img": "modules/kctg-5e/images/Dragon%20Talons.webp",
+  "system": {
+    "description": {
+      "value": "<p>The sharpness of the dragon's talons can cut through the most finely crafted steel. Considering their size, they are sometimes repurposed into handcrafted weapons, depending on the size, can make either the sturdy-sharp shortswords or the lightest longswords.</p><p></p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": ""
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!UEk6gagStnWexO3m"
+}

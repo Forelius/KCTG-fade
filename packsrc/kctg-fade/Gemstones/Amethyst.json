@@ -1,0 +1,52 @@
+{
+  "name": "Amethyst",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Amethyst.webp",
+  "effects": [],
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "sort": 1200000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "e6NjnyHQ7vCyCxx4",
+  "system": {
+    "description": {
+      "value": "<p><em>\"It is said the first Amethyst was a young and beautiful priestess, however, two goddesses fought over her allegiance and unfortunately destroyed her. As the goddesses mourned and wept their loss, their tears combined and created the gem as it fell to the ground. I'm not certain if this tale holds any truth, as I have also heard that a glance and wine were involved.\"</em><br /><br /></p>\n<p>Is a very common mineral and is found throughout the realms. It has a beautiful color and is faceted into jewelry cuts, making it one of the most popular gems for collectors. </p>\n<p> </p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "FvHmsAdVJKNAy9eZ": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "auVc65DdvimseblT": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!e6NjnyHQ7vCyCxx4"
+}

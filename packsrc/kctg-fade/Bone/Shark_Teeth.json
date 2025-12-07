@@ -1,0 +1,50 @@
+{
+  "folder": "NGIN3DqFLpdjTTXr",
+  "name": "Shark Teeth",
+  "type": "loot",
+  "_id": "2U88ldwXB97XFcQh",
+  "img": "modules/kctg-5e/images/Shark%20Teeth.webp",
+  "system": {
+    "description": {
+      "value": "<p>Shark teeth are very popular to trade, collect, and sell, making them a very valuable commodity. Depending on the region the shark's teeth are used as weapons or spearheads. They are also used as tools that help to cut food, carve wood, or dig with. They are also used to make jewelry, mainly necklaces and bracelets.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": ""
+    },
+    "quantity": 1,
+    "weight": 0.1,
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!2U88ldwXB97XFcQh"
+}

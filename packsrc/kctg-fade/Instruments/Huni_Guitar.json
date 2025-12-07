@@ -1,0 +1,54 @@
+{
+  "name": "Huni Guitar",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Huni%20Guitar.webp",
+  "effects": [],
+  "folder": "IwFJtR8yJkW4FYub",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Unlike a regular guitar, this instrument has a square shape that affects its acoustics. The sound hole creates a slight reverb effect on the strings, giving the guitar a distinctive tone compared to other stringed instruments. Bards often include these guitars in musical ensembles because of their unique sound.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 15,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gear",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "5EQR4efJdVfmZnws",
+  "sort": 1400000,
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_originalKey": "!items!5EQR4efJdVfmZnws"
+}

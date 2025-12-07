@@ -1,0 +1,52 @@
+{
+  "name": "Agate",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Agate%20B.webp",
+  "effects": [],
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "sort": 900000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "ebOdYZmoXZ5qr3Si",
+  "system": {
+    "description": {
+      "value": "<p>It is usually found in rocks and comes in a variety of amazing colors. Used for millennia in forms of arts and crafts. Based on the region it can have different names or colors. Good common examples are \"Fire agate\" which is a deep red or \"Moss Agate\" which has a moss-like appearance and gas a deep green shade.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "FvHmsAdVJKNAy9eZ": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "auVc65DdvimseblT": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!ebOdYZmoXZ5qr3Si"
+}

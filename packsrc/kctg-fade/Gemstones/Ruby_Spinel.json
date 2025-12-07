@@ -1,0 +1,52 @@
+{
+  "name": "Ruby Spinel",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Ruby%20Spinel.webp",
+  "effects": [],
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "sort": 3900000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "rMNdqpwlZ3c5pl1h",
+  "system": {
+    "description": {
+      "value": "<p><em>\"They say, if you ingest these, although, I wouldn't recommend it one bit, you can remember spells. Now I wonder, how can someone forget?\" </em></p>\n<p> </p>\n<p>Spinel is a rare mineral, and due to it, used to substitute even rarer ones like rubies. The blue variant is one of the most expensive gemstones on the market.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "FvHmsAdVJKNAy9eZ": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "auVc65DdvimseblT": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!rMNdqpwlZ3c5pl1h"
+}

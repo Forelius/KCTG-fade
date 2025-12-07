@@ -1,0 +1,58 @@
+{
+  "name": "Aurichalcum  Coin",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Aurichalcum%20Coin.webp",
+  "system": {
+    "description": {
+      "value": "<p>Aurichalcum Coins once saw widespread circulation in ancient times. However, in the more recent era, they are found only in remote regions with scarce access to primary metals such as gold or silver, where they are valued similarly to gold pieces.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2024",
+      "book": "",
+      "page": "",
+      "license": ""
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "",
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "treasure",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "C3FNsGlq2Lf7wevT": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "HbFNnaCa2Bu4s3ht",
+  "_id": "UpwZ4ffEWOxUF9WC",
+  "sort": 0,
+  "_originalKey": "!items!UpwZ4ffEWOxUF9WC"
+}

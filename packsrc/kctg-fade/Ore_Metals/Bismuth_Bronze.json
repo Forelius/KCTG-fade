@@ -1,0 +1,55 @@
+{
+  "name": "Bismuth Bronze",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Bismuth%20Bronze.webp",
+  "system": {
+    "description": {
+      "value": "<p>Bismuth Bronze or Bismuth Brass is a copper alloy primarily used for manufacturing corrosion-resistant bolts, nails, and various other metal components. Its unique properties make it a favored choice for marine environments.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 25,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "rknvmXL7rtQgObfA",
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "CkPcQMrMvGb3DbIV",
+  "sort": 300000,
+  "_originalKey": "!items!CkPcQMrMvGb3DbIV"
+}

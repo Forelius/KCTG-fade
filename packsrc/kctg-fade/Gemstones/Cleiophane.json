@@ -1,0 +1,52 @@
+{
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "name": "Cleiophane",
+  "type": "loot",
+  "_id": "ra2Qj15GfcjRl1wG",
+  "img": "modules/kctg-5e/images/Cleiophane.webp",
+  "system": {
+    "description": {
+      "value": "<p>Cleiophane is a light-colored gemstone, often seen in hues of yellow, green, or sometimes colorless. Besides its use in jewelry, it can also be utilized in the production of brass, its scarcity and high price mean it is for emergency use only.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!ra2Qj15GfcjRl1wG"
+}

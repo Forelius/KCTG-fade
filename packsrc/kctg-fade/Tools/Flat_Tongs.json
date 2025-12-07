@@ -1,0 +1,46 @@
+{
+  "folder": "9z8F4GiWlXBk1DYI",
+  "name": "Flat Tongs",
+  "type": "loot",
+  "_id": "yDBBydrymboSiITQ",
+  "img": "modules/kctg-5e/images/Flat%20Tongs.webp",
+  "system": {
+    "description": {
+      "value": "<p>These particular tongs are available in various shapes, ranging from a slender design crafted for creating small indentations in metals to broader variants designed for handling firey-hot metals. They stand out as some of the most versatile types of tongs, serving the purpose of picking up and gripping hot pieces of flat metal, preferred by most novice blacksmiths.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": ""
+    },
+    "quantity": 1,
+    "weight": 0,
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 2700000,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!yDBBydrymboSiITQ"
+}

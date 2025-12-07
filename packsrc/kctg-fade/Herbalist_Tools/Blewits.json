@@ -1,0 +1,59 @@
+{
+  "folder": "nneAAqmcEwOL9zrI",
+  "name": "Blewits",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Blewits.webp",
+  "system": {
+    "description": {
+      "value": "<p>Blewits are strong and delicious mushrooms, quickly identified by their faint purple coloring. Look for them in the fall in mulch piles, and sauté them for dinner. Quite often they are mistaken for a different mushroom called \"Amethyst Deceiver\", however, both are edible. </p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "material",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "identifier": "antlers",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "GO3d6cXZm8XXDZcR",
+  "sort": 800000,
+  "_originalKey": "!items!GO3d6cXZm8XXDZcR"
+}

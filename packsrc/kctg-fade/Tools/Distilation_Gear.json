@@ -1,0 +1,54 @@
+{
+  "folder": "9z8F4GiWlXBk1DYI",
+  "name": "Distilation Gear",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Distilation%20Gear.webp",
+  "system": {
+    "description": {
+      "value": "<p>Many alchemists and taverns keep one because it is used to improve the quality of potions and drinks. Creating the finest potions or strongest beverages require its use, but since the process takes a great deal of time, the final product often becomes very expensive.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "hand-axe",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "ownership": {
+    "default": 0,
+    "233gPIEGs3GHtRh3": 3
+  },
+  "_id": "GaI2Ay7e9RRl2W6Y",
+  "sort": 125000,
+  "_originalKey": "!items!GaI2Ay7e9RRl2W6Y"
+}

@@ -1,0 +1,59 @@
+{
+  "folder": "u1YauWP6weWgnFOR",
+  "name": "Dung Beetle",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Dung%20Beetle.webp",
+  "system": {
+    "description": {
+      "value": "<p>Dung Beetle their appearance does show that a pasture is quite healthy, as they are perfect in breaking down and burying animal waste, improving the soil. While, a bit controvesial, in some regions, they are used in cooking. After capturing they are cleaned, roasted, and dehydrated, sometimes with added seasonings. Some recipes involve trimming the wings and legs of the beetles, then stir-frying them with oil, basil, chiles, and lemongrass until crispy.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "chick",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "QjludDG5uXICDi8E",
+  "_originalKey": "!items!QjludDG5uXICDi8E"
+}

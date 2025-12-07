@@ -1,0 +1,52 @@
+{
+  "name": "Blue Sapphire",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Blue%20Sapphire.webp",
+  "effects": [],
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "sort": 5400000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "hrqVepoj5OIRo3Eo",
+  "system": {
+    "description": {
+      "value": "<p>Fine-colored Sapphire with a deep blue color and excellent transparency can reach several thousand gold coins per stone. One of the most used items in magical spells that involve affecting the mind. In some regions, it is used in creating magical mechanical constructs like golems. </p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1000,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "FvHmsAdVJKNAy9eZ": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "auVc65DdvimseblT": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!hrqVepoj5OIRo3Eo"
+}

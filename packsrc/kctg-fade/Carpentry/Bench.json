@@ -1,0 +1,52 @@
+{
+  "name": "Bench",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Bench.webp",
+  "system": {
+    "description": {
+      "value": "<p>Wooden benches are frequently used in outdoor terraces and busy taverns due to their ability to seat multiple people. Usually purchased in bulk as they have a limited lifespan due to constant use.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 4,
+      "units": "lb"
+    },
+    "price": {
+      "value": 3,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "bxQZu0dOpDO6ztac",
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "Lmj1xpPWiWbFpaVK",
+  "sort": 2800000,
+  "_originalKey": "!items!Lmj1xpPWiWbFpaVK"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Bitterroot",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Bitterroot.webp",
+  "system": {
+    "description": {
+      "value": "<p>Bitterroot is a plant that is prized for its beautiful flowers, which come in a range of colors and can survive in most climates. However, it is not the flowers that are in demand, but the roots of the plant. Bitterroot roots are considered a delicacy and are widely sought after. Some people believe that consuming bitterroot before a journey will help to keep wild beasts at bay.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "nneAAqmcEwOL9zrI",
+  "sort": 3600000,
+  "_id": "4qP13s92Lm5u8LOs",
+  "_originalKey": "!items!4qP13s92Lm5u8LOs"
+}

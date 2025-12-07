@@ -1,0 +1,43 @@
+{
+  "name": "Chalk Limestone Ashlar",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<p>Created by the finest masons, tiles were crafted for the exterior stylization of buildings or, in rare cases, as floor tiles. Their light coloring made them a popular choice for the ornamentation of churches, cathedrals, or royal manors constructed from stone. Despite this, their limited durability as tiles led to their replacement with either marble or granite in more recent times.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 1,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "material"
+    }
+  },
+  "img": "modules/kctg-5e/images/Chalk%20Limestone%20Ashlar.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "ioDwaLKA1DUtYokk",
+  "sort": 2200000,
+  "_id": "mCOhsZYD6PmsNMYw",
+  "_originalKey": "!items!mCOhsZYD6PmsNMYw"
+}

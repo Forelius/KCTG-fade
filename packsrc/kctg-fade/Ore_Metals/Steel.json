@@ -1,0 +1,40 @@
+{
+  "_id": "98h0Fqh2yuT3moHJ",
+  "name": "Steel",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Steel.webp",
+  "effects": [],
+  "folder": "rknvmXL7rtQgObfA",
+  "sort": 2400000,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p><em>\"Well, the building block of life, or so they say. I do love its glimmer in the night, especially when guardsmen wear their polished armors, keeps me safe, you know?</em></p>\n<p> </p>\n<p>Created from slabs of iron ore in high heat furnaces with added charcoal, it creates one of the sturdiest metals for weaponry. Steel is used mainly in cutlery, inexpensive rings, armor, and weaponr</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 2,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "ownership": {
+    "default": 0,
+    "3fjwTQThfGz3b3g3": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!98h0Fqh2yuT3moHJ"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Marble",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<p>Marble</p><p>The favorite tool of skilled sculptors, marble, transforms thoughts and emotions into beautiful sculptures as they carve it. Polished to a shine, it earns the sculptor a hefty profit when sold. Marble is one of the heaviest and most resilient stones that can be bought with coin. Its elegance makes it a popular choice for nobility, who use it for indoor flooring and heavy furnishings.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "material"
+    }
+  },
+  "img": "modules/kctg-5e/images/Marble.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "ioDwaLKA1DUtYokk",
+  "sort": 2100000,
+  "_id": "nS7BMa4AZVcxNt4z",
+  "_originalKey": "!items!nS7BMa4AZVcxNt4z"
+}

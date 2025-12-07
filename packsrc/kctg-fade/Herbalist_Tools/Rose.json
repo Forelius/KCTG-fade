@@ -1,0 +1,54 @@
+{
+  "name": "Rose",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Rose.webp",
+  "effects": [],
+  "folder": "nneAAqmcEwOL9zrI",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Rose is a flower with many purposes for the regular folk. Symbolically, it serves as a timeless token of love, often shared on first dates or anniversaries. Practically, rose bushes are used as a gardening tool to enhance the visual appeal of parks and gardens. In some distinct regions, rose jam is coveted for its distinctive flavor.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 7,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gear",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "JC1bPVKvgK5CR2zv",
+  "sort": 5650000,
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_originalKey": "!items!JC1bPVKvgK5CR2zv"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Aurichalcum",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Aurichalcum.webp",
+  "system": {
+    "description": {
+      "value": "<p>Deep within the veins of the earth lies Aurichalcum, an alloy of zinc and copper, shimmering like brass yet valued as highly as gold. In the rarest of conditions, where pressure mounts and time stretches endlessly, this alloy crystallizes into Aurichalcite. Coins forged from Aurichalcum were considered treasures of great worth, symbolizing prosperity and power in societies long past.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "rock-salt",
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "C3FNsGlq2Lf7wevT": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "rknvmXL7rtQgObfA",
+  "_id": "uR1VufD4v4Cu5k9n",
+  "sort": 1300000,
+  "_originalKey": "!items!uR1VufD4v4Cu5k9n"
+}

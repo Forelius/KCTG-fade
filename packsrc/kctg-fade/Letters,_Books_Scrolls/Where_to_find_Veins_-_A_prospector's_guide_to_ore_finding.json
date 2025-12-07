@@ -1,0 +1,65 @@
+{
+  "name": "Where to find Veins -  A prospector's guide to ore finding",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Where%20to%20Find%20Veins.webp",
+  "system": {
+    "description": {
+      "value": "<p>Detailed guide on the versatility of minerals and how they absorb properties from their surroundings. The book provides extensive information on how to quickly identify minerals by color once found in a cave or mine system. It includes details such as how hematite, while considered a lesser gem, can be processed to extract iron ore, and how bauxite can similarly be refined to produce aluminum. Miners, alchemists, and artisans alike also review this guide to refine their understanding of valuable mineral resources and their practical applications and composition.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "treasure",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "TFPwDODIpyRO0E0Q",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "02UTalQXMR2PhTmb",
+  "sort": 160907,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!02UTalQXMR2PhTmb"
+}

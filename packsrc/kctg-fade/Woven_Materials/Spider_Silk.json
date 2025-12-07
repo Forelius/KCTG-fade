@@ -1,0 +1,54 @@
+{
+  "name": "Spider Silk",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Spider%20Silk.webp",
+  "effects": [],
+  "folder": "LAyIc8TxL1JT6Oit",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Spider silk is highly valued and expensive, despite being a relatively abundant resource. Few people attempt to gather it due to the challenges involved. Although it sells for a high price, silk from larger spiders is usually a bit less costly. The harvesting process involves stunning the spiders and using a specialized extractor to collect the silk.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 75,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gear",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "owShkjh8wXrwM3jr",
+  "sort": -150000,
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_originalKey": "!items!owShkjh8wXrwM3jr"
+}

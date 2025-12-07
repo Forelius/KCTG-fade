@@ -1,0 +1,53 @@
+{
+  "name": "Gem Encrusted Polyhedral Dice",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Gem%20Incrusted%20Polyhedral%20Dice.webp",
+  "effects": [],
+  "folder": "cIJKJ2rN2ZLnb881",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>An encrusted dice set, typically containing multiple die types. Artisans carve elegant dice sets from luminous albite, inlaying each die with copper bindings to fortify its edges. These sets are usually accompanied by story-driven games played by commoners. Some of the more famous titles include the \"Explorer\" series as well as multiple editions of \"Duties and Divinities\" currently sitting at it's seventh edition.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 125,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "sort": 100391,
+  "_id": "IelMs8C2W1wJjAZk",
+  "_originalKey": "!items!IelMs8C2W1wJjAZk"
+}

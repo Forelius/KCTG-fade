@@ -1,0 +1,55 @@
+{
+  "folder": "u1YauWP6weWgnFOR",
+  "name": "Goat",
+  "type": "loot",
+  "_id": "ibVtYipIGL6AZrAd",
+  "img": "modules/kctg-5e/images/Goat.webp",
+  "system": {
+    "description": {
+      "value": "<p>Goats have been utilized for milk, meat, fur, and skins across most of the realms. Goat milk is often processed into goat cheese, and farmers sell it at a premium. The hide and fabric are perfect for making gloves, shoes, and other accessories, making it a favorite for leatherworkers.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 175,
+      "units": "lb"
+    },
+    "price": {
+      "value": 8,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "goat",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "sort": 800000,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!ibVtYipIGL6AZrAd"
+}

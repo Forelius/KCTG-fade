@@ -1,0 +1,52 @@
+{
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "name": "Amblygonite",
+  "type": "loot",
+  "_id": "iK6J3QZ7w1zw7CfH",
+  "img": "modules/kctg-5e/images/Amblygonite.webp",
+  "system": {
+    "description": {
+      "value": "<p>Transparent amblygonite, which is the most rare, when faceted as a gemstone, is prone to breakage and abrasion when worn in jewelry due to its low hardness and toughness. According to folklore, letting one of these gems dissolve on your tongue is believed to heal internal injuries.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!iK6J3QZ7w1zw7CfH"
+}

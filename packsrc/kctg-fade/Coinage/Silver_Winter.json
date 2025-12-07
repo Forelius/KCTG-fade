@@ -1,0 +1,40 @@
+{
+  "name": "Silver Winter",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Silver%20Solar.webp",
+  "system": {
+    "description": {
+      "value": "<p>This coin is a symbol of achievement and status within the bardic colleges. After successfully completing their last year of college, attendees are given a copper coin crafted by art students, featuring intricate seasonal markings. The coin is also available in other patterns, such as Silver Solar, Snow, or Summer, each corresponding to a different season. Despite its name, the coin is made of copper and holds a value similar to that of a silver piece.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 0.01,
+    "price": {
+      "value": 1,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "HbFNnaCa2Bu4s3ht",
+  "sort": 140625,
+  "_id": "Rb8RCfigdB80g7xM",
+  "_originalKey": "!items!Rb8RCfigdB80g7xM"
+}

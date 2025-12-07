@@ -1,0 +1,53 @@
+{
+  "name": "Dragon Touch",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Dragon%27s%20Touch.webp",
+  "effects": [],
+  "folder": "cIJKJ2rN2ZLnb881",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Dragon Touch ring is a scam ring piece, deliberately marketed as the missing third component to complete the prestigious set featuring 'Dragon's Eyes' earrings and the 'Dragon Heart' pendant. Primarily manufactured from Iron Pyrite and a cheap Agate, it does posses some value. However, the moment the piece of jewelry proves not to be what it was sold as, the silver-tongued scammer is nowhere to be seen.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 35,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "sort": 100782,
+  "_id": "QQhw3idT5POs3sMO",
+  "_originalKey": "!items!QQhw3idT5POs3sMO"
+}

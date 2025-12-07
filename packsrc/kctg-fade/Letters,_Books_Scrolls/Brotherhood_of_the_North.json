@@ -1,0 +1,65 @@
+{
+  "name": "Brotherhood of the North",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Brotherhood%20of%20the%20North.webp",
+  "system": {
+    "description": {
+      "value": "<p>Identified as a historical book, most of its contents have yet to be fully translated. Historians, with each revision, attempt to update the book with their latest findings, however, it appears to be written in an extinct language from millennia ago. From the currently available translations, the text seems to consist mostly of poems describing battles for Nordic territories. Yet, even these interpretations are heavily debated, as the accuracy of the translations remains uncertain.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "treasure",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "TFPwDODIpyRO0E0Q",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "9x75tlnHsYs5WAiI",
+  "sort": 175000,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!9x75tlnHsYs5WAiI"
+}

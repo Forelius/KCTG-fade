@@ -1,0 +1,53 @@
+{
+  "name": "Ballista",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Balista.webp",
+  "effects": [],
+  "folder": "bxQZu0dOpDO6ztac",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Ballista is a weapon that is used mainly for fort and settlement defense. It relies on different mechanics than a regular crossbow, using two levers with torsion springs instead of a tension prod. There are some rumors that a more advanced weapon exists called a polybolos, however, these rumors remain unfounded.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gear",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "WsDS5eQ8yVTmLqEZ",
+  "sort": 2750000,
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_originalKey": "!items!WsDS5eQ8yVTmLqEZ"
+}

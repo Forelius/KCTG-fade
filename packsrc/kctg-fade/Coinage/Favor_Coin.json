@@ -1,0 +1,53 @@
+{
+  "name": "Favor Coin",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Favor%20Coin.webp",
+  "effects": [],
+  "folder": "HbFNnaCa2Bu4s3ht",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>\"<em>Each favor has a price</em>” stands etched on the side of the golden coin in a forgotten language. Usually traded and manufactured by nefarious groups for an underground economy. If a service is required, a coin must be paid. The services offered can range from a piece of vestment, advanced weaponry, to castle plans, to the swift disposal of bodies. All favors, all have a price.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "XhuO7ipc8yd8XdLi",
+  "sort": 50000,
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_originalKey": "!items!XhuO7ipc8yd8XdLi"
+}

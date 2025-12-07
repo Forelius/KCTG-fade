@@ -1,0 +1,53 @@
+{
+  "name": "Jasper Ring",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Jasper%20Ring.webp",
+  "effects": [],
+  "folder": "cIJKJ2rN2ZLnb881",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>The Jasper Ring is crafted from a single solid piece of jasper, shaped by experienced gemcutters with exceptional skill and precision. Thanks to its beautiful coloring and vibrant polish, it attracts the attention of many commoners seeking a ring that match their fingers. It is offered at a modest price, making it highly accessible to people from all walks of life.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 75,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "sort": 100391,
+  "_id": "hJsK6x6xW1uprJIy",
+  "_originalKey": "!items!hJsK6x6xW1uprJIy"
+}

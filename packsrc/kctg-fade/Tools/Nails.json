@@ -1,0 +1,46 @@
+{
+  "name": "Nails",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<p>Nails are commonly made out of bronze or iron, and are mainly used as fasteners in construction, from small roofing nails to large iron spikes. They are also occasionally made out of copper or steel, particularly in environments where corrosion resistance is a key factor, such as coastal or riverside areas.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "quantity": 1,
+    "weight": 0.1,
+    "price": {
+      "value": 5,
+      "denomination": "cp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "img": "modules/kctg-5e/images/sza_979_b.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "9z8F4GiWlXBk1DYI",
+  "sort": 2900000,
+  "_id": "8w8in9eEH5GVDvV1",
+  "_originalKey": "!items!8w8in9eEH5GVDvV1"
+}

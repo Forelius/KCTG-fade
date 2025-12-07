@@ -1,0 +1,40 @@
+{
+  "_id": "wu7mjB7xKNMbcocJ",
+  "name": "Electrum",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Electrum.webp",
+  "effects": [],
+  "folder": "rknvmXL7rtQgObfA",
+  "sort": 3100000,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Sometimes referred to as Green Gold if manufactured, or White Gold, if it is a naturally occurring alloy. Primarily composed of Gold and Silver. In most cities, the balance between gold and silver is roughly 50-50 for the Electrum coin or bars manufacturing, however, in the more remote areas a higher percentage of silver is used. Due to this, most regions have stopped using Electrum coins altogether, as they match the big cities' manufacturing style.</p>\n<p> </p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 30,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "ownership": {
+    "default": 0,
+    "3fjwTQThfGz3b3g3": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!wu7mjB7xKNMbcocJ"
+}

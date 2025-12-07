@@ -1,0 +1,40 @@
+{
+  "name": "Hunter's Mark",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Hunters%20Mark.webp",
+  "system": {
+    "description": {
+      "value": "<p>This uniquely shaped coin is given by nobles to hunters as identification for permission to hunt on their land, after some form of payment has been made. Once the hunt is complete, the hunter returns the coin to the noble and may choose to sell the hunt directly to them. Typically, the hunter and noble will agree to a percentage of the hunt's profits beforehand. The coin can also be sold to merchant banks at a higher price, freeing the noble to attend to other matters.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 0.1,
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "HbFNnaCa2Bu4s3ht",
+  "sort": 112500,
+  "_id": "0u2ccs4ccZ5tKgw6",
+  "_originalKey": "!items!0u2ccs4ccZ5tKgw6"
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Permits",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Permits.webp",
+  "system": {
+    "description": {
+      "value": "<p>Usually not officially named as permits, they go by various titles such as writs, charters, licenses, or letters patent. Examples include a License to Bear Arms, which allows individuals to carry weapons in the presence of nobility, or a Permit to Travel or Safe Conduct license, often granted to envoys tasked with delivering messages or goods. Another example is a Resource Extraction license, which grants rights to harvest timber from a designated area of a noble’s forest. Ore, meat, and other resources also fall under the same type of license, depending on the material being gathered.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "treasure",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "TFPwDODIpyRO0E0Q",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "V13HaLchQoucVkVk",
+  "sort": 273243,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!V13HaLchQoucVkVk"
+}

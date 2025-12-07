@@ -1,0 +1,48 @@
+{
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "name": "Hambergite",
+  "type": "loot",
+  "_id": "dhkmp427rs7a3tmp",
+  "img": "modules/kctg-5e/images/Hambergite.webp",
+  "system": {
+    "description": {
+      "value": "<p>Hambergite is typically colorless or faintly blue. Despite being categorized as a semi-precious gem, it is more valued for its applications in lighting. It is commonly used in lamps to enhance the brightness of candles and other light sources, whether they are conventional or by arcane means.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!dhkmp427rs7a3tmp"
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Barrel",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Barrel.webp",
+  "system": {
+    "description": {
+      "value": "<p>Barrels are among the most widely used storage containers, especially for liquids. Their uses range from fermenting strong alcohols to preserving pickled foods or storing homemade juices, making them the preferred choice for high-capacity storage.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": null,
+      "rules": "2024",
+      "book": "",
+      "page": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 3,
+      "units": "lb"
+    },
+    "price": {
+      "value": 2,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "identifier": "barrel"
+  },
+  "effects": [],
+  "folder": "bxQZu0dOpDO6ztac",
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e2"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "Jo5czbbV5iKiLD5y",
+  "sort": 800000,
+  "_originalKey": "!items!Jo5czbbV5iKiLD5y"
+}

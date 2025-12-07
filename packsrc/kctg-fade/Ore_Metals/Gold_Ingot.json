@@ -1,0 +1,64 @@
+{
+  "name": "Gold Ingot",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Gold%20Ingot.webp",
+  "system": {
+    "description": {
+      "value": "<p>Gold Ingots serve as the most common currency among merchants and nobles, valued for their purity and ease of transport. Jewelers also look for them as the metal is without impurities and is preferable to make bands, bracelets, or necklaces encrusted with gems. Some kingdoms even use the ingots to secure treaties and fund military campaigns, ensuring their armies remain well-equipped and loyal.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "rknvmXL7rtQgObfA",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "LSFeBvEvdjT8Qxw9",
+  "sort": 1050000,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!LSFeBvEvdjT8Qxw9"
+}

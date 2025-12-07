@@ -1,0 +1,52 @@
+{
+  "name": "Pallet",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Pallet.webp",
+  "system": {
+    "description": {
+      "value": "<p>A standard bed made by carpenters for a good night's sleep usually consists of straw or hay covered with a sheet. This type of mattress is known as a palliasse or pallet, which is how it got its name.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 10,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "bxQZu0dOpDO6ztac",
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "bpJkjS4GIKwlRcNB",
+  "sort": 2200000,
+  "_originalKey": "!items!bpJkjS4GIKwlRcNB"
+}

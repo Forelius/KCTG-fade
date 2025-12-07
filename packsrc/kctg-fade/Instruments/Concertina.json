@@ -1,0 +1,55 @@
+{
+  "name": "Concertina",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Concertina.webp",
+  "system": {
+    "description": {
+      "value": "<p>The concertina, the smaller sister to the accordion, is a favorite among seafaring folk due to its compact size, pleasing sound, and easy repairs. Made primarily from giant reed, which grows along the shores of deep rivers, this material is readily available during the ship’s travels, ensuring quick fixes when entertainment is needed.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2014"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 2,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "identifier": "chair"
+  },
+  "effects": [],
+  "folder": "IwFJtR8yJkW4FYub",
+  "sort": 1300000,
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "WgOPE5zGrPwXxfof",
+  "_originalKey": "!items!WgOPE5zGrPwXxfof"
+}

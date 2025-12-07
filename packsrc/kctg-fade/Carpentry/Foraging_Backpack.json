@@ -1,0 +1,58 @@
+{
+  "name": "Foraging Backpack",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Gathering%20Basket.webp",
+  "system": {
+    "description": {
+      "value": "<p>Crafted from straw and reinforced with light wood like willow, this sturdy basket is perfect for gatherers and herbalists. It’s designed for foraging in woodland areas, by the rivers, or across open fields, providing a lightweight yet durable tool for collecting food and herbs.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": null,
+      "rules": "2024",
+      "book": "",
+      "page": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "identifier": "barrel-copy"
+  },
+  "effects": [],
+  "folder": "bxQZu0dOpDO6ztac",
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e2"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "UeQBTnFz4Mu7OInD",
+  "sort": 1100000,
+  "_originalKey": "!items!UeQBTnFz4Mu7OInD"
+}

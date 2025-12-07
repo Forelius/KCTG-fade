@@ -1,0 +1,50 @@
+{
+  "folder": "9z8F4GiWlXBk1DYI",
+  "name": "Pitchfork",
+  "type": "loot",
+  "_id": "nii3SfMnRm3q4BP6",
+  "img": "modules/kctg-5e/images/Pitch%20fork.webp",
+  "system": {
+    "description": {
+      "value": "<p>The pitchfork, commonly referred to as a hay fork, is a tool crafted for pitching loose materials, including hay, straw, manure, or leaves. With its long handle and typically two to five thin tines, it is specifically designed for the efficient movement of such materials.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": ""
+    },
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 1,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 2300000,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!nii3SfMnRm3q4BP6"
+}

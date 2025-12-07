@@ -1,0 +1,53 @@
+{
+  "name": "Stones of Mother Earth",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Stones%20of%20Mother%20earth%20(Diopside).webp",
+  "effects": [],
+  "folder": "cIJKJ2rN2ZLnb881",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>These earrings are made with diopside, and their name is taken from the reverence druids hold for this particular stone in high regard. The beautiful light green gem, set in gold, creates an allure of elegance and an air of nobility. The price reflects this appearance, aligning with the refined impression they leave.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 125,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "sort": 100391,
+  "_id": "Xn1K09XSzoC6v21r",
+  "_originalKey": "!items!Xn1K09XSzoC6v21r"
+}

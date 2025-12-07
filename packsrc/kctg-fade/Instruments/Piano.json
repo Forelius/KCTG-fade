@@ -1,0 +1,55 @@
+{
+  "name": "Piano",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Piano.webp",
+  "system": {
+    "description": {
+      "value": "<p>The piano is a keyboard instrument that generates sound by striking strings with wooden hammers when its keys are pressed. Its production is quite expensive due to the need for skilled craftsmanship, involving experienced carpenters, skilled blacksmiths, and adept machinists. The piano plays a significant role in various musical genres, serving as both a solo instrument and an essential component in orchestras and ensembles for high-class citizens.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2014"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "identifier": "chair"
+  },
+  "effects": [],
+  "folder": "IwFJtR8yJkW4FYub",
+  "sort": 900000,
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "KjTDSrSz31SDV4cE",
+  "_originalKey": "!items!KjTDSrSz31SDV4cE"
+}

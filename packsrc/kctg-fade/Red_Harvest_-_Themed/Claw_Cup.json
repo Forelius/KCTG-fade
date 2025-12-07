@@ -1,0 +1,58 @@
+{
+  "folder": "ODTmZCF7DbiMcwhX",
+  "name": "Claw Cup",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Claw%20Glass.webp",
+  "system": {
+    "description": {
+      "value": "<p>I’ve drunk from many strange vessels in my years, horns carved from aurochs, clay mugs still warm from the kiln, even a polished turtle shell on the coast, but nothing feels quite like wrapping your hand around a Claw-Cup at Red Harvest. Picture a goblet where the stem is forged iron, darkened and rough as old blood, and shaped into a talon. Its black claws grip a bowl of smoky glass as if it’s holding on for dear life. Some smiths even add scratches and nicks so it looks as though the claw fought for it.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "chick",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "ownership": {
+    "default": 0,
+    "233gPIEGs3GHtRh3": 3
+  },
+  "sort": 150000,
+  "_id": "VuzyPsFcuAhz1Ih4",
+  "_originalKey": "!items!VuzyPsFcuAhz1Ih4"
+}

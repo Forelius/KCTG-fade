@@ -1,0 +1,55 @@
+{
+  "name": "Ferrochrome Aquarum",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Ferrochrome.webp",
+  "system": {
+    "description": {
+      "value": "<p>A very rare alloy, forgotten by time, with unknown schematics and properties. Its strength is as durable as iron when molded into shape, yet when the metal is moved, small ripples similar to rain splatter waves appear on it. Alchemists and casters who tried to identify it have been baffled, leading to dangerous consequences. Yet it is not magical in nature. A common, silent agreement among alchemists is that when adventurers ask for identification, they simply describe it as a hardened liquid metal.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 5,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "rock-salt",
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "treasure",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "C3FNsGlq2Lf7wevT": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "rknvmXL7rtQgObfA",
+  "_id": "3tHx2keHGcP4nIIH",
+  "sort": 200000,
+  "_originalKey": "!items!3tHx2keHGcP4nIIH"
+}

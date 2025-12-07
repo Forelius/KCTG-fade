@@ -1,0 +1,43 @@
+{
+  "name": "Glass",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<p>The process of shaping glass is time-consuming, and to create it, glassblowers need a vast amount of skill. After the glassblowing process is completed and the glass is still hot, it is placed into molds to create bottles, vials, windows, and other glass objects such as vases or decorative objects. </p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "material"
+    }
+  },
+  "img": "modules/kctg-5e/images/Glass.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "ioDwaLKA1DUtYokk",
+  "sort": 1800000,
+  "_id": "U9UU5Bq8nsYGX7ec",
+  "_originalKey": "!items!U9UU5Bq8nsYGX7ec"
+}

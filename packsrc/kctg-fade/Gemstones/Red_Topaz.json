@@ -1,0 +1,49 @@
+{
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "name": "Red Topaz",
+  "type": "loot",
+  "_id": "D38SNvGurgMdDARS",
+  "img": "modules/kctg-5e/images/Red%20Topaz.webp",
+  "system": {
+    "description": {
+      "value": "<p>Also referred to as Jacinth, Flamegem, or sometimes Corundum it is one of the most common gems used in magical crafting. Due to its very specific use, its price can range widely. Outside of magical use it is one of the most durable minerals after the Diamond. Gaffers use it as a cheaper alternative to create glass cutters.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 5000,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!D38SNvGurgMdDARS"
+}

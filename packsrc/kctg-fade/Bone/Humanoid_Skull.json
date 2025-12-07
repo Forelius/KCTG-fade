@@ -1,0 +1,50 @@
+{
+  "folder": "NGIN3DqFLpdjTTXr",
+  "name": "Humanoid Skull",
+  "type": "loot",
+  "_id": "kgpXQYS25QmDXrkd",
+  "img": "modules/kctg-5e/images/Humanoid%20Skull.webp",
+  "system": {
+    "description": {
+      "value": "<p>The humanoid skulls have limited fringe uses. They usually are in demand by medical practitioners for better a understanding of medicine. Ritualistic needs, are mainly used as components, or, added at the end of staves for ornamental purposes. Or, by the magical practitioners for what some might consider extreme arcane arts. Another rare usage is for the decoration of some more eccentric lords in their expansive manors.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": ""
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 2,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!kgpXQYS25QmDXrkd"
+}

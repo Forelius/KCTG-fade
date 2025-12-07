@@ -1,0 +1,54 @@
+{
+  "name": "Tulip",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Tulip.webp",
+  "effects": [],
+  "folder": "nneAAqmcEwOL9zrI",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Tulips once triggered a major economic crisis, known as \"tulip mania,\" because of their striking appearance, popularity, and limited availability. Since they required a specific climate and harvest cycle, they became luxury goods. After the bubble burst, tulips eventually became accessible at a more reasonable price, accessible to every commoner.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 7,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gear",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "ncUxujkvCIBeZ5TA",
+  "sort": 2550000,
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_originalKey": "!items!ncUxujkvCIBeZ5TA"
+}

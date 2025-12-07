@@ -1,0 +1,40 @@
+{
+  "name": "Scarlet",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Scarlet.webp",
+  "system": {
+    "description": {
+      "value": "<p>The most expensive woolen cloth material, often dyed with kermes dye, created from rare insects, which provides a bright red color to the fabric making it one the most expensive dyes in use. This type of material is only used by the finest seamstresses or dressmakers. </p><p></p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 150,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "LAyIc8TxL1JT6Oit",
+  "sort": -200000,
+  "_id": "EV2F2IkGATc6OonP",
+  "_originalKey": "!items!EV2F2IkGATc6OonP"
+}

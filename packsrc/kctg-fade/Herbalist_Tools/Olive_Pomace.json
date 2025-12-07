@@ -1,0 +1,59 @@
+{
+  "folder": "nneAAqmcEwOL9zrI",
+  "name": "Olive Pomace",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Olive%20Pomance.webp",
+  "system": {
+    "description": {
+      "value": "<p>After olives are crushed for oil, the remnants are pressed again to extract any remaining oil and then dried into a fine powder. For ease of transportation, the powder is shaped into small pellets or cylindrical bricks. These bricks are used as fuel in bakeries, as their unique burning smell, combined with the aroma of baked goods, attracts considerable clientele and other establishments. Manors, castles, and forts often order them in large quantities for their braziers due to their long burn time. However, they are highly flammable and can ignite in direct sunlight, necessitating specific storage. They require storage in barrels with salted water to prevent mold and mitigate the fire risk.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 5,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "material",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "identifier": "antlers",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "MNpkI9wUQPwn5HO2",
+  "sort": 200000,
+  "_originalKey": "!items!MNpkI9wUQPwn5HO2"
+}

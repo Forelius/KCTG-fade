@@ -1,0 +1,54 @@
+{
+  "name": "Living Book",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Living%20Book.webp",
+  "effects": [],
+  "folder": "TFPwDODIpyRO0E0Q",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>The fable goes that it is a journal of sorts, said to be owned by a forgotten by time witch. At every solstice, the pages get erased, and new entries can be added. When new entries are added, and if specifically written as a journal, the book itself rolls its eyes as soon as something embarrassing is written in it. </p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gear",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "pqXovlFavZVKFWNq",
+  "sort": 256250,
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_originalKey": "!items!pqXovlFavZVKFWNq"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Silver Blue Spinel Ring",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Silver%20Blue%20Spinel.webp",
+  "effects": [],
+  "folder": "cIJKJ2rN2ZLnb881",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Dark blue spinel, a beautiful gem, is cut by skilled gemcutters and embedded into a silver or iron ring. Even though it is set in more affordable metals, the spinel itself elevates the ring's value to a level comparable with those made of more precious materials. Its rich hue of the gem, makes the ring highly desirable by nobility.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 750,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "sort": 100391,
+  "_id": "tv82rlUEPXYFZoRi",
+  "_originalKey": "!items!tv82rlUEPXYFZoRi"
+}

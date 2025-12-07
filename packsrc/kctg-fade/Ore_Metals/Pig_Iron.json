@@ -1,0 +1,64 @@
+{
+  "name": "Pig Iron",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Pig%20Iron.webp",
+  "system": {
+    "description": {
+      "value": "<p>Pig iron, commonly referred to as crude iron, is an intermediate product used by the blacksmiths in the production of steel. When combined with charcoal, through careful refining, impurities are removed, and the resulting steel becomes an amazing material for tools, construction, and warfare.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 75,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "rknvmXL7rtQgObfA",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "t1ky3RxgTmbzLJeF",
+  "sort": 2125000,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!t1ky3RxgTmbzLJeF"
+}

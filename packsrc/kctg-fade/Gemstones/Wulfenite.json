@@ -1,0 +1,52 @@
+{
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "name": "Wulfenite",
+  "type": "loot",
+  "_id": "oEw1CuGAVY2VlwKJ",
+  "img": "modules/kctg-5e/images/Wulfenite.webp",
+  "system": {
+    "description": {
+      "value": "<p>Wulfenite is exceptionally soft and prone to breaking due to its flat, rectangular crystals. Despite this, its vibrant red and orange hues are captivating, leading gem cutters to produce small, sparkling, faceted gems ideal for settings with minimal handling, like inlays on furniture and royal displays.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!oEw1CuGAVY2VlwKJ"
+}

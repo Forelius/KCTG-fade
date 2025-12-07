@@ -1,0 +1,50 @@
+{
+  "folder": "9z8F4GiWlXBk1DYI",
+  "name": "Detonator",
+  "type": "loot",
+  "_id": "FHBqLzndlS0JAKeu",
+  "img": "modules/kctg-5e/images/Detonator.webp",
+  "system": {
+    "description": {
+      "value": "<p>A tool highly favored by miners, its combination with gunpowder explosive facilitates the rapid creation of holes or tunnels to reach the more interesting metals beneath the ground. Nevertheless, due to the occasional instability of the explosions and the rare risk of shrapnel damaging mine supports, drills tend to be the preferred choice.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": ""
+    },
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 1100000,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!FHBqLzndlS0JAKeu"
+}

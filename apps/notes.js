@@ -1,4 +1,4 @@
-import { MODULE_ID } from "../kctg-5e.js";
+import { MODULE_ID } from "../kctg-fade.js";
 
 export class Notes extends foundry.applications.api.HandlebarsApplicationMixin(foundry.applications.api.ApplicationV2) {
     constructor(options = {}) {
@@ -21,7 +21,7 @@ export class Notes extends foundry.applications.api.HandlebarsApplicationMixin(f
 
     static PARTS = {
         main: {
-            template: "modules/kctg-5e/templates/notes.html"
+            template: "modules/kctg-fade/templates/notes.html"
         }
     };
 

@@ -1,0 +1,59 @@
+{
+  "folder": "nneAAqmcEwOL9zrI",
+  "name": "Purple Brittlegill",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Purple%20Brittlegill.webp",
+  "system": {
+    "description": {
+      "value": "<p>The Purple Brittlegill is large, with a dark vinaceous or purple cap, and white or cream-colored gills, a mushroom that is edible. Herbalists recommend that due to some brittlegills being toxic, it's important to only eat mushrooms that you can recognize. If unsure, better avoid it. </p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 3,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "material",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "identifier": "antlers",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "nw7y7Hp7wjVm9ThC",
+  "sort": 0,
+  "_originalKey": "!items!nw7y7Hp7wjVm9ThC"
+}

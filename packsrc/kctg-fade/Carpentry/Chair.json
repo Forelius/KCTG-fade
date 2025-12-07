@@ -1,0 +1,52 @@
+{
+  "name": "Chair",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Chair.webp",
+  "system": {
+    "description": {
+      "value": "<p>Wooden chairs, often found in houses, stores, inns, or taverns, are usually made from planks to allow for easy replacement of parts. This is particularly beneficial in busy venues where chairs may need to be replaced following events like brawls.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 15,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "bxQZu0dOpDO6ztac",
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "v7qTvmerc88OSQ1q",
+  "sort": 2900000,
+  "_originalKey": "!items!v7qTvmerc88OSQ1q"
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Tungsten Ingots",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Tungsten%20ingot.webp",
+  "system": {
+    "description": {
+      "value": "<p>Tungsten Ingots are a rare product, crafted only by experienced blacksmiths using some of the hottest smelters. The pure Tungsten Ingot’s primary use lies in alchemical research, particularly in the development of new, powerful acids capable of dissolving everything. Due to their rarity and the immense difficulty in forging them, locating a properly refined one is akin to finding a needle in a haystack.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 15,
+      "denomination": "ep"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "rknvmXL7rtQgObfA",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "aWlTs9VABrAQIzSs",
+  "sort": 1650000,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!aWlTs9VABrAQIzSs"
+}

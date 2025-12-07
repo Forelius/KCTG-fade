@@ -1,0 +1,39 @@
+{
+  "name": "Assaying Tool",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Touchstone.webp",
+  "system": {
+    "description": {
+      "value": "<p>It is commonly known as a Touchstone, a tool made from slate with a finely-grained surface on which metals leave a small trace. The touchstone is used by merchants and bank tellers along with equivalent metal leaves to identify the purity of coins, bars, or jewelry. The metal leaves, made of gold, silver, platinum, or electrum with various purity levels, are scratched on the touchstone along with the soon-to-be-acquired metal to determine its purity or whether it is a counterfeit.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "HbFNnaCa2Bu4s3ht",
+  "_id": "8OiiSvGE1XgzjgvV",
+  "sort": 200000,
+  "_originalKey": "!items!8OiiSvGE1XgzjgvV"
+}

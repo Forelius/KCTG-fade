@@ -1,0 +1,65 @@
+{
+  "name": "Book of Pawns",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Book%20of%20Pawns.webp",
+  "system": {
+    "description": {
+      "value": "<p>\"Book of Pawns\" is a humorously named tome containing a collection of puns designed to make even the most stoic individuals groan. Some prime examples include: \"What happens if you ask a treant for life advice? He’ll tell you to branch out and leave.\" or \"Why did the kobold’s stand-up act bomb? - Their jokes drag on.\"</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "treasure",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "TFPwDODIpyRO0E0Q",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "K61N0u3thWYeCr02",
+  "sort": 250000,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!K61N0u3thWYeCr02"
+}

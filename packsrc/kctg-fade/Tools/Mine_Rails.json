@@ -1,0 +1,54 @@
+{
+  "folder": "9z8F4GiWlXBk1DYI",
+  "name": "Mine Rails",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Mine%20Rails.webp",
+  "system": {
+    "description": {
+      "value": "<p>Made out of steel to sustain the heavy loads from carts carrying ore and rocks. Blacksmiths, when crafting these, are required to use the most pristine materials they have in stock to ensure they stand the test of time and do not bend under extreme pressures and temperatures.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 200,
+      "units": "lb"
+    },
+    "price": {
+      "value": 25,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "hand-axe",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "ownership": {
+    "default": 0,
+    "233gPIEGs3GHtRh3": 3
+  },
+  "_id": "V2Rkmlw8jizb89Wh",
+  "sort": 100049,
+  "_originalKey": "!items!V2Rkmlw8jizb89Wh"
+}

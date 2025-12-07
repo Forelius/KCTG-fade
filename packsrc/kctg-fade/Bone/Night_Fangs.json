@@ -1,0 +1,50 @@
+{
+  "folder": "NGIN3DqFLpdjTTXr",
+  "name": "Night Fangs",
+  "type": "loot",
+  "_id": "XF37NOPPgEX3sU5r",
+  "img": "modules/kctg-5e/images/Night%20Fangs.webp",
+  "system": {
+    "description": {
+      "value": "<p>These fangs are a currency for all the night hunters, traded for specialized weaponry. The hunters hunt the creatures of the night, and after the hunt, even if they don't kill the captured creature, they remove their feeding fangs, rendering them harmless. </p><p></p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": ""
+    },
+    "quantity": 1,
+    "weight": 0.5,
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!XF37NOPPgEX3sU5r"
+}

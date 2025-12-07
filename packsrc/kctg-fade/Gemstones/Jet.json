@@ -1,0 +1,52 @@
+{
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "name": "Jet",
+  "type": "loot",
+  "_id": "IBbJhxARpVUg4hyN",
+  "img": "modules/kctg-5e/images/Jet.webp",
+  "system": {
+    "description": {
+      "value": "<p>Jet, a deep black gemstone, is sufficiently hard to be faceted and is often utilized in straightforward pendants or as a component in clothing and furniture. In cultural practices across various regions, wearing Jet-adorned clothing signifies themes of sorrow and mourning.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!IBbJhxARpVUg4hyN"
+}

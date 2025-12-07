@@ -1,0 +1,64 @@
+{
+  "name": "Copper Ore",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Copper%20Ore.webp",
+  "system": {
+    "description": {
+      "value": "<p>Copper ore is commonly found in multiple veins alongside a variety of other metals. It is easily identified by its reddish-brown color. It serves as the foundation for multiple alloys, such as brass or bronze, and is also an important metal in coin minting in all regions. Arcane casters experiment with copper metal rods in enchanted devices, believing it enhances the flow of arcane energy. </p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 2,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "rknvmXL7rtQgObfA",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "tpJ4xbJqNrxCW9KQ",
+  "sort": 1950000,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!tpJ4xbJqNrxCW9KQ"
+}

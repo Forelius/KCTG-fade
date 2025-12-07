@@ -1,0 +1,43 @@
+{
+  "name": "Stone Brick",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<p>The stone brick is often expensive to produce, as it requires specialized tools and skilled craftsmen or masons to shape and polish, as well, and must be mined from deep within the earth or quarried from rock formations, making it often reserved for the most prestigious building projects, such as castles, walls, forts, and fortresses.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 4,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "material"
+    }
+  },
+  "img": "modules/kctg-5e/images/Stone%20Brick.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "ioDwaLKA1DUtYokk",
+  "sort": 1700000,
+  "_id": "nFQuVoj7JRINBwm3",
+  "_originalKey": "!items!nFQuVoj7JRINBwm3"
+}

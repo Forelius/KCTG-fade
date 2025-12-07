@@ -1,0 +1,40 @@
+{
+  "name": "Hickory Log",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Hickory%20Log.webp",
+  "effects": [],
+  "folder": "LLvC7EvZacBUO0n8",
+  "sort": 1700000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "h66Q02mgxDJHv0W5",
+  "system": {
+    "description": {
+      "value": "<p>Hickory logs are used in a variety of applications, including the manufacture of furniture, by the most skilled carpenters, flooring, and tool handles. It is also commonly used as a fuel for cooking and smoking meats, as it imparts a very distinctive flavor.</p><p></p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 0,
+    "price": {
+      "value": 15,
+      "denomination": "cp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "ownership": {
+    "default": 0,
+    "FvHmsAdVJKNAy9eZ": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!h66Q02mgxDJHv0W5"
+}

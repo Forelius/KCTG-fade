@@ -1,0 +1,59 @@
+{
+  "folder": "nneAAqmcEwOL9zrI",
+  "name": "Star Anise",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Star%20Anise.webp",
+  "system": {
+    "description": {
+      "value": "<p>The Star Anise is not only valued for its flavor but also for its medicinal and aromatic properties, helping with those with heart conditions. In cooking, the whole pods release their flavor gradually, making them ideal for slow-cooked dishes, while ground star anise is a main ingredient in spice mixtures such as the five-spice powder, giving dishes a sweet and spicy taste.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 5,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "material",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "identifier": "antlers",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "vLtu6Av1fydc1rFE",
+  "sort": 0,
+  "_originalKey": "!items!vLtu6Av1fydc1rFE"
+}

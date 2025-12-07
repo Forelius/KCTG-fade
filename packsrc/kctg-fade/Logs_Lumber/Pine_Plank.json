@@ -1,0 +1,40 @@
+{
+  "name": "Pine Plank",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Pine%20Plank.webp",
+  "effects": [],
+  "folder": "LLvC7EvZacBUO0n8",
+  "sort": 600000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "OmGs3WVYvooNYlRu",
+  "system": {
+    "description": {
+      "value": "<p>The lumber is a light color, and it's mainly used in construction since it's quite flexible and resilient. It can be used for window and door frames, rails, and construction mold.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 15,
+    "price": {
+      "value": 2,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "ownership": {
+    "default": 0,
+    "FvHmsAdVJKNAy9eZ": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!OmGs3WVYvooNYlRu"
+}

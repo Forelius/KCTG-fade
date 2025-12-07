@@ -1,0 +1,40 @@
+{
+  "name": "Teak Plank",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<p>Because Teak wood is resistant to rot and decay, as well as insects and other pests, it is a popular choice for outdoor applications, such as decks, patios, and fencing. Teak can also be used in the construction of ships and other watercraft, as it is resistant to water damage and warping.</p><p></p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 14,
+    "price": {
+      "value": 3,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "img": "modules/kctg-5e/images/Teak%20Plank.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "LLvC7EvZacBUO0n8",
+  "sort": 2600000,
+  "_id": "I2czaTe3PBBVIopT",
+  "_originalKey": "!items!I2czaTe3PBBVIopT"
+}

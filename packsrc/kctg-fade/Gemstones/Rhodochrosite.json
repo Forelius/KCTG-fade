@@ -1,0 +1,52 @@
+{
+  "name": "Rhodochrosite",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Rhodochrosite.webp",
+  "effects": [],
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "sort": 3500000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "2UiR6jmx7ayeltTg",
+  "system": {
+    "description": {
+      "value": "<p>Or commonly named Rosenstone is highly demanded by nobility due to its pink color. It's well known that they usually go out of their way to acquire this type of gem. Used for ornamentation in earrings, rings, necklaces, or bracelets. Several Rosenstone pieces, if correctly crushed and mixed with additional herbs, are assumed to neutralize most poisons and diseases.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "FvHmsAdVJKNAy9eZ": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "auVc65DdvimseblT": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!2UiR6jmx7ayeltTg"
+}

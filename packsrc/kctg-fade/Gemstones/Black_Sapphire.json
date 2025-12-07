@@ -1,0 +1,52 @@
+{
+  "name": "Black Sapphire",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Black%20Saphire.webp",
+  "effects": [],
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "sort": 2800000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "Ijv22vgDTNDnvWkA",
+  "system": {
+    "description": {
+      "value": "<p>Mainly called Star Sapphire, when cut into shape, the reflection of the gem forms into a distinct, six-rayed star. Its magical proprieties have been almost forgotten these days, but it is assumed that its magic involves the passage of time and the ability to control it.</p>\n<p> </p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1000,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "FvHmsAdVJKNAy9eZ": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "auVc65DdvimseblT": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!Ijv22vgDTNDnvWkA"
+}

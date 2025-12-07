@@ -1,0 +1,48 @@
+{
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "name": "Harunite",
+  "type": "loot",
+  "_id": "XVxsaaXlU2Xt1QDa",
+  "img": "modules/kctg-5e/images/Harunite.webp",
+  "system": {
+    "description": {
+      "value": "<p>Harumite is a gemstone of singular nature, attracting seekers akin to those of Mishanite. Its spherical shape maintains an eternal internal spin reminiscent of an everlasting tornado. Despite its intriguing characteristics, its minuscule size poses challenges for experienced jewelers, who cannot assess its worth by carat weight or fashion it into functional jewelry. There is also a widespread belief that owning this gemstone brings a persistent sense of fatigue, akin to sleep deprivation.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!XVxsaaXlU2Xt1QDa"
+}

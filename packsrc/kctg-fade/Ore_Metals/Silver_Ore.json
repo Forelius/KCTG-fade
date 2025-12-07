@@ -1,0 +1,64 @@
+{
+  "name": "Silver Ore",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Silver%20Ore.webp",
+  "system": {
+    "description": {
+      "value": "<p>Silver Ore is one of the most sought-after ores, valued for its use in metallurgy and coinage. It is commonly made as an alloy with other metals and is the primary material for minting the most circulated type of coin. Unlike gold, which is often hoarded by the elite, silver circulates widely, fueling trade across vast empires. It can also be ground into fine dust for use in the making of mirrors and weaponry, as it is known to hunt down creatures of the night.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 3,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "rknvmXL7rtQgObfA",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "Sp5wShdwpLjL3b1K",
+  "sort": 2650000,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!Sp5wShdwpLjL3b1K"
+}

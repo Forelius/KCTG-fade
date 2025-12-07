@@ -1,0 +1,40 @@
+{
+  "name": "Spider's Silk",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Spiders%20Silk.webp",
+  "system": {
+    "description": {
+      "value": "<p>This coin is predominantly made of gold, but its color may vary depending on the region where it was mined. It can appear either red or green and is commonly known as Red Gold or Green Gold, respectively. The gold used to create these coins is primarily sourced by underground folk and is mainly used for trade on the surface. The coin features intricate spider carvings on both sides, which has led to its nickname, \"Spider Gold\" or \"Spider Silk.\"</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 0.01,
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "HbFNnaCa2Bu4s3ht",
+  "sort": 131250,
+  "_id": "ZxtiNferzGpxnVo2",
+  "_originalKey": "!items!ZxtiNferzGpxnVo2"
+}

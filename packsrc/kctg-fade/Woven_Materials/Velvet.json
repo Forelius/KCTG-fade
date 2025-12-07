@@ -1,0 +1,40 @@
+{
+  "name": "Velvet",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/velvet.webp",
+  "system": {
+    "description": {
+      "value": "<p>One of the most well known materials. It is woven on special types of looms that have a distinct way of seaming the cloth together. Velvet is often associated with nobility, however, in more recent times it got replaced with Cashmere wool.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 35,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "LAyIc8TxL1JT6Oit",
+  "sort": 148438,
+  "_id": "NSywUKi45Gh9pIRX",
+  "_originalKey": "!items!NSywUKi45Gh9pIRX"
+}

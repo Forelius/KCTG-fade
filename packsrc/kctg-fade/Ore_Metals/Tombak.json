@@ -1,0 +1,47 @@
+{
+  "name": "Tombak",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Tombak.webp",
+  "system": {
+    "description": {
+      "value": "<p>Tombak is an alloy of copper and zinc used to imitate gold in cheap jewelry and for gilding. It is a cheap malleable alloy mainly used for medals, ornament, decoration and other ornamental uses. Yet the most nefarious of folk tend to purchase it in bulk to sell it at a premium as gold.</p>",
+      "chat": ""
+    },
+    "source": {},
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "rknvmXL7rtQgObfA",
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "TXFRGMdlHKaHi300",
+  "sort": 1600000,
+  "_originalKey": "!items!TXFRGMdlHKaHi300"
+}

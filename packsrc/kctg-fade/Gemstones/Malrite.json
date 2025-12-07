@@ -1,0 +1,52 @@
+{
+  "name": "Malrite",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Malrite.webp",
+  "effects": [],
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "sort": 5700000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "cRvmFqKH7IkVJrKt",
+  "system": {
+    "description": {
+      "value": "<p>A black gemstone, no one knows where it is mined or how it is located, as it simply appears at market stalls or jeweler stores. When the owner of the stall or store is inquired about it, they have no clue how it ended up in their inventory.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 35,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "FvHmsAdVJKNAy9eZ": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "auVc65DdvimseblT": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!cRvmFqKH7IkVJrKt"
+}

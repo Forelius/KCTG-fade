@@ -1,0 +1,40 @@
+{
+  "name": "Cedar Plank",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<p>Because cedar wood is strong and durable, it is an ideal material for creating frames and other structural components of a building. Cedar planks are often used for flooring, siding, roofing, and other applications where strength and stability are important.</p><p></p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 14,
+    "price": {
+      "value": 2,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "img": "modules/kctg-5e/images/Cedar%20Plank.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "LLvC7EvZacBUO0n8",
+  "sort": 2900000,
+  "_id": "b2XRbYlX7nCs0phU",
+  "_originalKey": "!items!b2XRbYlX7nCs0phU"
+}

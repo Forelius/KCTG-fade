@@ -1,0 +1,54 @@
+{
+  "name": "Retama",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Retama.webp",
+  "system": {
+    "description": {
+      "value": "<p>Retama is usually a tree that is not harvested for its wood, however, the leaves and the seed pods make excellent food for most grazing animals. Herbalists make from the leaves and young branches of the Retama tree teas to treat pain, fevers, or infections. </p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0
+    },
+    "price": {
+      "value": 25,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "LLvC7EvZacBUO0n8",
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "b5vWNzNkwHgWUYbh",
+  "sort": 1200000,
+  "_originalKey": "!items!b5vWNzNkwHgWUYbh"
+}

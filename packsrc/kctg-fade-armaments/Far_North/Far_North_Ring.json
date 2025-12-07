@@ -1,0 +1,53 @@
+{
+  "name": "Far North Ring",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Far%20North/Far%20North%20Ring.webp",
+  "effects": [],
+  "folder": "QZPnXbHpm2yPfeUn",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Primarily made out of stone and marked with the symbols of a specific tribe or village, this item is more of a memento of home. It holds no monetary value, however, some collectors are interesting in them as all of them are unique, as they are not made by experienced jewelers, but by masons. </p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 5,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "ownership": {
+    "default": 0,
+    "HSSviIXZSSQdGVd0": 3
+  },
+  "sort": 100098,
+  "_id": "XT6Rd6DbZXWQ4ybi",
+  "_originalKey": "!items!XT6Rd6DbZXWQ4ybi"
+}

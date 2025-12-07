@@ -1,0 +1,59 @@
+{
+  "folder": "u1YauWP6weWgnFOR",
+  "name": "Dobsonfly",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Dobsonfly.webp",
+  "system": {
+    "description": {
+      "value": "<p>Dobsonfly is a very large insect, insect that is born from a larva known as the hellgrammite. It feeds on aquatic insects, nectar, sugar water, worms, and even small fish. While the huge size of it, can be intimidating. Dobsonfly’s brief lifespan of about a week and its nocturnal habits mean that many commoners may go their whole lives without encountering one.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "chick",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "rUxMRo2JTPeBgf4P",
+  "_originalKey": "!items!rUxMRo2JTPeBgf4P"
+}

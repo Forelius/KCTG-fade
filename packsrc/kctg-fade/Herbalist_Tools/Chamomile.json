@@ -1,0 +1,40 @@
+{
+  "name": "Chamomile",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Chamomile.webp",
+  "system": {
+    "description": {
+      "value": "<p>Most common folk, when out and about, tend to keep an eye out for Chamomiles, as it grows in the wild. Its use is mainly as a sedative for patients when made into medicinal tea. </p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 4,
+      "denomination": "cp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "3fjwTQThfGz3b3g3": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "nneAAqmcEwOL9zrI",
+  "sort": 5600000,
+  "_id": "BD4FE2rzRvtC5vN6",
+  "_originalKey": "!items!BD4FE2rzRvtC5vN6"
+}

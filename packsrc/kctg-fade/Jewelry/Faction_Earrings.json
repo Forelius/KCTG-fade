@@ -1,0 +1,53 @@
+{
+  "name": "Faction Earrings",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Faction%20earrings.webp",
+  "effects": [],
+  "folder": "cIJKJ2rN2ZLnb881",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>As a symbolic gesture, when joining very specific and well-renowned factions, a ring or a pair of earrings is provided as a welcome gift, along with other paraphernalia such as pens or notebooks bearing the same symbol. This helps quickly identify members and also gives the initial illusion of belonging.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 15,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "sort": 100391,
+  "_id": "OSDmPHcmp79IpltU",
+  "_originalKey": "!items!OSDmPHcmp79IpltU"
+}

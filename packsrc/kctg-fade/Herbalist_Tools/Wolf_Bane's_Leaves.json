@@ -1,0 +1,40 @@
+{
+  "name": "Wolf Bane's Leaves",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Wolf%20Bane's%20Leafs.webp",
+  "system": {
+    "description": {
+      "value": "<p>Referred to as Belladonna, it is usually believed to be of aid when communing with deities, as it is known that it can bring forth a strong connection to any plane. <br />Alchemists usually harvest it with utmost caution as it is used in the creation of one of the deadliest plant-derived poisons on the market. Herbalists use it as a cure for early forms of Lycanthropy and as a treatment to manage and delay the more advanced stages of the disease. </p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 250,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "3fjwTQThfGz3b3g3": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "nneAAqmcEwOL9zrI",
+  "sort": 3200000,
+  "_id": "G20yDn9IcS8L1CsM",
+  "_originalKey": "!items!G20yDn9IcS8L1CsM"
+}

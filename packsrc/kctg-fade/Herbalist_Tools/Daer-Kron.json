@@ -1,0 +1,58 @@
+{
+  "folder": "nneAAqmcEwOL9zrI",
+  "name": "Daer-Kron",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Daer-Kron.webp",
+  "system": {
+    "description": {
+      "value": "<p>To plant the Dark-Kron seed, a miner picks a small round hole, places the seed inside, and uses either ground bones mixed with wax as a nutrient source, or a combination of wood, charcoal, and glue to plug the hole. After three days, a soft light begins to emanate from the wall where the Daer-Kron seed was planted. Slowly, a mushroom unfurls, casting an eerie but comforting glow throughout the chamber, called Neon-Ront. For those navigating the underground depths, these fungi are not just lights but beacons, guiding them safely through dark tunnels.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "material",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "antlers",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e2"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "tFolBFzmykCvOSnw",
+  "sort": 2500000,
+  "_originalKey": "!items!tFolBFzmykCvOSnw"
+}

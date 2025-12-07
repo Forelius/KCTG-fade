@@ -1,0 +1,40 @@
+{
+  "name": "Spring Water",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Sprint%20Water.webp",
+  "system": {
+    "description": {
+      "value": "<p>Spring water is collected from underground springs and is mainly used by alchemists. It is highly sought after, and with the help of magical casters, the water is purified even further as it is generally used to create potions. Magical water streams are rare yet when found it is speculated that the potion created using this specific type of water highly increases its potency.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "3fjwTQThfGz3b3g3": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "nneAAqmcEwOL9zrI",
+  "sort": 4600000,
+  "_id": "uic42QtAp94MnsvQ",
+  "_originalKey": "!items!uic42QtAp94MnsvQ"
+}

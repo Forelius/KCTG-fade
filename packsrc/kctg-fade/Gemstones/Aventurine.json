@@ -1,0 +1,52 @@
+{
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "name": "Aventurine",
+  "type": "loot",
+  "_id": "vlpHqJYBnNt9QGGH",
+  "img": "modules/kctg-5e/images/Aventurine.webp",
+  "system": {
+    "description": {
+      "value": "<p>While green is the most common color of aventurine, it can also appear in shades of orange, brown, yellow, blue, or grey. Aventurine finds use in diverse applications such as landscape and building stones, aquarium decorations, monuments, and jewelry.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 800000,
+  "ownership": {
+    "default": 0,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!vlpHqJYBnNt9QGGH"
+}

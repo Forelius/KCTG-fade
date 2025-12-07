@@ -1,0 +1,52 @@
+{
+  "name": "Freshwater Pearl",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Freshwater%20Pearl.webp",
+  "effects": [],
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "sort": 1700000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "JA34T1wP1lgw64U6",
+  "system": {
+    "description": {
+      "value": "<p>Freshwater mussels, located in most bodies of water from lakes and ponds to rivers, can produce Pearls. Highly sought after as they can be used for both jewelry and adorning clothing. In some regions, the Pearls are considered sacred, and any caster that uses spells that consume them will quickly meet his demise if found out.</p>\n<p> </p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "FvHmsAdVJKNAy9eZ": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "auVc65DdvimseblT": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!JA34T1wP1lgw64U6"
+}

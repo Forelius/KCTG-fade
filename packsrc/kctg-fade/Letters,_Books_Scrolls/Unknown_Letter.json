@@ -1,0 +1,65 @@
+{
+  "name": "Unknown Letter",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Unknown%20Letter.webp",
+  "system": {
+    "description": {
+      "value": "<div style=\"background-image:url('modules/kctg-5e/images/Menu%20Assets/background.webp');background-size:cover;background-repeat:no-repeat;background-position:center;padding:1rem;border:1px solid #eed292;border-radius:25px;color:white\"><img src=\"modules/kctg-5e/images/Image%20Assets/Complaint%20about%20bad%20lumber%20copy.webp\" style=\"border:none\" /></div>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "treasure",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "TFPwDODIpyRO0E0Q",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "qDWzRGBFhE6ESG19",
+  "sort": 160911,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!qDWzRGBFhE6ESG19"
+}

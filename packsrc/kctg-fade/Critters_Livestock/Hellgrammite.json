@@ -1,0 +1,59 @@
+{
+  "folder": "u1YauWP6weWgnFOR",
+  "name": "Hellgrammite",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Hellgrammite.webp",
+  "system": {
+    "description": {
+      "value": "<p>Hellgrammites are the perfect fishing bait across the realms, known to attract a wide range of fish including panfish, perch, pickerel, channel catfish, and especially bass. When fishing in deeper water or near heavy structures like submerged logs, tree roots, large rocks, or boat docks, they are thought to be particularly successful at drawing in the big catches, however, quite intimidating to look at.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "chick",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "wGNrFqF5HruLKWYA",
+  "_originalKey": "!items!wGNrFqF5HruLKWYA"
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Vegetable Box",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Vegable%20Box.webp",
+  "system": {
+    "description": {
+      "value": "<p>The box is designed for storing and transporting vegetables and fruits. Its stackable design makes it quite convenient for easy transport.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "bxQZu0dOpDO6ztac",
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "dtleio7o0klgeRlP",
+  "sort": 2600000,
+  "_originalKey": "!items!dtleio7o0klgeRlP"
+}

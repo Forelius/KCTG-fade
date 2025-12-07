@@ -1,0 +1,64 @@
+{
+  "name": "Iron Ingot",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Iron%20Ingot.webp",
+  "system": {
+    "description": {
+      "value": "<p>Iron ingots can be used by skilled blacksmiths to craft nails, corner wedges, locks, flint, iron swords, manacles, shovels, pickaxes, and axes. They also produce iron beams, brackets, and supports to reinforce buildings and bridges, ensuring their longevity. Craftsmen use iron in furniture manufacturing, and on some rare occassion it is incorporated in jewlery.</p><p></p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "rknvmXL7rtQgObfA",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "FeTESECgWTW01u54",
+  "sort": 1250000,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!FeTESECgWTW01u54"
+}

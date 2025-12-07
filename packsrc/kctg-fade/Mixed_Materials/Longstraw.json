@@ -1,0 +1,43 @@
+{
+  "name": "Longstraw",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<p>Longstraw is referred to the straw specifically grown for roof thatching. Longstraw is made from either water reed thatch or combed wheat, both of which are commonly used in roof thatching. They are preferred for roofing due to its extended life compared to traditional wood-based roofing materials.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 5,
+      "denomination": "cp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "material"
+    }
+  },
+  "img": "modules/kctg-5e/images/Longstraw.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "ioDwaLKA1DUtYokk",
+  "sort": 2000000,
+  "_id": "7ib4auZFBnxuoTRL",
+  "_originalKey": "!items!7ib4auZFBnxuoTRL"
+}

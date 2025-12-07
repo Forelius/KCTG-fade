@@ -1,0 +1,52 @@
+{
+  "name": "Moonstone",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Moonstone.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>\"There's a legend that lycanthropes, just at the mere sight of this stone, are forced to shape-shift. Quite fascinating, indeed.\"</em></p><p> </p><p>It is one of the most affordable gemstones in circulation and in some societies it is sewn into garments as a charm.</p><p> </p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.05,
+      "units": "lb"
+    },
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "sort": 6600000,
+  "_id": "TvuqhzdwaEVrnji0",
+  "_originalKey": "!items!TvuqhzdwaEVrnji0"
+}

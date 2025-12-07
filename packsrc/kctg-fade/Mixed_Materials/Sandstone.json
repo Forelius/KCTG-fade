@@ -1,0 +1,43 @@
+{
+  "name": "Sandstone",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<p>Being a commonly used type of brick for roads and buildings, sandstone blocks are often sourced from quartz quarries. They can also be located rarely in copper mines. Stone masons favor sandstone due to its ease of cutting and durability against elements. For wall fortification, hollowed-out sandstone bricks are filled with dirt that are used as cushions against heavy fire from trebuchets or catapults. It is also cut in huge slabs, to be used as a pavement in more densely populated areas.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 8,
+      "denomination": "cp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "material"
+    }
+  },
+  "img": "modules/kctg-5e/images/Sandstone.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "ioDwaLKA1DUtYokk",
+  "sort": 100000,
+  "_id": "EPaD6SKxsEFRFNjv",
+  "_originalKey": "!items!EPaD6SKxsEFRFNjv"
+}

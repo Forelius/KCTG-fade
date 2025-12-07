@@ -1,0 +1,66 @@
+{
+  "name": "Far North Helm",
+  "type": "equipment",
+  "_id": "o2x6KAJv3w8f3Wm6",
+  "img": "modules/kctg-5e/images/Far%20North/Far%20North%20Helm.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>Made primarily of hardened pelt and fox fur, with two narwhal tusks protruding from each side, it is built to last and remain sturdy in harsh northern climates. Due to its padded nature, it is also quite well equiped to handle a devastating blow.</p><section class=\"secret\" id=\"secret-d8BX81XJeoNWk34w\"><p><strong>Note for DMs</strong></p><p>This item possesses no fixed stats, this is by design. The GM/DM is advised to modify the stats to best fit their world, setting and story. Due to those factors, all stats can vary wildly.</p></section>",
+      "chat": ""
+    },
+    "identifier": "new-item",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "crewed": false,
+    "armor": {
+      "value": null,
+      "dex": null
+    },
+    "proficient": null,
+    "properties": [],
+    "strength": null,
+    "type": {
+      "value": "medium",
+      "baseItem": "hide"
+    }
+  },
+  "effects": [],
+  "folder": "QZPnXbHpm2yPfeUn",
+  "sort": 100391,
+  "ownership": {
+    "default": 0,
+    "HSSviIXZSSQdGVd0": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!o2x6KAJv3w8f3Wm6"
+}

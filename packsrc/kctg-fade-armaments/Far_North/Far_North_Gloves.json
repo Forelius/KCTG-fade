@@ -1,0 +1,70 @@
+{
+  "name": "Far North Gloves",
+  "type": "equipment",
+  "img": "modules/kctg-5e/images/Far%20North/Far%20North%20Gloves.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>Made from three specific layers, one on top of the other to provide protection in cold environments. The inside layer features soft fox fur for warmth, the middle layer consists of felted wool for further insulation, and the outside layer is made from heavy hide to be water resistant.</p><p></p><section class=\"secret\" id=\"secret-yBMWs7msC6rQmCxG\"><p><strong>Note for DMs</strong></p><p>This item possesses no fixed stats, this is by design. The GM/DM is advised to modify the stats to best fit their world, setting and story. Due to those factors, all stats can vary wildly.</p></section>",
+      "chat": ""
+    },
+    "identifier": "kctg",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "crewed": false,
+    "armor": {
+      "value": null,
+      "dex": null
+    },
+    "proficient": 0,
+    "properties": [],
+    "strength": null,
+    "type": {
+      "value": "clothing",
+      "baseItem": "hide"
+    }
+  },
+  "effects": [],
+  "folder": "QZPnXbHpm2yPfeUn",
+  "sort": 103125,
+  "ownership": {
+    "default": 0,
+    "HSSviIXZSSQdGVd0": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "BiLlNPERjio25krD",
+  "_originalKey": "!items!BiLlNPERjio25krD"
+}

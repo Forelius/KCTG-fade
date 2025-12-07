@@ -1,0 +1,40 @@
+{
+  "_id": "hThZP6OZmqhurZQi",
+  "name": "Lead",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Lead.webp",
+  "effects": [],
+  "folder": "rknvmXL7rtQgObfA",
+  "sort": 3500000,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p><em>\"The weirdest stuff I’ve heard of it being used for is, funny enough, make-up, but I feel it can have better usage. Most cities that have any plumbing have it thanks to lead.\"</em></p>\n<p> </p>\n<p>This specific metal is quite heavy and has a silvery appearance with a hint of blue. It's mainly used in ammunition due to it being heavy and resistant, plumbing and pipelines, as well as in fishing.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 3,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "ownership": {
+    "default": 0,
+    "3fjwTQThfGz3b3g3": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!hThZP6OZmqhurZQi"
+}

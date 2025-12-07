@@ -1,0 +1,53 @@
+{
+  "name": "Moldavite Ring",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Moldavite%20Ring.webp",
+  "effects": [],
+  "folder": "cIJKJ2rN2ZLnb881",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Moldavite, a stone believed to have originated from celestial impacts, possesses a naturally glassy structure that allows it to be easily shaped into various implements such as rings or pendants. Some superstitious commoners claim that wearing moldavite jewelry significantly aids in healing otherwise incurable diseases, though these assertions remain unsupported by herbalists or alchemists.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 25,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "sort": 100391,
+  "_id": "jU8q6ba0LXtQXeNv",
+  "_originalKey": "!items!jU8q6ba0LXtQXeNv"
+}

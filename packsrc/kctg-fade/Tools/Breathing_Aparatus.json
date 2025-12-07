@@ -1,0 +1,54 @@
+{
+  "folder": "9z8F4GiWlXBk1DYI",
+  "name": "Breathing Aparatus",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Breathing%20Aparatus.webp",
+  "system": {
+    "description": {
+      "value": "<p>This mechanized device created for the sole purpose of assisting with relaxing hobbies, such as diving, but also useful in the deepest mines where breathing is a luxury. Primarily made out of copper to avoid rust, the device is quite heavy due to its material, and only trained professionals are advised to use it.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 7,
+      "units": "lb"
+    },
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "hand-axe",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "ownership": {
+    "default": 0,
+    "233gPIEGs3GHtRh3": 3
+  },
+  "_id": "OxUh7A7P85Gxzyjy",
+  "sort": 150000,
+  "_originalKey": "!items!OxUh7A7P85Gxzyjy"
+}

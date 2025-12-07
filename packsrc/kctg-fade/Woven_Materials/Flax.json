@@ -1,0 +1,40 @@
+{
+  "name": "Flax",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Flax.webp",
+  "system": {
+    "description": {
+      "value": "<p>It is sometimes referred to as linseed. The flax mainly has two specific uses, to create vegetable oil from the flax seed, or to create textile material from the harvesting of the stem. </p><p></p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "LAyIc8TxL1JT6Oit",
+  "sort": 125000,
+  "_id": "hdC7Dt3Id52Af9kG",
+  "_originalKey": "!items!hdC7Dt3Id52Af9kG"
+}

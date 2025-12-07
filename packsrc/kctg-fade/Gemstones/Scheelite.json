@@ -1,0 +1,48 @@
+{
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "name": "Scheelite",
+  "type": "loot",
+  "_id": "XbmfU5CmiU5oBuwg",
+  "img": "modules/kctg-5e/images/Scheelite.webp",
+  "system": {
+    "description": {
+      "value": "<p>Scheelite gemstones are found in shades ranging from pale yellow to orange and are suitable for faceting, slicing, and polishing, making them ideal for inlay work. Larger, irregular specimens are commonly mounted in silver as pendants or used for furniture ornamentation.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!XbmfU5CmiU5oBuwg"
+}

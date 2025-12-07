@@ -1,0 +1,55 @@
+{
+  "name": "Rutile Powder",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Rutile%20Powder.webp",
+  "system": {
+    "description": {
+      "value": "<p>Rutile when ground into a fine powder, it turns into a beautiful pigment, bringing color to canvases and ceramics alike. In the world of medicine, its strength and resistance to corrosion make it a primary material, protecting implants and ensuring their longevity. </p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 3,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "rock-salt",
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "C3FNsGlq2Lf7wevT": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "ioDwaLKA1DUtYokk",
+  "_id": "bpctQqXQSVUkUnPE",
+  "sort": 0,
+  "_originalKey": "!items!bpctQqXQSVUkUnPE"
+}

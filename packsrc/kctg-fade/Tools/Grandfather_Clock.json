@@ -1,0 +1,54 @@
+{
+  "folder": "9z8F4GiWlXBk1DYI",
+  "name": "Grandfather Clock",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Grandfather%20Clock.webp",
+  "system": {
+    "description": {
+      "value": "<p>Grandfather clock, also known as a longcase clock, tall-case clock, hall clock, or floor clock, is a tall, freestanding, weight-driven pendulum clock with the pendulum held inside the tower or waist of the case. These are created by the most experienced woodworkers, with help from specialized engineers.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 15,
+      "units": "lb"
+    },
+    "price": {
+      "value": 12,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "hand-axe",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "ownership": {
+    "default": 0,
+    "233gPIEGs3GHtRh3": 3
+  },
+  "_id": "yxCjHddLS25dg5ms",
+  "sort": 100782,
+  "_originalKey": "!items!yxCjHddLS25dg5ms"
+}

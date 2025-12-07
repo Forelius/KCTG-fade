@@ -1,0 +1,55 @@
+{
+  "name": "Bamboula",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Bamboula.webp",
+  "system": {
+    "description": {
+      "value": "<p>The bamboula, a drum made from a rum barrel covered with skin on one end, is also associated with a traditional dance that shares its name. In communities that embrace the bamboula, its music and dance foster an exceptionally close-knit spirit. While the instrument is common in island nations, it's not unusual for traveling bards or historians to encounter it outside those regions.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2014"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 10,
+      "units": "lb"
+    },
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "identifier": "chair"
+  },
+  "effects": [],
+  "folder": "IwFJtR8yJkW4FYub",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e2"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "N5YUBCQjKT5KTPrv",
+  "_originalKey": "!items!N5YUBCQjKT5KTPrv"
+}

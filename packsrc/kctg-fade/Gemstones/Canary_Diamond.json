@@ -1,0 +1,52 @@
+{
+  "name": "Canary Diamond",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Canary%20Diamond.webp",
+  "effects": [],
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "sort": 3000000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "KmgSDtqjVc4beLlX",
+  "system": {
+    "description": {
+      "value": "<p><em>\"In the past, diamonds were used for a form of magic called gemstone magic, the casters would call upon the spell into the diamond to be used at a later time. This has been replaced with magical scrolls nowadays as it is more cost-effective. Depending on the spell you implement certain triggers, and create some very specific and intricate traps, which is not achievable with regular spell scrolls. That knowledge as interesting as it was, is lost to time.\" </em></p>\n<p> </p>\n<p>A deep yellow diamond, one of the most expensive variants, is usually close to double in price of its regular non-colored counterpart. </p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 8000,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "FvHmsAdVJKNAy9eZ": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "auVc65DdvimseblT": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!KmgSDtqjVc4beLlX"
+}

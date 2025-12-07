@@ -1,0 +1,53 @@
+{
+  "name": "Copper Band",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Copper%20Band.webp",
+  "effects": [],
+  "folder": "cIJKJ2rN2ZLnb881",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>This simple metal ring is made out of copper. It's a great metal for making jewelry due to its ease of molding, durability, and unique reddish-brown color. Commoners attuned to spiritual practices often wear it with a strong belief, feeling it actively channels positive energy and attracts good fortune into their lives.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 25,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "sort": 125000,
+  "_id": "YudmyzoFkAb5eSJX",
+  "_originalKey": "!items!YudmyzoFkAb5eSJX"
+}

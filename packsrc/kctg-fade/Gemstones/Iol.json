@@ -1,0 +1,52 @@
+{
+  "name": "Iol",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Iol.webp",
+  "system": {
+    "description": {
+      "value": "<p>A violet color stone is sometimes referred to as Iolite. Is usually cut into gemstone facets and is used in all types of jewelry, especially rings.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 70,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "sort": 4200000,
+  "_id": "QZm9nCIHeR3Xs20g",
+  "_originalKey": "!items!QZm9nCIHeR3Xs20g"
+}

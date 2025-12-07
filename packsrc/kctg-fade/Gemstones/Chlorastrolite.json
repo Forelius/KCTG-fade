@@ -1,0 +1,52 @@
+{
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "name": "Chlorastrolite",
+  "type": "loot",
+  "_id": "8uO1dksZamhnbgyI",
+  "img": "modules/kctg-5e/images/Chlorastrolite.webp",
+  "system": {
+    "description": {
+      "value": "<p>Chlorastrolite is an ornamental gemstone often polished into an oval shape and commonly used in amulets. When in contact with metal, it has the unique ability to turn the metal pale green over extended periods of time. This property has led to the gemstone being referred to as 'Green stone' in some regions.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 1500000,
+  "ownership": {
+    "default": 0,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!8uO1dksZamhnbgyI"
+}

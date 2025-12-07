@@ -1,0 +1,52 @@
+{
+  "name": "Malachite",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Malachite.webp",
+  "effects": [],
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "sort": 2400000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "AS7qMvpgKkV2SFao",
+  "system": {
+    "description": {
+      "value": "<p>A popular mineral, mainly used for pigments, or to dye metals in a green tint while creating iron bars. Whitesmiths and Jewelers usually request high amounts of Malachite for their trade. It is rumored that Malachite in the ages past was used to prevent users from falling, however, the magical skill needed for the spell has been lost to time.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "FvHmsAdVJKNAy9eZ": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "auVc65DdvimseblT": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!AS7qMvpgKkV2SFao"
+}

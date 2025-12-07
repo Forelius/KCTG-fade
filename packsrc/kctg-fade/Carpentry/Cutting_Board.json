@@ -1,0 +1,58 @@
+{
+  "name": "Cutting Board",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Cutting%20Board.webp",
+  "system": {
+    "description": {
+      "value": "<p>Cutting boards are made from leftover lumber, which is glued and shaped into practical kitchen tools. As customers quite rarely purchase new boards, carpenters add a personal touch by offering custom logos or names burned into the surface, making each piece unique.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": null,
+      "rules": "2024",
+      "book": "",
+      "page": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "identifier": "barrel-copy"
+  },
+  "effects": [],
+  "folder": "bxQZu0dOpDO6ztac",
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e2"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "86h4Js5CcKw8vHku",
+  "sort": 1900000,
+  "_originalKey": "!items!86h4Js5CcKw8vHku"
+}

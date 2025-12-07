@@ -1,0 +1,52 @@
+{
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "name": "Tanzanite",
+  "type": "loot",
+  "_id": "dM1wpzRvEjbV2MOl",
+  "img": "modules/kctg-5e/images/Tanzanite.webp",
+  "system": {
+    "description": {
+      "value": "<p>The Tanzanite gemstone, a type of zoisite, is known for its deep blue color and unique optical properties. It is one of the few gemstones that can display three different colors depending on the viewing angle. Tanzanite appears as a distinct blue when viewed from one direction and shifts to hues ranging from violet to red when viewed from other angles.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 175,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!dM1wpzRvEjbV2MOl"
+}

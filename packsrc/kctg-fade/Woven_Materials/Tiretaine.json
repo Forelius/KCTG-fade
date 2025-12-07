@@ -1,0 +1,40 @@
+{
+  "name": "Tiretaine",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Tiretaine.webp",
+  "system": {
+    "description": {
+      "value": "<p>The Tiretaine cloth is made with a mix of wool and other fabrics, mainly used to create towels, rags, and commoner dresses, as it is cheap to manufacture and easy to mass produce.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "LAyIc8TxL1JT6Oit",
+  "sort": -25000,
+  "_id": "3mNxXkqLPC9lGdlO",
+  "_originalKey": "!items!3mNxXkqLPC9lGdlO"
+}

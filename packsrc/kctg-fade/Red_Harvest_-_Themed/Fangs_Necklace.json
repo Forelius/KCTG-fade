@@ -1,0 +1,58 @@
+{
+  "folder": "ODTmZCF7DbiMcwhX",
+  "name": "Fangs Necklace",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Fangs%20Necklace.webp",
+  "system": {
+    "description": {
+      "value": "<p>Ah, the Fangs Necklace. Every year, just before the Red Harvest fires are lit, jewelers from Dockhaven to the hill markets of Bristlethorn start cutting these out by the dozen. It’s a mostly dramatic piece, for decoration. Quite sharp, toothlike pendants dangling from a wire or chain, usually fashioned from red glass or smoky quartz. Some gemmasters will cut actual garnets into points, but most of what you’ll see glittering in the market stalls is mostly clever work with colored glass. When worn in torchlight, the pieces catch a red glimmer that looks unsettlingly like fresh blood, aimed to resemble the night fangs.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "chick",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "ownership": {
+    "default": 0,
+    "233gPIEGs3GHtRh3": 3
+  },
+  "sort": 150000,
+  "_id": "O3mRngxmtIdbDCZN",
+  "_originalKey": "!items!O3mRngxmtIdbDCZN"
+}

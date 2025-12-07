@@ -1,0 +1,54 @@
+{
+  "name": "Pouch",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Cloth%20Pouch.webp",
+  "effects": [],
+  "folder": "LAyIc8TxL1JT6Oit",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>The simple is mainly made from simple cloth, sturdy leather, or fine silk and features a drawstring that threads through reinforced holes in a looping pattern. It is mainly intended to carry coins, though it can also hold materials or small objects depending on the need.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gear",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "kATXpZMPaEkwwN2N",
+  "sort": 156250,
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_originalKey": "!items!kATXpZMPaEkwwN2N"
+}

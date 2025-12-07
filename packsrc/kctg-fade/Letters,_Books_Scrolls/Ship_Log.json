@@ -1,0 +1,65 @@
+{
+  "name": "Ship Log",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Ship%20Log.webp",
+  "system": {
+    "description": {
+      "value": "<p>A detailed log written by the captain of a vessel that contains information categorized by date. It includes the captain's thoughts at the time, as well as the locations traveled, ship status and repairs, star charts, onboard incidents, rations remaining, direction headed, and cargo. Most captains primarily use it as a journal for their current voyage.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "treasure",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "TFPwDODIpyRO0E0Q",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "pTZ2FsgKx8e2hGXH",
+  "sort": 160896,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!pTZ2FsgKx8e2hGXH"
+}

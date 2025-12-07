@@ -1,0 +1,40 @@
+{
+  "name": "Blackberry",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Blackberries.webp",
+  "system": {
+    "description": {
+      "value": "<p>It is usually a favorite fruit for making desserts, wines, and even liqueurs. Medicinally it is often used by herbalists to reduce bleeding, or as a cosmetic to make the skin less oily. </p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 2,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "3fjwTQThfGz3b3g3": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "nneAAqmcEwOL9zrI",
+  "sort": 4900000,
+  "_id": "KtYYMLtdfMdYEhWJ",
+  "_originalKey": "!items!KtYYMLtdfMdYEhWJ"
+}

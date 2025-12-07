@@ -1,0 +1,59 @@
+{
+  "folder": "u1YauWP6weWgnFOR",
+  "name": "Scorpion",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Scorpion.webp",
+  "system": {
+    "description": {
+      "value": "<p>Scorpions are nocturnal hunters that can be found mainly in dry regions, hiding under rocks and within burrows during the day. Their iconic tail carries a venomous stinger used to subdue prey and defend against threats. While their sting is painful to common folk, it is rarely fatal, and alchemists seek their venom for use in various potent medicine concoctions.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "chick",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "jamAnWORCApEG01P",
+  "_originalKey": "!items!jamAnWORCApEG01P"
+}

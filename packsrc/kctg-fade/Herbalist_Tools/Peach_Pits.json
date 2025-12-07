@@ -1,0 +1,58 @@
+{
+  "folder": "nneAAqmcEwOL9zrI",
+  "name": "Peach Pits",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Peach%20Seeds.webp",
+  "system": {
+    "description": {
+      "value": "<p>Peach trees are notoriously finicky when it comes to planting, demanding patience and knowledge. Their seeds need to be kept in cold storage for an extended period before they’re ready for planting. This period of dormancy ensures that when the time comes to plant, the seed will sprout and grow into a healthy tree. Even a small mistake in timing or storage can result in failure, which is why only the most experienced farmhands and herbalists take on the responsibility of planting the pits.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "material",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "antlers",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "2u7dgqohFGDXuQ8c",
+  "sort": 100000,
+  "_originalKey": "!items!2u7dgqohFGDXuQ8c"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Blacksmith's Ring",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Blacksmith%20Iron%20Ring.webp",
+  "effects": [],
+  "folder": "cIJKJ2rN2ZLnb881",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>After finalizing their training, newly appointed blacksmiths face one final challenge, the creation of the Blacksmith’s Ring. This task is more than ceremonial, as it marks the transition from a new apprentice to a skilled artisan. The ring itself is a solid iron band, engraved with the blacksmith’s family seal. The material, iron, chosen deliberately for its difficulty in delicate shaping and detailed engraving. It serves as one final lesson, as even the most unyielding material can be shaped into something precise, personal, and enduring.n the day.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "sort": 200000,
+  "_id": "9MDTXBoN5TdgFEy1",
+  "_originalKey": "!items!9MDTXBoN5TdgFEy1"
+}

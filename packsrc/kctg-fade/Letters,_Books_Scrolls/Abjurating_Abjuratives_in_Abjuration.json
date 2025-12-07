@@ -1,0 +1,65 @@
+{
+  "name": "Abjurating Abjuratives in Abjuration",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Abjurating%20Abjuratives%20in%20Abjuration.webp",
+  "system": {
+    "description": {
+      "value": "<p>\"Abjuration is the solemn repudiation, abandonment, or renunciation by or upon oath, often the renunciation of citizenship or some other right or privilege,\" appears to be written in bold letters on the first page. The following pages contain examples of materials used and the resulting variations of spells. This seems to be a book written by a minstrel, intended to provide a deeper understanding of abjuration and its specific applications in arcane knowledge.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "treasure",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "TFPwDODIpyRO0E0Q",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "JvYGBGYIwFRCTDWP",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!JvYGBGYIwFRCTDWP"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Hurdy-Gurdy",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Hurdy%20Gurdy.webp",
+  "system": {
+    "description": {
+      "value": "<p>The hurdy-gurdy is a string instrument that creates sound by using a hand-crank-turned, round rosined wheel that rubs against the strings. Melodies are produced on a keyboard, that presses tangents against one or more strings to alter their pitch. This unique mechanism allows for a continuous melody while notes are played, giving the instrument its characteristic sound.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2014"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "identifier": "chair"
+  },
+  "effects": [],
+  "folder": "IwFJtR8yJkW4FYub",
+  "sort": 2100000,
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "sQFMovCzgeHvqVjI",
+  "_originalKey": "!items!sQFMovCzgeHvqVjI"
+}

@@ -1,75 +1,64 @@
 {
-  "id": "kctg-5e",
-  "title": "Kris's Compendium of Trade Goods - DnD5e edition",
-  "description": "<i>A comprehensive database of trade goods aimed at enhancing worldbuilding efforts by facilitating the distribution of resources and bringing depth to various regions, while also catering to political interests</i><br /><br /> *** Support me on <a href=\"https://patreon.com/KCTG\" title=\"PATREON\">Patreon</a> or join me on <a href=\"https://discord.gg/MYgCWdAc9c\" title=\"Discord\">Discord</a> ***<p></p>",
-  "version": "1.22.0",
-  "compatibility": {
-    "minimum": "12",
-    "verified": "13.351",
-    "maximum": "14"
-  },
-  "esmodules": [
-    "kctg-5e.js"
-  ],
-  "styles": [
-    {
-      "src": "styles/main.css"
-    }
-  ],
-  "authors": [
-    {
-      "name": "kristkos",
-      "discord": "kristkos",
-      "url": "https://patreon.com/KCTG",
-      "flags": {}
-    }
-  ],
-  "media": [
-    {
-      "type": "setup",
-      "caption": "Kris's Compendium of Trade Goods",
-      "thumbnail": "modules/kctg-5e/banner/Thumb.webp",
-      "loop": false,
-      "flags": {}
-    }
-  ],
-  "packs": [
-    {
-      "name": "kctg-dnd5e",
-      "label": "Trade Goods",
-      "path": "packs/kctg-dnd5e",
-      "type": "Item",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "banner": "modules/kctg-5e/banner/banner-tradegoods.webp",
-      "system": "dnd5e",
-      "flags": {}
-    },
-        {
-      "name": "kctg-dnd5e-armaments",
-      "label": "Armaments",
-      "path": "packs/kctg-dnd5e-armaments",
-      "type": "Item",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "banner": "modules/kctg-5e/banner/banner-armaments.webp",
-      "system": "dnd5e",
-      "flags": {}
-    }
-  ],
-  "url": "https://github.com/kristkos/KCTG-5e",
-  "download": "https://github.com/kristkos/KCTG-5e/releases/download/1.22.0/kctg-5e.zip",
-  "manifest": "https://raw.githubusercontent.com/kristkos/KCTG-5e/main/module.json",
-  "flags": {
-    "hotReload": false,
-    "dnd5e": {
-      "sourceBooks": {
-        "Kris's Compendium of Trade Goods": "KCTG"
+   "id": "kctg-fade",
+   "title": "Kris's Compendium of Trade Goods - DnD5e edition",
+   "description": "<i>A comprehensive database of trade goods aimed at enhancing worldbuilding efforts by facilitating the distribution of resources and bringing depth to various regions, while also catering to political interests</i><br /><br /> *** Support me on <a href=\"https://patreon.com/KCTG\" title=\"PATREON\">Patreon</a> or join me on <a href=\"https://discord.gg/MYgCWdAc9c\" title=\"Discord\">Discord</a> ***<p></p>",
+   "version": "1.22.0",
+   "compatibility": {
+      "minimum": "12",
+      "verified": "13.351",
+      "maximum": "14"
+   },
+   "esmodules": [
+      "kctg-fade.js"
+   ],
+   "styles": [
+      {
+         "src": "styles/main.css"
       }
-    }
-  }
+   ],
+   "authors": [
+      {
+         "name": "kristkos",
+         "discord": "kristkos",
+         "url": "https://patreon.com/KCTG",
+         "flags": {}
+      }
+   ],
+   "media": [
+      {
+         "type": "setup",
+         "caption": "Kris's Compendium of Trade Goods",
+         "thumbnail": "modules/kctg-fade/banner/Thumb.webp",
+         "loop": false,
+         "flags": {}
+      }
+   ],
+   "packs": [
+      {
+         "name": "kctg-fade",
+         "label": "Trade Goods",
+         "path": "packs/kctg-fade",
+         "type": "Item",
+         "ownership": {
+            "PLAYER": "OBSERVER",
+            "ASSISTANT": "OWNER"
+         },
+         "banner": "modules/kctg-fade/banner/banner-tradegoods.webp",
+         "system": "fantastic-depths",
+         "flags": {}
+      },
+      {
+         "name": "kctg-fade-armaments",
+         "label": "Armaments",
+         "path": "packs/kctg-fade-armaments",
+         "type": "Item",
+         "ownership": {
+            "PLAYER": "OBSERVER",
+            "ASSISTANT": "OWNER"
+         },
+         "banner": "modules/kctg-fade/banner/banner-armaments.webp",
+         "system": "fantastic-depths",
+         "flags": {}
+      }
+   ]   
 }

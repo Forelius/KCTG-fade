@@ -1,0 +1,40 @@
+{
+  "name": "Dark River Gold",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Dark%20River%20Gold.webp",
+  "system": {
+    "description": {
+      "value": "<p>These coins, of unknown origin, are always discovered by fishermen, but when they appear, they are seen as a bad omen. After they are found in the rivers or seas, trade and communication with nearby cities slows down or stops, and rumors of monster invasions, tsunamis, and fires tend to emerge from the region. The source of these rumors is not yet verified. However, owners of the coins tend to quickly trade them for almost no profit, despite their rarity, possibly due to the perceived negative association.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 0.01,
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "HbFNnaCa2Bu4s3ht",
+  "sort": 137500,
+  "_id": "ZJQBOLyhDa224nYC",
+  "_originalKey": "!items!ZJQBOLyhDa224nYC"
+}

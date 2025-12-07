@@ -1,0 +1,46 @@
+{
+  "folder": "9z8F4GiWlXBk1DYI",
+  "name": "Hand Axe",
+  "type": "loot",
+  "_id": "AMj1NoKcg9K0VsOR",
+  "img": "modules/kctg-5e/images/Hand%20Axe.webp",
+  "system": {
+    "description": {
+      "value": "<p>The go-to axe for various applications, it proves its usefulness as a camping tool for felling small trees, splitting kindling, and preparing firewood. Craftsmen appreciate its finesse in cutting wood to size and creating intricate patterns on furniture.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": ""
+    },
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 600000,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!AMj1NoKcg9K0VsOR"
+}

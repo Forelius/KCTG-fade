@@ -1,0 +1,52 @@
+{
+  "name": "Star Rose Quartz",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Star%20Rose%20quartz%20B.webp",
+  "effects": [],
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "sort": 6400000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "OlOzsghp7myRG2Dm",
+  "system": {
+    "description": {
+      "value": "<p>Or simply known as Rose Quartz, is a pink gemstone mainly used in jewelry. The large slabs can be cut into multiple shapes from hearts, for holidays and anniversaries to huge round shapes, for wizards' crystal balls. It can also be used as a magical material, to deflect spells.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "FvHmsAdVJKNAy9eZ": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "auVc65DdvimseblT": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!OlOzsghp7myRG2Dm"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Purple Berries",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Purple%20Berries.webp",
+  "system": {
+    "description": {
+      "value": "<p>Purple berries are palpably sweet, Gatherers and Herbalists recommend eating them in small quantities, as health complications may occur. Brewmasters use them to give their ales more interesting colors, as well as make their beverages sweeter.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 2,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "3fjwTQThfGz3b3g3": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "nneAAqmcEwOL9zrI",
+  "sort": 4500000,
+  "_id": "qsZGvHPKiZd27Ugj",
+  "_originalKey": "!items!qsZGvHPKiZd27Ugj"
+}

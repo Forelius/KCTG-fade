@@ -1,0 +1,64 @@
+{
+  "name": "Gold Ore",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Gold%20Ore.webp",
+  "system": {
+    "description": {
+      "value": "<p>Gold Ore is usually found by using two distinct methods. Miners gather it through tunneling deep into the earth, using pickaxes, explosives, or many other techniques. Or, in riverbeds. Prospectors pan for gold, sifting through sediment and rocks of the river to uncover precious flakes and nuggets.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 30,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "rknvmXL7rtQgObfA",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "b28vVaj280FuDrwP",
+  "sort": 3450000,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!b28vVaj280FuDrwP"
+}

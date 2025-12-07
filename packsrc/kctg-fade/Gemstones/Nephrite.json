@@ -1,0 +1,48 @@
+{
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "name": "Nephrite",
+  "type": "loot",
+  "_id": "NnfgDlleAMxqlsph",
+  "img": "modules/kctg-5e/images/Nephrite.webp",
+  "system": {
+    "description": {
+      "value": "<p>Nephrite, similar in color, form, and shape to Jadeite, is predominantly utilized for stone carving and occasionally serves as a marble substitute in sculptures. Historically mined for ages, it is now frequently discovered in ancient, abandoned tombs.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 125,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!NnfgDlleAMxqlsph"
+}

@@ -1,0 +1,52 @@
+{
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "name": "Agni Manitite",
+  "type": "loot",
+  "_id": "IEkPmaXiFijH1zmR",
+  "img": "modules/kctg-5e/images/Agni%20Matite.webp",
+  "system": {
+    "description": {
+      "value": "<p>Agni Manitite, also known on the market as Pearl of Fire, is an extremely rare tektite found on select islands. These stones originated from meteorites that collided with large bodies of water, cooling rapidly. This unique formation process makes them exceedingly difficult to recover.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!IEkPmaXiFijH1zmR"
+}

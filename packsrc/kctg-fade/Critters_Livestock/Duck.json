@@ -1,0 +1,59 @@
+{
+  "folder": "u1YauWP6weWgnFOR",
+  "name": "Duck",
+  "type": "loot",
+  "_id": "ZQdLqcd7MK6ZNeuU",
+  "img": "modules/kctg-5e/images/duck.webp",
+  "system": {
+    "description": {
+      "value": "<p>Primarily raised for their meat, ducks also yield eggs of higher value as they are quite nutritious. Commoners often keep them around the house for an extended period compared to regular hens, as ducks don't need elaborate housing, resistant to diseases, and efficiently remove small pests like snails or slugs.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 8,
+      "units": "lb"
+    },
+    "price": {
+      "value": 8,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "duck",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "sort": 700000,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!ZQdLqcd7MK6ZNeuU"
+}

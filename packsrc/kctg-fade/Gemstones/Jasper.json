@@ -1,0 +1,52 @@
+{
+  "name": "Jasper",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Jasper.webp",
+  "effects": [],
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "sort": 6700000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "tp66hq73E1yhMS65",
+  "system": {
+    "description": {
+      "value": "<p>Each Jasper gemstone is assumed to be unique, as every gemstone has a singular pattern, ranging from spotted patterns to ringed or stripped. In days past it was regarded as a valuable stone, now is mainly used by alchemists and herbalists to create antidotes and magical poisons, because the stones proprieties assist in neutralizing and protecting from poison.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "FvHmsAdVJKNAy9eZ": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "auVc65DdvimseblT": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!tp66hq73E1yhMS65"
+}

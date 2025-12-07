@@ -1,0 +1,52 @@
+{
+  "name": "Basalt stone",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Basalt.webp",
+  "system": {
+    "description": {
+      "value": "<p>The basalt rock comes mainly in a dark-gray color and is used in construction for building blocks or in the groundwork, or cobblestones and in making statues by famous masons. </p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "ioDwaLKA1DUtYokk",
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "hhIMPrFvJtoEkuEv",
+  "sort": 1100000,
+  "_originalKey": "!items!hhIMPrFvJtoEkuEv"
+}

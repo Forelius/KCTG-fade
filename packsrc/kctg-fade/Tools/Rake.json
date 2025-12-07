@@ -1,0 +1,50 @@
+{
+  "folder": "9z8F4GiWlXBk1DYI",
+  "name": "Rake",
+  "type": "loot",
+  "_id": "DudW9aaNvzIRSUuy",
+  "img": "modules/kctg-5e/images/Rake.webp",
+  "system": {
+    "description": {
+      "value": "<p>Rakes come in various types, but the two most common are garden rakes and soil rakes. Garden rakes are effectively designed to pick up leaves and other garden debris without causing damage to the lawn and the soil beneath. On the other hand, soil rakes are intended for leveling and grading the soil before plants and seeds are planted.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": ""
+    },
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 900000,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!DudW9aaNvzIRSUuy"
+}

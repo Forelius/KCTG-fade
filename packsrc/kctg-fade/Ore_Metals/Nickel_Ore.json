@@ -1,0 +1,40 @@
+{
+  "name": "Nickel Ore",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<p>Nickel ore is a rare and prized mineral that can only be found deep within the earth.  It is said to be incredibly strong and durable, making it highly demanded metal by blacksmiths and craftsmen alike.</p><p></p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "img": "modules/kctg-5e/images/Nickel%20Ore.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "rknvmXL7rtQgObfA",
+  "sort": 3300000,
+  "_id": "ll93HE0rG7mS29Cn",
+  "_originalKey": "!items!ll93HE0rG7mS29Cn"
+}

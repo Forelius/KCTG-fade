@@ -1,0 +1,54 @@
+{
+  "folder": "9z8F4GiWlXBk1DYI",
+  "name": "Pressurized Container",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Pressurized%20Container.webp",
+  "system": {
+    "description": {
+      "value": "<p>Created specifically to contain the most volatile materials and keep them under pressure, such as specific gases, air, breaths of mythical beasts, or arcane compounds. Usually, if one of these fissures occurs, even though made from sturdy materials, disaster strikes.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "hand-axe",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "ownership": {
+    "default": 0,
+    "233gPIEGs3GHtRh3": 3
+  },
+  "_id": "EvUgWXg0h0XWXE75",
+  "sort": 1925000,
+  "_originalKey": "!items!EvUgWXg0h0XWXE75"
+}

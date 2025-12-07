@@ -1,0 +1,40 @@
+{
+  "name": "Smith's Coin",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Smiths%20Coin.webp",
+  "system": {
+    "description": {
+      "value": "<p>When a customer places a custom order or commission at a specialty shop, such as a jewelry store or blacksmith, a coin bearing the shop's symbol is provided. The customer's name is etched on the back of the coin, and they are asked to sign a ledger. Once the item has been crafted or procured, the owner can retrieve it by trading in the coin. The value of the coin is equivalent to the cost of the commissioned item. If the coin is lost or stolen, it becomes worthless, and only the rightful owner can retrieve the item using the original coin.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 0.1,
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "HbFNnaCa2Bu4s3ht",
+  "sort": 162500,
+  "_id": "nlsejCCiCpjpc3R7",
+  "_originalKey": "!items!nlsejCCiCpjpc3R7"
+}

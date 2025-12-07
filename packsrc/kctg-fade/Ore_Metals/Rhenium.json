@@ -1,0 +1,64 @@
+{
+  "name": "Rhenium",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Alchemist%20Metal.webp",
+  "system": {
+    "description": {
+      "value": "<p>Rhenium, sometimes referred to as the \"Alchemist's Metal,\" is primarily used in the making of alloys with tungsten. To experienced alchemists, Rhenium symbolizes the perfection of all matter physical, mental, and spiritual. In many potions, a single drop of liquid Rhenium is added to strengthen their potency.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 3,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "rknvmXL7rtQgObfA",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "luC1pQogGS5AILYL",
+  "sort": 2906250,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!luC1pQogGS5AILYL"
+}

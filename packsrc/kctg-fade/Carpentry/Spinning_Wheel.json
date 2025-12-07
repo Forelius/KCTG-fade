@@ -1,0 +1,58 @@
+{
+  "name": "Spinning Wheel",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Spinning%20Wheel.webp",
+  "system": {
+    "description": {
+      "value": "<p>A spinning wheel, or spindle, is a mechanical device used for spinning thread or yarn from fibers. It converts raw materials such as wool or cotton into usable thread through a process of twisting and winding, which is integral to fabric creation.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": null,
+      "rules": "2024",
+      "book": "",
+      "page": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 20,
+      "units": "lb"
+    },
+    "price": {
+      "value": 125,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "identifier": "barrel-copy"
+  },
+  "effects": [],
+  "folder": "bxQZu0dOpDO6ztac",
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e2"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "t8dZy9XowpRigPvJ",
+  "sort": 1800000,
+  "_originalKey": "!items!t8dZy9XowpRigPvJ"
+}

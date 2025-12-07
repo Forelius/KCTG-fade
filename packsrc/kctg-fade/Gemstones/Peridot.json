@@ -1,0 +1,52 @@
+{
+  "name": "Peridot",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Peridot.webp",
+  "effects": [],
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "sort": 3300000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "K0yzOrF6gdAEZfue",
+  "system": {
+    "description": {
+      "value": "<p>Peridot is a popular and affordable gemstone and is faceted into many cuts, and used in all forms of jewelry, especially rings, earrings, necklaces, and bracelets. Magic can be used to build different structures, however, depending on the size of the building, a vast amount of gemstone might be required.</p>\n<p> </p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 500,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "FvHmsAdVJKNAy9eZ": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "auVc65DdvimseblT": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!K0yzOrF6gdAEZfue"
+}

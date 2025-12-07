@@ -1,0 +1,53 @@
+{
+  "name": "Far North Crown",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Far%20North/Far%20North%20Crown.webp",
+  "effects": [],
+  "folder": "QZPnXbHpm2yPfeUn",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Far North Crown is not a symbol of authority but rather one of dominance over the frozen wasteland. Generally made from iron, and on some occasion even from pelt, the crown does not signify that the wearer rules people, but that they have mastered the land itself.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 200,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "ownership": {
+    "default": 0,
+    "HSSviIXZSSQdGVd0": 3
+  },
+  "_id": "vg6qqnbXIcLLk6fN",
+  "sort": 112500,
+  "_originalKey": "!items!vg6qqnbXIcLLk6fN"
+}

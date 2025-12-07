@@ -1,0 +1,55 @@
+{
+  "name": "Zamac",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Zamac.webp",
+  "system": {
+    "description": {
+      "value": "<p>Zamac is a zinc-based alloy primarily used in jewelry, but it is also utilized for making tools, bolts, and hinges. It is particularly favored in applications where paint is used, as dyes adhere exceptionally well to it.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 3,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "rknvmXL7rtQgObfA",
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "JzADsOrXZYJ5fZL0",
+  "sort": 500000,
+  "_originalKey": "!items!JzADsOrXZYJ5fZL0"
+}

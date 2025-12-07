@@ -1,0 +1,58 @@
+{
+  "folder": "nneAAqmcEwOL9zrI",
+  "name": "Gooseberries",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Gooseberries.webp",
+  "system": {
+    "description": {
+      "value": "<p>The gooseberry plant, while adored by wildlife, plays a critical role as both a food source and a vector for disease. Its berries provide essential nutrients for many animals, including birds and bears, who rely on the fruit for sustenance during the summer months. However, its rapid spread also means that it is often seen as an invasive threat to local flora, particularly coniferous trees like pines, which can suffer long-term damage from the blister rust fungus it harbors.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 3,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "material",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "antlers",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "FmSvpwEK03Gn0Pik",
+  "sort": 2900000,
+  "_originalKey": "!items!FmSvpwEK03Gn0Pik"
+}

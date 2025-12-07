@@ -1,0 +1,50 @@
+{
+  "name": "Chrysoprase",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Chrysoprase.webp",
+  "effects": [],
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Chrysoprase comes in shades ranging from sea glass to deep emerald green, with some specimens showing yellow-green hues like lemon chrysoprase. Often cut in a briolette style, such as, teardrop or oval, it became a popular gemstone for both furniture and jewelry. Additionally, it is used for creating invisible ink when crushed.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "auVc65DdvimseblT": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "tFcD1UsRwtYAqPJ1",
+  "sort": 0,
+  "_originalKey": "!items!tFcD1UsRwtYAqPJ1"
+}

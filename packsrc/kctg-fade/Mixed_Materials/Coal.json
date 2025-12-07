@@ -1,0 +1,43 @@
+{
+  "_id": "lZieNwyR1n7Bpsit",
+  "name": "Coal",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Coal.webp",
+  "effects": [],
+  "folder": "ioDwaLKA1DUtYokk",
+  "sort": 1500000,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p><em>\"It is what I would call the Blacksmith's favorite type of ore. Without good quality coal, they will not be able to do what they do. On a small blacksmithing station you can get away with just some coal and wood, but when it comes to foundries, coal in high quantities is a must.\"</em></p>\n<p> </p>\n<p>The favorite tool of the metalworker, coal can be found mainly underground, making it one of the most common items uncovered  while mining. Coal can be found close to the surface, as well, as underground, making dwarfs one of the most prevalent exporters.  </p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 5,
+      "denomination": "cp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "material"
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "3fjwTQThfGz3b3g3": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!lZieNwyR1n7Bpsit"
+}

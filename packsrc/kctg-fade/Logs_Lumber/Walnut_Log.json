@@ -1,0 +1,54 @@
+{
+  "name": "Walnut Log",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Walnut%20Log.webp",
+  "system": {
+    "description": {
+      "value": "<p>Walnut wood is commonly used for furniture, flooring, cabinetry, and decorative items due to its rich color and workability. The leaves can be used for sunburns, itching as well, and dandruff, when processed by the herbalists in poultrices. </p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0
+    },
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "LLvC7EvZacBUO0n8",
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "To3U7EkK5BSVkjEF",
+  "sort": 0,
+  "_originalKey": "!items!To3U7EkK5BSVkjEF"
+}

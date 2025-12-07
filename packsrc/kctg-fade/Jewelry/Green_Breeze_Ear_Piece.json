@@ -1,0 +1,54 @@
+{
+  "name": "Green Breeze Ear Piece",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Green%20Breeze%20Ear%20Piece.webp",
+  "effects": [],
+  "folder": "cIJKJ2rN2ZLnb881",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>This emerald-gemmed earpiece is designed for those who wish to convey their place among the upper class. It is an exceptionally expensive fashion accessory, though many find it uncomfortable to wear. The piece must be positioned on specific parts of the ear, which can be outright painful for some individuals whose ear shape does not accommodate its specific design fit.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1500,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gear",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "s4K8rQZKUlQDOtPN",
+  "sort": 175000,
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_originalKey": "!items!s4K8rQZKUlQDOtPN"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Chalk",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<p>Chalk is an earthy type of limestone, found mainly in light colors, and is highly sought after, as it can have multiple uses. It is used for writing on slate tables or leaving messages in the wild, to delimit terrain in field sports, in its powder form. It can also be used by tailors and other fabric workers to draw lines and patterns on leather or fabric, to help them cut and sew the material in a precise and accurate way. It is also used in scrying or to create magical symbols and spells on the ground or surfaces, such as walls or doors, to keep out unwanted intruders or to contain a summoned creature.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 2,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "material"
+    }
+  },
+  "img": "modules/kctg-5e/images/Chalk.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "ioDwaLKA1DUtYokk",
+  "sort": 1600000,
+  "_id": "fyFSAdhWlZcg7xc7",
+  "_originalKey": "!items!fyFSAdhWlZcg7xc7"
+}

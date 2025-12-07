@@ -1,0 +1,40 @@
+{
+  "name": "Nerium",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Nerium.webp",
+  "system": {
+    "description": {
+      "value": "<p>Most commonly known as Oleander, it is a small shrub used for gardening ornamentation. When used by highly skilled herbalists, they can make sleeping tinctures and cure some types of skin irritations.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "3fjwTQThfGz3b3g3": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "nneAAqmcEwOL9zrI",
+  "sort": 1700000,
+  "_id": "UYd5dWhCslz48WLa",
+  "_originalKey": "!items!UYd5dWhCslz48WLa"
+}

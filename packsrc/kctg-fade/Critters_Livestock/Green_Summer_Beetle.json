@@ -1,0 +1,59 @@
+{
+  "folder": "u1YauWP6weWgnFOR",
+  "name": "Green Summer Beetle",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Green%20June%20Beetle.webp",
+  "system": {
+    "description": {
+      "value": "<p>Green Summer beetles become a problem during the growing season, harming both gardens and crops. These beetles target ripe or fermenting fruits like figs, grapes, and berries. Every summer, many common folk try to include wormwood in their planting cycle as it mostly behaves as an insect repellent.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "chick",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "LUwHcWpLX382Tpvr",
+  "_originalKey": "!items!LUwHcWpLX382Tpvr"
+}

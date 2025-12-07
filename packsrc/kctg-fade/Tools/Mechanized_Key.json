@@ -1,0 +1,54 @@
+{
+  "folder": "9z8F4GiWlXBk1DYI",
+  "name": "Mechanized Key",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Mechanized%20Door%20Key.webp",
+  "system": {
+    "description": {
+      "value": "<p>These types of keys are more like missing pieces in a complex engineered structure. They are called keys because when they are placed into their designated slots, they activate the mechanism of the structure. These keys are typically used for vaults, and only a  very few are capable of crafting them.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "hand-axe",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "ownership": {
+    "default": 0,
+    "233gPIEGs3GHtRh3": 3
+  },
+  "_id": "19t3CrbzNyVOUELZ",
+  "sort": 100196,
+  "_originalKey": "!items!19t3CrbzNyVOUELZ"
+}

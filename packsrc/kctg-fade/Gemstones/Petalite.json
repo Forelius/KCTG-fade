@@ -1,0 +1,52 @@
+{
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "name": "Petalite",
+  "type": "loot",
+  "_id": "V4qH7g2C5TXvJlqg",
+  "img": "modules/kctg-5e/images/Petalite.webp",
+  "system": {
+    "description": {
+      "value": "<p>hese ornamental stones are moderately hard yet brittle, with colors ranging from pink to colorless. A curious event with Petalite occurs when a jeweler cuts the polished gem, the smallest piece momentarily loses all reflections. This effect has sparked speculation of arcane origins, though it may simply be an optical illusion. Unfortunately, a significant quantity of Petalite from a consistent source remains elusive for rigorous arcane investigation.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!V4qH7g2C5TXvJlqg"
+}

@@ -1,0 +1,59 @@
+{
+  "folder": "nneAAqmcEwOL9zrI",
+  "name": "Mistletoe",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Mistletoe.webp",
+  "system": {
+    "description": {
+      "value": "<p>Mistletoe is culturally referred to as the kissing plant, for the way it grows as well as being associated with some winter holidays. Mistletoe represents romance, fertility, and vitality. They grow attached to their host tree or shrub through which they extract water and nutrients from the host plant. Used by herbalists everywhere, for blood conditions, such as arthritis, or for those who have conjugal issues in their homes. </p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 2,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "material",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "identifier": "antlers",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "eC1MkpZseqkz1LgA",
+  "sort": 1500000,
+  "_originalKey": "!items!eC1MkpZseqkz1LgA"
+}

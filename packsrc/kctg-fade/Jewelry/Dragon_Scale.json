@@ -1,0 +1,53 @@
+{
+  "name": "Dragon Scale",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Dragon%20Scale.webp",
+  "effects": [],
+  "folder": "cIJKJ2rN2ZLnb881",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>An actual dragon scale, attached to a piece of string, serves more as a symbolic trophy indicating that the owner is a dragon slayer. However, due to the rarity of dragon scales in the realms, not attached to the said dragons, collectors, and in some cases, more nefarious parties, may offer a significant premium to acquire it, depending on the color of the scale.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "sort": 101563,
+  "_id": "Jqhi8KllB55wUHja",
+  "_originalKey": "!items!Jqhi8KllB55wUHja"
+}

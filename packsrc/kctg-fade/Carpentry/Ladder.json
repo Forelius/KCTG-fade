@@ -1,0 +1,58 @@
+{
+  "name": "Ladder",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Ladder.webp",
+  "system": {
+    "description": {
+      "value": "<p>The ladder is a simple yet essential tool for reaching elevated areas. Whether in libraries, homes, farms, barns, or used by firefighters to rescue people from high places, ladders are used in various environments for essential tasks.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": null,
+      "rules": "2024",
+      "book": "",
+      "page": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 2,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "identifier": "barrel-copy"
+  },
+  "effects": [],
+  "folder": "bxQZu0dOpDO6ztac",
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e2"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "Sn9manMqcNAwaZiQ",
+  "sort": 1400000,
+  "_originalKey": "!items!Sn9manMqcNAwaZiQ"
+}

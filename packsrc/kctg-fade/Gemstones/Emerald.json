@@ -1,0 +1,52 @@
+{
+  "name": "Emerald",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Emerald.webp",
+  "effects": [],
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "sort": 2300000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "IyJUi5f5y2NkzzlO",
+  "system": {
+    "description": {
+      "value": "<p>Translucent Emeralds are cut and polished in gem cuts for jewelry. Mainly provided as gifts for royalty or nobility. In the past, it was associated with health, fertility, and growth and used to adorn magical items that improved the healing arts.</p>\n<p> </p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1000,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "FvHmsAdVJKNAy9eZ": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "auVc65DdvimseblT": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!IyJUi5f5y2NkzzlO"
+}

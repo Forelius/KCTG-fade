@@ -1,0 +1,54 @@
+{
+  "folder": "9z8F4GiWlXBk1DYI",
+  "name": "Exploding Stick",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Exploding%20Stick.webp",
+  "system": {
+    "description": {
+      "value": "<p>Exploding sticks are usually named that way for drilling purposes, to create small cracks in heavy solid rock or ore so that a pickaxe or a drill can follow up. There is usually a specialized machinist who makes them using the finest gunpowder and also sets them up. They will not produce a big bang, but they will get the job done in clearing rocks.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 3,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "hand-axe",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "ownership": {
+    "default": 0,
+    "233gPIEGs3GHtRh3": 3
+  },
+  "_id": "WEAsORKXqv9ujLiL",
+  "sort": 106250,
+  "_originalKey": "!items!WEAsORKXqv9ujLiL"
+}

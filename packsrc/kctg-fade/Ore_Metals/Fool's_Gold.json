@@ -1,0 +1,40 @@
+{
+  "_id": "HJjSm5zSwXfstNEb",
+  "name": "Fool's Gold",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Fool%27s%20Gold.webp",
+  "effects": [],
+  "folder": "rknvmXL7rtQgObfA",
+  "sort": 3200000,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p><em>\"A few decades ago, there was a quartz mine controlled by its local Thieves’ Guild, at a certain point it struck a huge vein of Iron Pyrite, also known as Fool's Gold. Initially, like everyone else, they did believe it to be gold, but a quick assessment by the blacksmith from the area revealed it wasn’t. Unfortunately, that blacksmith was never heard from again. Fast-forward a couple of years, The Thieves Guild manages to replace all jewelry and all coins in the region. Eventually, it reached the lordship, and he sent a battalion to the town... I'm unsure if it still exists, as neither the battalion that was sent nor a word of the Thieves’ Guild ever came from that region.\"</em></p>\n<p> </p>\n<p>Iron Pyrite also known as the Fool's Gold, has limited uses, it is mainly used as a form of ignition in firearms, creating a small spark to ignite the gunpowder. It can also be used with flint as a method of starting fires.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 1,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "ownership": {
+    "default": 0,
+    "3fjwTQThfGz3b3g3": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!HJjSm5zSwXfstNEb"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Pandean Pipe",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Pandean%20Pipe.webp",
+  "system": {
+    "description": {
+      "value": "<p>The Pandean pipe, often referred to as the pan flute or panpipe, is made from closed tubes of increasing lengths. Sound is produced when air is blown in its tubes, causing them to resonate and produce a unique sound. This instrument is widely used in music and traditional performances.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2014"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 12,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "identifier": "chair"
+  },
+  "effects": [],
+  "folder": "IwFJtR8yJkW4FYub",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "5lZX3eG2N40uMgOh",
+  "_originalKey": "!items!5lZX3eG2N40uMgOh"
+}

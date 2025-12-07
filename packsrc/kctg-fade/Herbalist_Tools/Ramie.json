@@ -1,0 +1,59 @@
+{
+  "folder": "nneAAqmcEwOL9zrI",
+  "name": "Ramie",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Ramie.webp",
+  "system": {
+    "description": {
+      "value": "<p>Ramie, also called grass linen, is a fiber derived from a type of nettle. Known for its strength and luster, it is an ideal material for creating fabrics suited to warm climates. Beyond textiles, it is also used in making fishing nets, filter cloths, and occasionally, paper.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 5,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "material",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "identifier": "antlers",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "CJf3TdO4GeDFKC47",
+  "sort": 0,
+  "_originalKey": "!items!CJf3TdO4GeDFKC47"
+}

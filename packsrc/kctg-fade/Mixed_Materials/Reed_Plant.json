@@ -1,0 +1,58 @@
+{
+  "folder": "ioDwaLKA1DUtYokk",
+  "name": "Reed Plant",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Reed%20plant.webp",
+  "system": {
+    "description": {
+      "value": "<p>The common water reed occurs along the margins of lakes, fens, marshes, and streams, from the Nordic regions to the warmest places. Dried reed stems have been used for aeons as thatching and construction material, in basketry, for arrows and pens, and in musical instruments.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 2,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "material",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "antlers",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "QyVypuU8GJxYp3Q6",
+  "sort": 700000,
+  "_originalKey": "!items!QyVypuU8GJxYp3Q6"
+}

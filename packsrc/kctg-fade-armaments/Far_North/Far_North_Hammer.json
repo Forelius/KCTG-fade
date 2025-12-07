@@ -1,0 +1,153 @@
+{
+  "name": "Far North Hammer",
+  "type": "weapon",
+  "img": "modules/kctg-5e/images/Far%20North/Far%20North%20Hammer.webp",
+  "system": {
+    "activities": {
+      "ND5bEKsPjGHgF20q": {
+        "_id": "ND5bEKsPjGHgF20q",
+        "type": "attack",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "units": "self",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "attack": {
+          "critical": {},
+          "flat": false,
+          "type": {}
+        },
+        "damage": {
+          "critical": {},
+          "includeBase": true,
+          "parts": []
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>Steel-made weapon and utility tool intended for cleaving through frozen landscapes and breaching battlefield defenses. It is designed to be as versatile as possible while remaining easy to carry, either on a belt or within a backpack.</p><section class=\"secret\" id=\"secret-leGuD3o0xpsGH8fK\"><p><strong>Note for DMs</strong></p><p>This item possesses no fixed stats, this is by design. The GM/DM is advised to modify the stats to best fit their world, setting and story. Due to those factors, all stats can vary wildly.</p></section>",
+      "chat": ""
+    },
+    "identifier": "far-north-bear-claws-copy",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "crewed": false,
+    "ammunition": {},
+    "armor": {},
+    "damage": {
+      "base": {
+        "types": [],
+        "custom": {
+          "enabled": false
+        },
+        "scaling": {
+          "number": 1
+        },
+        "number": null,
+        "denomination": null,
+        "bonus": ""
+      },
+      "versatile": {
+        "types": [],
+        "custom": {
+          "enabled": false
+        },
+        "scaling": {
+          "number": 1
+        },
+        "number": null,
+        "denomination": null,
+        "bonus": ""
+      }
+    },
+    "properties": [],
+    "proficient": null,
+    "range": {
+      "value": null,
+      "long": null,
+      "reach": null,
+      "units": ""
+    },
+    "type": {
+      "value": "simpleM",
+      "baseItem": "lighthammer"
+    },
+    "mastery": ""
+  },
+  "effects": [],
+  "folder": "QZPnXbHpm2yPfeUn",
+  "sort": 100782,
+  "ownership": {
+    "default": 0,
+    "HSSviIXZSSQdGVd0": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "8L27i3jZ2sCdjVum",
+  "_originalKey": "!items!8L27i3jZ2sCdjVum"
+}

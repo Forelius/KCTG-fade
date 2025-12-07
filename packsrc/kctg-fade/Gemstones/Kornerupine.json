@@ -1,0 +1,48 @@
+{
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "name": "Kornerupine",
+  "type": "loot",
+  "_id": "9Rt1ZmjPZquYAQCK",
+  "img": "modules/kctg-5e/images/Kornerupine.webp",
+  "system": {
+    "description": {
+      "value": "<p>Kornerupine is found in green or brown translucent crystals that are sufficiently hard to be cut into solid faceted gems of medium size. The green variety of kornerupine is particularly notable for its arcane ability to record sounds and noises.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!9Rt1ZmjPZquYAQCK"
+}

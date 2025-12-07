@@ -1,0 +1,52 @@
+{
+  "name": "Walnut Lumber",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Walnut%20Plank.webp",
+  "system": {
+    "description": {
+      "value": "<p>Once harvested, walnut lumber is commonly used for furniture, flooring, cabinetry, and decorative items due to its rich color and workability. and due to it being a low price, it is in high demand by most carpenters and woodworkers.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": 2,
+    "price": {
+      "value": 25,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "LLvC7EvZacBUO0n8",
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "kmALoy5a3gUSVZLs",
+  "sort": 0,
+  "_originalKey": "!items!kmALoy5a3gUSVZLs"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Antimony",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Antimony.webp",
+  "system": {
+    "description": {
+      "value": "<p>Antimony is quite a bit of a brittle metal. Most lightning-attuned magical users use it as a conductor, a guide for untamed energy coursing through their spells. Alchemists grind antimony into a fine powder to extinguish fires, magical or otherwise. Rarely, the powdered form is used in pigments, valued for its distinctive, eye-catching sparkle.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 2,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "rock-salt",
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "C3FNsGlq2Lf7wevT": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "rknvmXL7rtQgObfA",
+  "_id": "NjHxIfJizgA3tZ8i",
+  "sort": 700000,
+  "_originalKey": "!items!NjHxIfJizgA3tZ8i"
+}

@@ -1,0 +1,50 @@
+{
+  "folder": "NGIN3DqFLpdjTTXr",
+  "name": "Undersea Remains",
+  "type": "loot",
+  "_id": "4W9TwRzdktTbcjcF",
+  "img": "modules/kctg-5e/images/Undersea%20Remains.webp",
+  "system": {
+    "description": {
+      "value": "<p>These bones are so rare, that nobody can identify them clearly. Some state that they belong to unseen horrors from different realms, or of an ancient form of fish. These are highly valued by most collectors due to their complex retrieval process.</p><p></p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": ""
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 75,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!4W9TwRzdktTbcjcF"
+}

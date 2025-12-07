@@ -1,0 +1,40 @@
+{
+  "name": "Silk",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/silk.webp",
+  "system": {
+    "description": {
+      "value": "<p>It is one of the rarest materials to find. It is mainly produced by either fantastical beasts or insects of different sizes. It is speculated that only the most trained gatherers can create something called \"Pure Silk\", however, some of them end up losing their lives sometimes, getting more than they bargained for from some eight-legged monsters.</p><p></p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 55,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "LAyIc8TxL1JT6Oit",
+  "sort": 162500,
+  "_id": "kEVYTfU1dAShkhgF",
+  "_originalKey": "!items!kEVYTfU1dAShkhgF"
+}

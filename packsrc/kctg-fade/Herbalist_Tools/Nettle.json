@@ -1,0 +1,40 @@
+{
+  "name": "Nettle",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Nettle.webp",
+  "system": {
+    "description": {
+      "value": "<p>Or Stinging Nettle, it is used mainly by practitioners of medicine to help treat muscle pains of the weary adventurers or the joints of the elderly. Experienced Alchemists use them in potions of healing as one of the base ingredients</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 5,
+      "denomination": "cp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "3fjwTQThfGz3b3g3": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "nneAAqmcEwOL9zrI",
+  "sort": 5200000,
+  "_id": "EK6aK5L9yGf1PCDL",
+  "_originalKey": "!items!EK6aK5L9yGf1PCDL"
+}

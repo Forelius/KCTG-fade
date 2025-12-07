@@ -1,0 +1,50 @@
+{
+  "folder": "NGIN3DqFLpdjTTXr",
+  "name": "Exoskeleton",
+  "type": "loot",
+  "_id": "rA9uqQ6ZQtsrYlGB",
+  "img": "modules/kctg-5e/images/Exoskeleton.webp",
+  "system": {
+    "description": {
+      "value": "<p>When the huge arachnids shed they do leave behind their exoskeletons. The pieces of the spider's shell are in high demand, as they are flexible and can be easily molded in multiple shapes. Rumors say that someone wearing armor made of exoskeleton pieces has his internal strength increased ten-fold. </p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris' Compendium of Trade Goods",
+      "license": ""
+    },
+    "quantity": 1,
+    "weight": 5,
+    "price": {
+      "value": 25,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!rA9uqQ6ZQtsrYlGB"
+}

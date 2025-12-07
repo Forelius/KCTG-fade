@@ -1,0 +1,58 @@
+{
+  "folder": "ODTmZCF7DbiMcwhX",
+  "name": "Finger Claw",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Finger%20Claw.webp",
+  "system": {
+    "description": {
+      "value": "<p>They’re not weapons, despite the way a few swaggering lads like to scratch the air with them. They’re costume, pure and simple, but folk treat them with a strange seriousness. In the riverlands, berry stained claws are handed out to children to mark the turning of the season, while in the port towns you’ll find claws inlaid with bits of colored glass, sold at a premium to visiting merchants who want to blend in with the eccentric nobility.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 3,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "chick",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "ownership": {
+    "default": 0,
+    "233gPIEGs3GHtRh3": 3
+  },
+  "sort": 150000,
+  "_id": "CwjPveUt9NJz5Nms",
+  "_originalKey": "!items!CwjPveUt9NJz5Nms"
+}

@@ -1,0 +1,43 @@
+{
+  "_id": "x5x1RpXi7RdNcQKR",
+  "name": "Slate",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Slate.webp",
+  "effects": [],
+  "folder": "ioDwaLKA1DUtYokk",
+  "sort": 1400000,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p><em>\"Slate doesn't get the love it deserves. Most writing boards are made out of it, also, it is quite resistant if cut into shapes and made into shingles\"</em></p>\n<p> </p>\n<p>Slate comes in many colors, from shades of gray to green to purple, even cyan depending on where it was harvested. It's mainly used in writing tablets and roofing.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 1,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "material"
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "3fjwTQThfGz3b3g3": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!x5x1RpXi7RdNcQKR"
+}

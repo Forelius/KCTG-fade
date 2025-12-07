@@ -1,0 +1,55 @@
+{
+  "name": "Chromite Ore",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Chromite%20Ore.webp",
+  "system": {
+    "description": {
+      "value": "<p>The Chromite Ore is used primarily in the manufacturing of high-quality steel, sometimes as a replacement for iron but more often combined with it. Depending on the amount used, it can provide metals with beautiful hues of green and red, making the wearers of armor or weaponry manufactured with it quite pleasing to the eye.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 3,
+      "denomination": "ep"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "rock-salt",
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "treasure",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "C3FNsGlq2Lf7wevT": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "rknvmXL7rtQgObfA",
+  "_id": "1TAnpxwgBeXQ2B4O",
+  "sort": 100000,
+  "_originalKey": "!items!1TAnpxwgBeXQ2B4O"
+}

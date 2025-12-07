@@ -1,0 +1,50 @@
+{
+  "folder": "9z8F4GiWlXBk1DYI",
+  "name": "Horseshoe",
+  "type": "loot",
+  "_id": "5W3aLuZhz5SmFQyG",
+  "img": "modules/kctg-5e/images/Horseshoe.webp",
+  "system": {
+    "description": {
+      "value": "<p>In certain regions, horseshoes are seen as a harbinger of good luck, while in others, they symbolize advanced industry. Typically crafted from steel, the choice of material may vary depending on metal availability in specific areas, including options like bronze, copper, or iron. In exceptionally uncommon cases, materials such as hide, leather, or even wood are considered.</p><p></p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": ""
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 1,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!5W3aLuZhz5SmFQyG"
+}

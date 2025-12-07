@@ -1,0 +1,53 @@
+{
+  "name": "Silver Goblet",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Silver%20Goblet.webp",
+  "effects": [],
+  "folder": "cIJKJ2rN2ZLnb881",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Silver goblets, along with other pieces such as plates, platters, cutlery, and eating utensils, are ever-present in a noble household. These items are often commissioned in bulk, typically from a dedicated smithy or the local blacksmith. In most cases, the noble provides the silver ingots required for the commission, having full control over the final product.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 125,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "sort": 100391,
+  "_id": "8DH8RnlAOzXq5q4a",
+  "_originalKey": "!items!8DH8RnlAOzXq5q4a"
+}

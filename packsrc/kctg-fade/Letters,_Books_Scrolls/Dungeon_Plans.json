@@ -1,0 +1,65 @@
+{
+  "name": "Dungeon Plans",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Dungeon%20Plans.webp",
+  "system": {
+    "description": {
+      "value": "<p>A dungeon plan schematic contains the full layout of a specific dungeon, either already built or planned to be constructed beneath a castle, fort, or large dwelling, such as a manor. Dungeons are typically used to hold prisoners until a trial. While the dungeon itself is not intended for long-term confinement, it is not unheard of for prisoners to remain there for extended periods. The schematic often includes areas specifically designed for interrogation, storage of evidence, or other purposes tied to the ruling authority’s needs.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "treasure",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "TFPwDODIpyRO0E0Q",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "6iBWOShhSXPopu3Q",
+  "sort": 160938,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!6iBWOShhSXPopu3Q"
+}

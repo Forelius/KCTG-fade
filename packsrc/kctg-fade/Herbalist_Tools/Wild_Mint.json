@@ -1,0 +1,40 @@
+{
+  "name": "Wild Mint",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Wild%20Mint.webp",
+  "system": {
+    "description": {
+      "value": "<p>The leaves are a popular choice to garnish some beverages and desserts. Gatherers farm huge quantities of Wild Mint as they can also be made into teas to treat colds and to aid digestion. </p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 1,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "3fjwTQThfGz3b3g3": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "nneAAqmcEwOL9zrI",
+  "sort": 1800000,
+  "_id": "MQGXVLlxM3eYucq9",
+  "_originalKey": "!items!MQGXVLlxM3eYucq9"
+}

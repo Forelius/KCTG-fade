@@ -1,0 +1,40 @@
+{
+  "name": "Seeds - Hyacinth",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<p>The small, round bulbs of the hyacinth plant were traditionally used to treat a variety of ailments, such as skin rashes, as well as in cooking in a variety of dishes. However, they are mainly sold for indoor decoration by planting them in flowerpots.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 3,
+      "denomination": "cp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "img": "modules/kctg-5e/images/Seeds%20Hyacing.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "nneAAqmcEwOL9zrI",
+  "sort": 5300000,
+  "_id": "UeBe1fUvXm8Ru06C",
+  "_originalKey": "!items!UeBe1fUvXm8Ru06C"
+}

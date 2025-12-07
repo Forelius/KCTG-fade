@@ -1,0 +1,48 @@
+{
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "name": "Rubellite",
+  "type": "loot",
+  "_id": "HNdC3cndGBkRfPeX",
+  "img": "modules/kctg-5e/images/Rubellite%20.webp",
+  "system": {
+    "description": {
+      "value": "<p>Rubellite, a pink variant of tourmaline, stands out as the rarest gem in its family. Occasionally mistaken for ruby, it is a target for exploitation by unscrupulous merchants.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!HNdC3cndGBkRfPeX"
+}

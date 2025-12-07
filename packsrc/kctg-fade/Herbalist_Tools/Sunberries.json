@@ -1,0 +1,40 @@
+{
+  "name": "Sunberries",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Sunberry.webp",
+  "system": {
+    "description": {
+      "value": "<p>Or Wonderberries sometimes referred to as Nightshade. In the past, there had been rumors of a creature sharing the Nightshade name as well. These plants are of a universal type, Eggplants and Tomatoes are part of the same family of nightshade, as well as Tabacco and the Belladonna plant. However, when herbalists refer to Nightshade they mainly refer to a specific type called Sunberries. It is used in home remedies by the common folk. </p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 25,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "3fjwTQThfGz3b3g3": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "nneAAqmcEwOL9zrI",
+  "sort": 4700000,
+  "_id": "scIuqsffBg1HPCOD",
+  "_originalKey": "!items!scIuqsffBg1HPCOD"
+}

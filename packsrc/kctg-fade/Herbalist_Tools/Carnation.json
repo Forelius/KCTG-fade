@@ -1,0 +1,59 @@
+{
+  "folder": "nneAAqmcEwOL9zrI",
+  "name": "Carnation",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Carnation.webp",
+  "system": {
+    "description": {
+      "value": "<p>Commonly known as Carnation or clove pink, and besides the ornamental aspect of them, where most houses have a potted flower. The Carnations, after turning in a paste with honey, are used by some herbalists to treat issues such as skin problems, hair loss, and muscle tension.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "material",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "identifier": "antlers",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "IcikxwfxMLSWuMxv",
+  "sort": 900000,
+  "_originalKey": "!items!IcikxwfxMLSWuMxv"
+}

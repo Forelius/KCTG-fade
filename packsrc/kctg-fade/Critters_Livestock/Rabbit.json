@@ -1,0 +1,55 @@
+{
+  "folder": "u1YauWP6weWgnFOR",
+  "name": "Rabbit",
+  "type": "loot",
+  "_id": "C2Cj9VIloKbUCBRB",
+  "img": "modules/kctg-5e/images/Rabbit.webp",
+  "system": {
+    "description": {
+      "value": "<p>Commonly referred to as the meat rabbit, these rabbits are primarily harvested for their meat. However, in regions where hunting was not readily available, both wild rabbits and domestic rabbits were also harvested for pelts.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 4,
+      "units": "lb"
+    },
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "rabbit",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!C2Cj9VIloKbUCBRB"
+}

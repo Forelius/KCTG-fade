@@ -1,0 +1,52 @@
+{
+  "name": "Zoisite",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<p>This particular gem can be found in a variety of colors, including green, brown, pink, and black. These gems are particularly favored by people who lead secluded lives, as they are believed to ward off negative thoughts and emotions, whether they are caused by magic or other means. They are said to promote a sense of calm when worn. These gems are in high demand among hermits, monks, and common folk who live in remote areas.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "img": "modules/kctg-5e/images/Zoisite.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "sort": 6000000,
+  "_id": "NRtqKD1ZFddhjNfU",
+  "_originalKey": "!items!NRtqKD1ZFddhjNfU"
+}

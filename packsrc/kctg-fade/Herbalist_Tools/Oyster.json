@@ -1,0 +1,40 @@
+{
+  "name": "Oyster",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Oyster.webp",
+  "system": {
+    "description": {
+      "value": "<p>They are usually harvested for food and for their rare pearls. Wizards on occasion use their shells as magical components, however, the spell it is used for has been kept a secret. In times long past, there was word that rare green emerald oysters had existed as well, however, no one has seen one lately. Some Taverns offer Oysters as a delicacy depending on the region.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 45,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "3fjwTQThfGz3b3g3": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "nneAAqmcEwOL9zrI",
+  "sort": 2000000,
+  "_id": "feo29S44vMp6aAjt",
+  "_originalKey": "!items!feo29S44vMp6aAjt"
+}

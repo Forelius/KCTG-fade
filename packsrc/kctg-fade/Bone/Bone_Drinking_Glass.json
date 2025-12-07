@@ -1,0 +1,50 @@
+{
+  "folder": "NGIN3DqFLpdjTTXr",
+  "name": "Bone Drinking Glass",
+  "type": "loot",
+  "_id": "Stzf7at3y3LnVtGF",
+  "img": "modules/kctg-5e/images/Bone%20Cup.webp",
+  "system": {
+    "description": {
+      "value": "<p>Some of the more eccentric folks look to fill their cupboards with plates, cups, or glasses made out of bone, or with bone paraphernalia embossed on them. Due to the nature of most of the materials procured that are needed to produce kitchenware, they tend to come at a very high trade value. Yet, not a lot of crafters can manipulate bone into usable items, making the rarity even more pronounced.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": ""
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!Stzf7at3y3LnVtGF"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Myrrh",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Myrrh.webp",
+  "system": {
+    "description": {
+      "value": "<p>Herbalists look for Myrrh resin to use in creating perfume, incense, and medicine. It is believed that if the leaf of the Myrrh is chewed on, it even helps with bad breath. In some cultures, it is also mixed in the process of making wine.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 25,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "3fjwTQThfGz3b3g3": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "nneAAqmcEwOL9zrI",
+  "sort": 3800000,
+  "_id": "ZRz5CYUYS4BatZc9",
+  "_originalKey": "!items!ZRz5CYUYS4BatZc9"
+}

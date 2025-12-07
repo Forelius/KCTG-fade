@@ -1,0 +1,52 @@
+{
+  "name": "Topaz",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Topaz.webp",
+  "effects": [],
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "sort": 3400000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "Vs8R6PK01hhKR4YT",
+  "system": {
+    "description": {
+      "value": "<p>Comes in many colors, one of the most common ones, is light blue, however, the most prized one is a bright yellow also known as Imperial Topaz. Highly valued by nobility as they usually are offered as gifts at state gatherings. The gems are cut only by the most skilled master gem cutters.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 500,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "FvHmsAdVJKNAy9eZ": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "auVc65DdvimseblT": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!Vs8R6PK01hhKR4YT"
+}

@@ -1,0 +1,65 @@
+{
+  "name": "To-Do List",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/To-do%20list.webp",
+  "system": {
+    "description": {
+      "value": "<p>Basic list of things made by a commoner. </p><p> </p><ol><li><p>Fetch water frum tha well ‘fore sun gets too high</p></li><li><p>Check on the goats, make sure that gray one ain’t wandered off again</p></li><li><p>Fix that busted fence post near tha turnip patch</p></li><li><p>Go to market, see if Ol’ Markla still got flour what don’t got bugs in it</p></li><li><p>Patch Pa’s boots, if I can find where the I put the needle</p></li><li><p>Chop more firewood, cause it’s still cold an I don’t trust that sky none</p></li><li><p>Say prayers so the crops don’t rot this year like last</p></li><li><p>Scrub them rags what got blood on ‘em from the hog birthing</p></li><li><p>Don’t forget to ask Jorren if he seen them bandits near the crossroads</p></li><li><p>Feed the chickens, then make sure none got took by foxes again</p><p></p></li></ol>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "treasure",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "TFPwDODIpyRO0E0Q",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "1V0eNaG5w1h0AzP1",
+  "sort": 160905,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!1V0eNaG5w1h0AzP1"
+}

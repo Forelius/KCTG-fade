@@ -1,0 +1,65 @@
+{
+  "name": "Equipment Order",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Equipment%20Order.webp",
+  "system": {
+    "description": {
+      "value": "<p>An official edict calling for a large quantity of gear, including both armor and weapons, is typically issued as a preparation for war or to support an ongoing conflict. In return, blacksmiths submit a material order, estimating the necessary amounts of supplies to fulfill the request. </p><p></p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "treasure",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "TFPwDODIpyRO0E0Q",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "o115qAjHDuxBaVoe",
+  "sort": 160157,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!o115qAjHDuxBaVoe"
+}

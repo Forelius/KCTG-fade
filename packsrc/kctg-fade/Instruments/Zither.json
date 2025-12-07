@@ -1,0 +1,55 @@
+{
+  "name": "Zither",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Zither.webp",
+  "system": {
+    "description": {
+      "value": "<p>The zither is an instrument that exists in various shapes and sizes, with the defining characteristic of being a plucked instrument. Numerous regional variations can be found worldwide. In some cultures, the zither is celebrated as an all-rounded instrument, valued for its beautiful and resonant sound. This instrument is not only a staple in music but is also well-regarded in some religious settings, where its beautiful sound enhances choir performances.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2014"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "identifier": "chair"
+  },
+  "effects": [],
+  "folder": "IwFJtR8yJkW4FYub",
+  "sort": 1800000,
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "ljk6nL3p8xpzGlOu",
+  "_originalKey": "!items!ljk6nL3p8xpzGlOu"
+}

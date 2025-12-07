@@ -1,0 +1,52 @@
+{
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "name": "Hyalite",
+  "type": "loot",
+  "_id": "enUrRKme48fa1yun",
+  "img": "modules/kctg-5e/images/Hyaline.webp",
+  "system": {
+    "description": {
+      "value": "<p>Hyalite, a milky form of quartz, is mainly utilized for crafting crystal balls. It is particularly favored by novice practitioners of arcane arts and mystical disciplines, leading schools to procure hyalite in large quantities.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!enUrRKme48fa1yun"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Cendal",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/cendal.webp",
+  "system": {
+    "description": {
+      "value": "<p>A form of lightweight silk mainly used to make ceremonial clothing, and church vestments, and help with the decoration of banners. </p><p></p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 35,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "LAyIc8TxL1JT6Oit",
+  "sort": 150000,
+  "_id": "dKnMdAKDrypFdTPl",
+  "_originalKey": "!items!dKnMdAKDrypFdTPl"
+}

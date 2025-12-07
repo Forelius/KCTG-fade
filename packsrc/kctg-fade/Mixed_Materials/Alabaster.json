@@ -1,0 +1,52 @@
+{
+  "name": "Alabaster",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Alabaster.webp",
+  "system": {
+    "description": {
+      "value": "<p>Alabaster's softness enables it to be carved readily into elaborate forms making it a popular material for carved sculpture. It is also often used for ornamental building work, such as for sculptures, vases, and small decorative carvings.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 2,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "ioDwaLKA1DUtYokk",
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "Aqlk1rbQXYBGTbVS",
+  "sort": 600000,
+  "_originalKey": "!items!Aqlk1rbQXYBGTbVS"
+}

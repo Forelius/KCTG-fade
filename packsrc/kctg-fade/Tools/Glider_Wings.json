@@ -1,0 +1,54 @@
+{
+  "folder": "9z8F4GiWlXBk1DYI",
+  "name": "Glider Wings",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Glider%20Wing.webp",
+  "system": {
+    "description": {
+      "value": "<p>While few understand the intricate workings of aerodynamics, some who do use a pair of semi-mechanized wings to travel faster than on foot. They are usually made from a very light aluminum frame with strengthened cloth, similar to that used on the largest ship sails.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 3,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "hand-axe",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "ownership": {
+    "default": 0,
+    "233gPIEGs3GHtRh3": 3
+  },
+  "_id": "0nLfbAbkBajZiQ5y",
+  "sort": 101563,
+  "_originalKey": "!items!0nLfbAbkBajZiQ5y"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Archery Target",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Archery%20Target.webp",
+  "system": {
+    "description": {
+      "value": "<p>Originally, archery targets were simple mounds of earth, but skilled archers quickly wore them down by hitting the same spots repeatedly. To solve this, wooden archery targets were developed, made primarily of hardwood and reinforced with heavy rope and straw to handle the high amount of arrows. Wealthier archers could afford targets with colored paper, marked in red, blue, and black to create the famous bullseye design.<br /><br /></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2014"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 25,
+      "units": "lb"
+    },
+    "price": {
+      "value": 2,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "identifier": "chair"
+  },
+  "effects": [],
+  "folder": "bxQZu0dOpDO6ztac",
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "Kw15E8cgI72pyggW",
+  "sort": 700000,
+  "_originalKey": "!items!Kw15E8cgI72pyggW"
+}

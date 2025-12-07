@@ -1,0 +1,55 @@
+{
+  "name": "Pietra Serena",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Pietra%20Gray%20Marble.webp",
+  "system": {
+    "description": {
+      "value": "<p>Pietra Serena is a refined marble variety, known for its characteristic blue-gray tones. Other shades, including deep blue and black, also exist. Highly valued by artists, it is commonly used in sculptures and architectural embellishments such as pilasters, entablatures, and decorative elements.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "rock-salt",
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "treasure",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "C3FNsGlq2Lf7wevT": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "ioDwaLKA1DUtYokk",
+  "_id": "EZhOYnD0HlfbZ0e9",
+  "sort": 0,
+  "_originalKey": "!items!EZhOYnD0HlfbZ0e9"
+}

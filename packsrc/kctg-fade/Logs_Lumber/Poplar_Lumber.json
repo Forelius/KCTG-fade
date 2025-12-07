@@ -1,0 +1,52 @@
+{
+  "name": "Poplar Lumber",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Poplar%20Plank.webp",
+  "system": {
+    "description": {
+      "value": "<p>It is perfect for items like pallets, boxes, and crates, but also, artisan bowls, wooden plates, and other fine carpentry. Due to its relatively modest price point, poplar is a great choice for commercial uses. However, it can dent or scratch easily, making it undesirable for high-wear items, as well as, over time its color fades to a medium brown within months.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 14
+    },
+    "price": {
+      "value": 3,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "LLvC7EvZacBUO0n8",
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "dr6LvnjHS5GElEPw",
+  "sort": 300000,
+  "_originalKey": "!items!dr6LvnjHS5GElEPw"
+}

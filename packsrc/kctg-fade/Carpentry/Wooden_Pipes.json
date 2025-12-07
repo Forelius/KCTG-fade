@@ -1,0 +1,58 @@
+{
+  "name": "Wooden Pipes",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Wooden%20Pipe.webp",
+  "system": {
+    "description": {
+      "value": "<p>Wooden pipes, or tobacco pipes, are specifically designed for smoking tobacco and herbs. They are typically constructed from strong, hardwoods like briar or corn cob, each offering benefits such as durability and a unique smoking flavor.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": null,
+      "rules": "2024",
+      "book": "",
+      "page": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 2,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "identifier": "barrel-copy"
+  },
+  "effects": [],
+  "folder": "bxQZu0dOpDO6ztac",
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e2"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "ImNuLETLD31uh5yM",
+  "sort": 0,
+  "_originalKey": "!items!ImNuLETLD31uh5yM"
+}

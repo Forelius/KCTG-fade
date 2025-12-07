@@ -1,0 +1,59 @@
+{
+  "folder": "u1YauWP6weWgnFOR",
+  "name": "Hugger of Faces",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Face%20Hugger.webp",
+  "system": {
+    "description": {
+      "value": "<p>According to some rare studies, the creature’s body wraps tightly to the face, while its tail coils around the neck, to an unknown purpose. However, due to limited documentation of them, their purpose remains uncertain. No living specimens have ever been discovered, only the ocassional exoskeleton shells. Analysis of these shells has led to the theory that the creature's blood is highly acidic as it is capable of dissolving most substances.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "chick",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "WHGwoGoKToaPQQ7z",
+  "_originalKey": "!items!WHGwoGoKToaPQQ7z"
+}

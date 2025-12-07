@@ -1,0 +1,40 @@
+{
+  "name": "Horsetail",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Horsetail.webp",
+  "system": {
+    "description": {
+      "value": "<p>Horsetail is a common herb that has been used by herbalists for centuries to treat a variety of ailments, including bleeding, wounds, colds, and hay fever. It grows in many parts of the world and is considered poisonous to sheep and cattle, although it is safe for the common folk to consume in small amounts.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 0.1,
+    "price": {
+      "value": 7,
+      "denomination": "cp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "nneAAqmcEwOL9zrI",
+  "sort": 3300000,
+  "_id": "PBpiiXKw3sbIlnxL",
+  "_originalKey": "!items!PBpiiXKw3sbIlnxL"
+}

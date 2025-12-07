@@ -1,0 +1,55 @@
+{
+  "name": "Flute",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Flute.webp",
+  "system": {
+    "description": {
+      "value": "<p>The flute is known for its adaptability, being made from a wide range of materials such as bamboo, jade, glass, blackwood, bone, and various metals. Its light, bright sound has made it a beloved instrument in many cultures, especially in tavern settings where it often forms part of a trio with the lute and harp. Beyond its popularity in taverns, the flute is also widely used in rituals, celebrations, and folk traditions, giving it a strong cultural presence in both formal and informal events across the realms.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2014"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "identifier": "chair"
+  },
+  "effects": [],
+  "folder": "IwFJtR8yJkW4FYub",
+  "sort": 2200000,
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "yHqpUFtqhXJAjDGi",
+  "_originalKey": "!items!yHqpUFtqhXJAjDGi"
+}

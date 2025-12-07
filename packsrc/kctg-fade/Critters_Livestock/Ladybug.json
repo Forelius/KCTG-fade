@@ -1,0 +1,59 @@
+{
+  "folder": "u1YauWP6weWgnFOR",
+  "name": "Ladybug",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Ladybug.webp",
+  "system": {
+    "description": {
+      "value": "<p>Ladybugs, associated with luck due to their spots, always follow a plentiful harvest. Common folk love them because they eat aphids and other plant pests, keeping the crops safe. The kids love to look at them and have a small song to accompany it, used to count the spots on the ladybug, believing they bring them long lasting luck. </p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "chick",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "EwazkeDyts53d85k",
+  "_originalKey": "!items!EwazkeDyts53d85k"
+}

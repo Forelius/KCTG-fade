@@ -1,0 +1,53 @@
+{
+  "name": "Gold Key",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Gold%20Key.webp",
+  "effects": [],
+  "folder": "cIJKJ2rN2ZLnb881",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>To instill additional trust in the owners of safety deposit boxes across the realms, some banks commission keys for their boxes to be crafted from gold, projecting an image of prestige and wealth. However, these so-called gold keys are often fashioned from pyrite, a far less durable material. Over time and with regular use, these pyrite keys tend to snap or crumble, while the banks cutting costs.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "sort": 100391,
+  "_id": "a4tk1vNJAMTAJkkh",
+  "_originalKey": "!items!a4tk1vNJAMTAJkkh"
+}

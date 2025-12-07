@@ -1,0 +1,55 @@
+{
+  "name": "Horn",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Horn.webp",
+  "system": {
+    "description": {
+      "value": "<p>The horn is often regarded as the predecessor to both the trumpet and the cornet. While it is primarily made from brass, there are also variants crafted from bone, which are particularly favored in remote, cold, or mountainous regions. They can be used for music, drive for battles, or alarms.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2014"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "identifier": "chair"
+  },
+  "effects": [],
+  "folder": "IwFJtR8yJkW4FYub",
+  "sort": 1200000,
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "UzSCIwcyzAMf87ae",
+  "_originalKey": "!items!UzSCIwcyzAMf87ae"
+}

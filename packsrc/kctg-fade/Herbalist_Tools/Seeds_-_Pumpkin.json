@@ -1,0 +1,40 @@
+{
+  "name": "Seeds - Pumpkin",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<p>Pumpkin seeds are small, hard seeds that come from pumpkins. They can be roasted and eaten as a snack or used to make oil and other products. Pumpkin seeds might be imbued with the power to cure illnesses, making them a valuable commodity for herbalists and those seeking to improve their health.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 3,
+      "denomination": "cp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "img": "modules/kctg-5e/images/Seeds%20Pumpkin.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "nneAAqmcEwOL9zrI",
+  "sort": 4400000,
+  "_id": "p6sAQFucC40km1bu",
+  "_originalKey": "!items!p6sAQFucC40km1bu"
+}

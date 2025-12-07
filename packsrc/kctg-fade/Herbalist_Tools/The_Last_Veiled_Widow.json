@@ -1,0 +1,40 @@
+{
+  "name": "The Last Veiled Widow",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/The%20Last%20Veiled%20Widow.webp",
+  "system": {
+    "description": {
+      "value": "<p>This highly acidic mushroom gets its name from the phosphorescent mesh that surrounds it. Compared to its more common counterpart, the Veiled Lady, the lethality of this specific mushroom is uncommon, as when ingested it turns to acid and starts consuming the unfortunate folk from the inside out, only leaving bones behind. A few months later, the bones give rise to more Veiled Widows.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 0.1,
+    "price": {
+      "value": 2,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "nneAAqmcEwOL9zrI",
+  "sort": 4800000,
+  "_id": "CGWaP1K9rVOVFZEv",
+  "_originalKey": "!items!CGWaP1K9rVOVFZEv"
+}

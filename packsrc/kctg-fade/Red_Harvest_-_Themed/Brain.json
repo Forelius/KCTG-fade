@@ -1,0 +1,58 @@
+{
+  "folder": "ODTmZCF7DbiMcwhX",
+  "name": "Brain",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Brain.webp",
+  "system": {
+    "description": {
+      "value": "<p>They’re said to come from… well, that’s the tricky part. A few merchants claim they’re harvested after accidents or battles, yet others swear it’s some artisan’s grisly craft, pressed and preserved with secret oils. I can’t say which is true, but either way, they’re fragile. Keep it away from sunlight and rough hands.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 5,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "chick",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "ownership": {
+    "default": 0,
+    "233gPIEGs3GHtRh3": 3
+  },
+  "_id": "IZYiP30eQiz2dOmQ",
+  "sort": 150000,
+  "_originalKey": "!items!IZYiP30eQiz2dOmQ"
+}

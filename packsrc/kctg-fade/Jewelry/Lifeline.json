@@ -1,0 +1,53 @@
+{
+  "name": "Lifeline",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Lifeline.webp",
+  "effects": [],
+  "folder": "cIJKJ2rN2ZLnb881",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Lifeline is a ring crafted by the most secluded underground folk, usually made in pairs, though larger sets are not unheard of. Its purpose is to keep in contact with friends or family. Primarily forged from iron or steel, the inscription on the inside contains the names of loved ones. With the aid of arcane knowledge, the ring forms a link to the others. When the text glows, it signals that the close family member or friend is still alive.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 25,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "sort": 100391,
+  "_id": "ZERPitxzhE544hkJ",
+  "_originalKey": "!items!ZERPitxzhE544hkJ"
+}

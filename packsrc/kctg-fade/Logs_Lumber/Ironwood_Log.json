@@ -1,0 +1,40 @@
+{
+  "name": "Ironwood Log",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Ironwood%20Log.webp",
+  "effects": [],
+  "folder": "LLvC7EvZacBUO0n8",
+  "sort": 1900000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "w3d4Os9Z6uCP2tHq",
+  "system": {
+    "description": {
+      "value": "<p><em>\"We call it Ironwood, but it usually has its own name depending on the region. The folks at the lumber mills hate this type of wood, as almost every time they have to replace their main blade. Not to mention if anyone wants lumber from it they need to have a proper amount of gold too. It is very resilient!\"</em></p>\n<p> </p>\n<p>Ironwood comes in several colors, ranging from red to gray to bright browns, depending on the region where it was harvested. It is mainly used as firewood as it burns very slowly. When used in furniture, it is usually  only used for small decorative add-ons, as most woodworker tools are not efficient in carving it. </p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 0,
+    "price": {
+      "value": 4,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true
+  },
+  "ownership": {
+    "default": 0,
+    "FvHmsAdVJKNAy9eZ": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!w3d4Os9Z6uCP2tHq"
+}

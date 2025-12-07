@@ -1,0 +1,46 @@
+{
+  "folder": "9z8F4GiWlXBk1DYI",
+  "name": "Scarecrow",
+  "type": "loot",
+  "_id": "EpL8k8DDMvSQSw7M",
+  "img": "modules/kctg-5e/images/Scarecrow.webp",
+  "system": {
+    "description": {
+      "value": "<p>The scarecrow, rooted in popular tradition, is a mannequin typically stuffed with straw. Its primary purpose is to deter birds or other animals from consuming seeds, crops, and fruit.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": ""
+    },
+    "quantity": 1,
+    "weight": 0,
+    "price": {
+      "value": 2,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 1000000,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!EpL8k8DDMvSQSw7M"
+}

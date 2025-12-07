@@ -1,0 +1,58 @@
+{
+  "folder": "bxQZu0dOpDO6ztac",
+  "name": "Fan",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Fan.webp",
+  "system": {
+    "description": {
+      "value": "<p>Primarily made out of paper, or rarely from cloth, and reinforced with either light metals, such as tin, or light woods, like redwood. The fans feature intricate designs, with many crafted to reflect regional symbols or family crests. Some fans, adorned with vibrant colors or delicate embroidery, are considered status symbols and are cherished as heirlooms. On a blistering summer day, villagers unfold their fans with a flick of the wrist, a synchronized dance of fabric and wood, creating a gentle breeze that brings momentary relief from the sun's relentless heat.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 25,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "material",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "antlers",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "AcZdf8xeQDJ8nrn5",
+  "sort": 0,
+  "_originalKey": "!items!AcZdf8xeQDJ8nrn5"
+}

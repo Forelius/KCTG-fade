@@ -1,0 +1,52 @@
+{
+  "name": "Quartzite",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Quartzite.webp",
+  "system": {
+    "description": {
+      "value": "<p>Quartzite is a decorative stone and may be used to cover walls, as roofing tiles, flooring, and stairsteps, due to its strength, it is also used to construct roads, bridges, and dams. When cut and polished, the rock is quite beautiful, as well as durable.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1
+    },
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "ioDwaLKA1DUtYokk",
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "27tgQWz6dwEUzb2W",
+  "sort": 400000,
+  "_originalKey": "!items!27tgQWz6dwEUzb2W"
+}

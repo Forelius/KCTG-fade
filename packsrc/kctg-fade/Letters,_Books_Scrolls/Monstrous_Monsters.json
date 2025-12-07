@@ -1,0 +1,65 @@
+{
+  "name": "Monstrous Monsters",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Monstrous%20Monsters.webp",
+  "system": {
+    "description": {
+      "value": "<p>Monstrous Monsters is a small manual offered by tavernkeepers to travelers, adventurers, caravaners, and merchants alike. It provides a detailed list of monsters found in the area, steps that can be taken to avoid them, and advice on how to succeed in combat if engaged, or what actions to take until help arrives. Not enough credit is provided to tavernkeepers, who often hear the latest news and rumors and compile and write these manuals to help protect their patrons and maintain safe trade routes. </p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "treasure",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "TFPwDODIpyRO0E0Q",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "sYxjM2OjE4ovIPp4",
+  "sort": 160792,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!sYxjM2OjE4ovIPp4"
+}

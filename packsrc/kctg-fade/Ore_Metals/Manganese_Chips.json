@@ -1,0 +1,64 @@
+{
+  "name": "Manganese Chips",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Magnamese%20chips.webp",
+  "system": {
+    "description": {
+      "value": "<p>Manganese Chips, after being mined, are rarely used by alchemists or herbalists in the production of potions or medicine, as well as in the creation of herbicides and brown paint. Their primary use is in the forging of a variety of important alloys to make them more resilient.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Kris's Compendium of Trade Goods",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 7,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": "material"
+    },
+    "identifier": "calico-bass"
+  },
+  "effects": [],
+  "folder": "rknvmXL7rtQgObfA",
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "vuqOw4GgNT0v8BPq",
+  "sort": 1262500,
+  "ownership": {
+    "default": 0,
+    "p8X14mjtmS9m84XK": 3
+  },
+  "_originalKey": "!items!vuqOw4GgNT0v8BPq"
+}

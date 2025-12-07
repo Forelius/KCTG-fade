@@ -1,0 +1,59 @@
+{
+  "folder": "nneAAqmcEwOL9zrI",
+  "name": "Pink Waxcap",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Pink%20Waxcap.webp",
+  "system": {
+    "description": {
+      "value": "<p>The Pink Waxcap is also referred to as \"Ballerinas\" because the fungi's cap looking like a ballerina's tutu. The mushrooms are eatable and have a unique taste, that does resemble a fine sour cream. Primarily used by chefs for garnishing meals as they are quite rare. Herbalists tend to use them as a ground paste, to ward off any magical diseases.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 2,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "material",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "identifier": "antlers",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "oNA7FlUeotAS0CGW",
+  "sort": 0,
+  "_originalKey": "!items!oNA7FlUeotAS0CGW"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Cornet",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Cornet.webp",
+  "system": {
+    "description": {
+      "value": "<p>The cornet sometimes called the circular trumpet or natural cornet, is primarily crafted from brass by master blacksmiths in specialized forges. Its unique valve system ensures a clear and resonant sound, making precision in its manufacturing essential for skilled smiths.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2014"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "identifier": "chair"
+  },
+  "effects": [],
+  "folder": "IwFJtR8yJkW4FYub",
+  "sort": 700000,
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "IznxAS9DRo99WR0w",
+  "_originalKey": "!items!IznxAS9DRo99WR0w"
+}

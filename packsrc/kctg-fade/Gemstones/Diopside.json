@@ -1,0 +1,48 @@
+{
+  "folder": "k0C8BU9Vd7RN3oMg",
+  "name": "Diopside",
+  "type": "loot",
+  "_id": "BATrYg8ruJLJ0DcR",
+  "img": "modules/kctg-5e/images/Diopside.webp",
+  "system": {
+    "description": {
+      "value": "<p>This stone is available in white, green, or yellow hues, often mixed together. It is dubbed \"The Fortune Stone\" for those who discover it, recognized as the \"Stone of Service\" awarded for outstanding military achievements, and revered as the \"Stone of Mother Earth\" among Druidic circles, believed to bestow blessings upon the land.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "auVc65DdvimseblT": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!BATrYg8ruJLJ0DcR"
+}

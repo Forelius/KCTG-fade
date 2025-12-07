@@ -1,0 +1,55 @@
+{
+  "name": "Fiddle",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Fiddle.webp",
+  "system": {
+    "description": {
+      "value": "<p>The djembe, sometimes referred to as simply the jembe, is a rope-tuned drum played with bare hands. Its name, in some areas, translates to 'everyone gathers together in peace', embodying unity and community spirit. The drum’s shell is carved from hardwood, while its head is traditionally made from untreated goat rawhide, reflecting its deep cultural roots.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2014"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 3,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "identifier": "chair"
+  },
+  "effects": [],
+  "folder": "IwFJtR8yJkW4FYub",
+  "sort": 2000000,
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "msupoTLjJZBEts66",
+  "_originalKey": "!items!msupoTLjJZBEts66"
+}

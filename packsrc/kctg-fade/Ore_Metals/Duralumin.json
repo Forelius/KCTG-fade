@@ -1,0 +1,55 @@
+{
+  "name": "Duralumin",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Duralumin.webp",
+  "system": {
+    "description": {
+      "value": "<p>Duralumin, a durable and lightweight aluminum alloy, is employed in the most advanced territories for flight-related applications. Only a select few master blacksmiths can create and mold this alloy. It is also used to make armor for creatures that can fly.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "rknvmXL7rtQgObfA",
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "faLK3RDQbGFcj9Db",
+  "sort": 1200000,
+  "_originalKey": "!items!faLK3RDQbGFcj9Db"
+}

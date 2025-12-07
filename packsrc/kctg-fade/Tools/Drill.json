@@ -1,0 +1,54 @@
+{
+  "folder": "9z8F4GiWlXBk1DYI",
+  "name": "Drill",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Drill.webp",
+  "system": {
+    "description": {
+      "value": "<p>This handheld mechanical drill operates through gears and oil, spinning in a steady circular motion to dig deeper into a single point. It requires skilled miners familiar with tinkering, as the rocky terrain often wears down the drill head, demanding frequent replacement.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 15,
+      "denomination": "sp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "hand-axe",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "ownership": {
+    "default": 0,
+    "233gPIEGs3GHtRh3": 3
+  },
+  "_id": "DBqEFWmTZmN2XHp6",
+  "sort": 112500,
+  "_originalKey": "!items!DBqEFWmTZmN2XHp6"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Breadseed Poppy",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Breadseed%20Poppy.webp",
+  "system": {
+    "description": {
+      "value": "<p>The breadseed poppy is a decorative plant often found in gardens. It is grown for its seeds, oil, and medicinal properties. When combined with strong alcohol, it can be used as a powerful pain reliever.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 0.1,
+    "price": {
+      "value": 12,
+      "denomination": "sp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "nneAAqmcEwOL9zrI",
+  "sort": 1900000,
+  "_id": "R9MZA98E0iyZKKB2",
+  "_originalKey": "!items!R9MZA98E0iyZKKB2"
+}

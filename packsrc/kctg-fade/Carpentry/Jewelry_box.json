@@ -1,0 +1,54 @@
+{
+  "name": "Jewelry box",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Jewelry%20box.webp",
+  "effects": [],
+  "folder": "bxQZu0dOpDO6ztac",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Jewelry boxes are essential in protecting delicate pieces from damage. While diamonds, being the hardest natural material, can scratch softer gemstones like opals and pearls, they can also mark softer metals like gold. But in general, the regular jewelry boxes provide a dedicated space for jewelry in a centralized storage, reducing the chances of misplacement or loss.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 2,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gear",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "bgJxUjuIPnI09BPM",
+  "sort": 2712500,
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_originalKey": "!items!bgJxUjuIPnI09BPM"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Samite",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Samite.webp",
+  "system": {
+    "description": {
+      "value": "<p>One of the most luxurious and heavy silks throughout the realms, mainly used in ecclesiastical robes, vestments, ornamental fabrics, and interior decoration. For those of royal blood it is assumed that a combination of cloth made out of gold and samite is used for their clothing. </p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 200,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "LAyIc8TxL1JT6Oit",
+  "sort": 187500,
+  "_id": "zmTbV9HElulL14FG",
+  "_originalKey": "!items!zmTbV9HElulL14FG"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Lyre",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Lyre.webp",
+  "system": {
+    "description": {
+      "value": "<p>The lyre is one of the oldest string instruments, characterized by its yoke, which consists of two arms and a crossbar that projects horizontally from the body. While most lyres are plucked to produce sound, rarely, a number of them are designed to be bowed, adding to their versatility in music.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2014"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 2,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "identifier": "chair"
+  },
+  "effects": [],
+  "folder": "IwFJtR8yJkW4FYub",
+  "sort": 1000000,
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "ORkMTVb8V5XQ81lT",
+  "_originalKey": "!items!ORkMTVb8V5XQ81lT"
+}

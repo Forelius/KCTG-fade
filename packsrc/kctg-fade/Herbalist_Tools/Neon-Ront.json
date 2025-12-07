@@ -1,0 +1,40 @@
+{
+  "name": "Neon-Ront",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/neon-ront.webp",
+  "system": {
+    "description": {
+      "value": "<p>The Neon-Ront mushroom is located in the densest woodlands, where the light of the sun doesn't protrude from the dense foliage. The Neon-Ront mushroom can be located due to its blue light glow. This specific fungus is in high demand for many civilizations that live underground, as it can be used for shelving as it is quite sturdy, binds well with rocky terrain and walls, and can be cut into any shape. It is also used for indoor illumination.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "nneAAqmcEwOL9zrI",
+  "sort": 4000000,
+  "_id": "0LqmInQgbQAmDR6D",
+  "_originalKey": "!items!0LqmInQgbQAmDR6D"
+}

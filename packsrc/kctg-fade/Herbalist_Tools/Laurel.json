@@ -1,0 +1,59 @@
+{
+  "folder": "nneAAqmcEwOL9zrI",
+  "name": "Laurel",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Laurel.webp",
+  "system": {
+    "description": {
+      "value": "<p>The Laurel comes from an evergreen shrub or small tree, that is usually kept potted at a herbalist's store. The medicinal properties of the Laurel make it one of the most coveted plants by all medicinal practitioners. It can be used in poultices, teas, as a rub, or direct medicine, for any kind of disease to any form of infection. It is also of status, in some regions laurel crowns are quite common, or a symbol of victory or achievement.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 2,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "material",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": "",
+      "name": "Unidentified Loot"
+    },
+    "identifier": "antlers",
+    "container": null,
+    "properties": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "xNJYf0IDZND384gi",
+  "sort": 1400000,
+  "_originalKey": "!items!xNJYf0IDZND384gi"
+}

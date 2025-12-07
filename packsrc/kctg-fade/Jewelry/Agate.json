@@ -1,0 +1,53 @@
+{
+  "name": "Agate",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Agate%20Ring.webp",
+  "effects": [],
+  "folder": "cIJKJ2rN2ZLnb881",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>The agate ring is rumored to attract wealth and prosperity. This belief may stem from Druidic traditions, which hold that the agate stone shares a strong connection and bond with the surrounding earth. Among the highest class of commoners, however, there exists a strict code of conduct regarding which finger and hand the agate gem should be worn on, a practice that changes depending on the day.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Good",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0.01,
+      "units": "lb"
+    },
+    "price": {
+      "value": 25,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    },
+    "identifier": "agate"
+  },
+  "ownership": {
+    "default": 0,
+    "Ih50LmDPzOPSTysg": 3
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "pSSQvcZwSfCWwg4v",
+  "sort": 100000,
+  "_originalKey": "!items!pSSQvcZwSfCWwg4v"
+}

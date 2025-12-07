@@ -1,0 +1,55 @@
+{
+  "name": "Maidenhair",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Maidenhair.webp",
+  "system": {
+    "description": {
+      "value": "<p>This herbal supplement is frequently recommended by herbalists and is mainly used to address blood disorders. It is also renowned for its ability to help keep your memory sharp.</p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 2,
+      "denomination": "cp"
+    },
+    "rarity": "common",
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "nneAAqmcEwOL9zrI",
+  "ownership": {
+    "default": 0,
+    "qozcSY5f36PJgZbt": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_id": "1OzuIZsl7Vejk9y0",
+  "sort": 2300000,
+  "_originalKey": "!items!1OzuIZsl7Vejk9y0"
+}

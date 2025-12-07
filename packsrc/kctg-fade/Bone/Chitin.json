@@ -1,0 +1,50 @@
+{
+  "folder": "NGIN3DqFLpdjTTXr",
+  "name": "Chitin",
+  "type": "loot",
+  "_id": "aQWB0jVrniePGYyN",
+  "img": "modules/kctg-5e/images/Chitin.webp",
+  "system": {
+    "description": {
+      "value": "<p>In underground villages and cities, chitin is a valuable commodity, as it is sturdy and lightweight. This comes from specifically slain insect-like creatures that roam in the darkness. Some farms exist for chitin; however, anything extra brought in by wannabe adventurers is always welcomed, as skilled crafters can turn it into valuable tools, weapons, clothing, or even armor.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": ""
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!aQWB0jVrniePGYyN"
+}

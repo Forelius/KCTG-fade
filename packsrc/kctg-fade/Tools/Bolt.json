@@ -1,0 +1,50 @@
+{
+  "folder": "9z8F4GiWlXBk1DYI",
+  "name": "Bolt",
+  "type": "loot",
+  "_id": "RNgfyUG4oF92Q0ry",
+  "img": "modules/kctg-5e/images/Bolt.webp",
+  "system": {
+    "description": {
+      "value": "<p>Bolts, nuts, and screws are indispensable in various aspects of life, serving roles in the construction of tools, locks, clocks, furniture, and even in fastening together robust pieces of metal equipment. Noble individuals, particularly those clad in heavy-wearing armor, often retain the services of a dedicated armorer who accompanies them at all times. This skilled armorer carries essential tools of the trade, including a hammer, replacement bolts, wire cutter, and nail puller, ensuring that the noble's armor remains in optimal condition wherever their journey takes them.</p><p></p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "custom": "Kris's Compendium of Trade Goods",
+      "license": ""
+    },
+    "quantity": 1,
+    "weight": 0.01,
+    "price": {
+      "value": 2,
+      "denomination": "cp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 1800000,
+  "ownership": {
+    "default": 0,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {
+      "sheetClass": "dnd5e.ItemSheet5e"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "_originalKey": "!items!RNgfyUG4oF92Q0ry"
+}

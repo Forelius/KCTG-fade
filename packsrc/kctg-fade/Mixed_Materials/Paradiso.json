@@ -1,0 +1,55 @@
+{
+  "name": "Paradiso",
+  "type": "loot",
+  "img": "modules/kctg-5e/images/Paradiso%20Brick.webp",
+  "system": {
+    "description": {
+      "value": "<p>Paradiso is a rare and distinct granite color, found only in a few locations throughout the realms. It is in high demand but short supply, often causing regional prices to skyrocket. Its rich purple hue gives it a premium appearance, making it an exquisite choice for indoor furniture such as countertops and tables.</p><p></p><p></p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Kris's Compendium of Trade Goods",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "rarity": "common",
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "identifier": "rock-salt",
+    "container": null,
+    "properties": [],
+    "type": {
+      "value": "treasure",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3,
+    "C3FNsGlq2Lf7wevT": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "ioDwaLKA1DUtYokk",
+  "_id": "x6PR0UOUklm32AKg",
+  "sort": 1000000,
+  "_originalKey": "!items!x6PR0UOUklm32AKg"
+}

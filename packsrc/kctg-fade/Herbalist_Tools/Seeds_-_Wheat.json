@@ -1,0 +1,40 @@
+{
+  "name": "Seeds - Wheat",
+  "type": "loot",
+  "system": {
+    "description": {
+      "value": "<p>Wheat seeds are small, brown seeds that come from the wheat plant. They are used to grow wheat, a grain that, when ground, is used to make bread, pasta, and other baked goods. It is also one of the most traded goods, along with corn seeds.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Kris's Compendium of Trade Goods",
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 2,
+      "denomination": "cp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "img": "modules/kctg-5e/images/Seeds%20Wheat.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1lLQVizFcEyOIFiI": 3,
+    "oXZDb3KKqgQDQkgQ": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "fantastic-depths"
+  },
+  "folder": "nneAAqmcEwOL9zrI",
+  "sort": 4200000,
+  "_id": "P2YCQm8BCuDcZLU0",
+  "_originalKey": "!items!P2YCQm8BCuDcZLU0"
+}
