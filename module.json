@@ -12,9 +12,7 @@
     "kctg-5e.js"
   ],
   "styles": [
-    {
-      "src": "styles/main.css"
-    }
+    "styles/main.css"
   ],
   "authors": [
     {
