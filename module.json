@@ -1,6 +1,6 @@
 {
    "id": "kctg-fade",
-   "title": "Kris's Compendium of Trade Goods - DnD5e edition",
+   "title": "Kris's Compendium of Trade Goods - Fantastic Depths edition'",
    "description": "<i>A comprehensive database of trade goods aimed at enhancing worldbuilding efforts by facilitating the distribution of resources and bringing depth to various regions, while also catering to political interests</i><br /><br /> *** Support me on <a href=\"https://patreon.com/KCTG\" title=\"PATREON\">Patreon</a> or join me on <a href=\"https://discord.gg/MYgCWdAc9c\" title=\"Discord\">Discord</a> ***<p></p>",
    "version": "1.22.0",
    "compatibility": {
@@ -28,7 +28,7 @@
       {
          "type": "setup",
          "caption": "Kris's Compendium of Trade Goods",
-         "thumbnail": "modules/kctg-fade/banner/Thumb.webp",
+         "thumbnail": "modules/kctg-5e/banner/Thumb.webp",
          "loop": false,
          "flags": {}
       }
@@ -43,7 +43,7 @@
             "PLAYER": "OBSERVER",
             "ASSISTANT": "OWNER"
          },
-         "banner": "modules/kctg-fade/banner/banner-tradegoods.webp",
+         "banner": "modules/kctg-5e/banner/banner-tradegoods.webp",
          "system": "fantastic-depths",
          "flags": {}
       },
@@ -56,7 +56,7 @@
             "PLAYER": "OBSERVER",
             "ASSISTANT": "OWNER"
          },
-         "banner": "modules/kctg-fade/banner/banner-armaments.webp",
+         "banner": "modules/kctg-5e/banner/banner-armaments.webp",
          "system": "fantastic-depths",
          "flags": {}
       }
